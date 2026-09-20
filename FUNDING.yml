@@ -1,4 +1,5 @@
 # Org-wide default: applies the "Sponsor" button to every repo in this org
 # that doesn't have its own FUNDING.yml. Points at PIR's real, existing
 # donation page until a dedicated GitHub Sponsors org profile is approved.
-custom: ["https://www.psychedelicsinrecovery.org/donate/"]
+custom: ["https://www.psychedelicsinrecovery.org/7th-tradition/"]
+# not used: ["https://www.psychedelicsinrecovery.org/donate/"]
