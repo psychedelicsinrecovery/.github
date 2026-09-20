@@ -34,11 +34,22 @@ This organization's GitHub presence is early — most of PIR®'s actual work hap
 in-person and virtual community meetings. This space exists for the technical side of that work as it
 grows: site tooling, documentation, and — eventually — any code the community needs in the open. ✨
 
-## 🚧 In the works
+## 🚧 In the works — beyond the WhatsApp thread
 
-A LitCom engagement portal and a TechCom helpdesk ticket system are currently being brainstormed —
-something a little more cool and 🍄 psychedelic than a plain contact form. Nothing live yet, but
-watch this org if it interests you.
+Right now, LitCom and TechCom run on WhatsApp threads and Zoom calls — which works, but it's not
+where anyone can *see* what's cooking, or how to jump in. 🍄 We're dreaming up something with more
+color: two portals that are equal parts help-desk, open kitchen, and open door —
+
+- 🌈 **A living status board** — what LitCom and TechCom are actually working on right now, out
+  where the whole community can watch it unfold instead of scrolling back through chat history.
+- 🎫 **A real ticket system** — report a site issue, propose a piece of content, ask a question —
+  without needing to know a single person's name or catch anyone at the right moment.
+- 🌱 **A call to service** — because the deepest version of this isn't a form, it's an invitation.
+  If reading this makes you want to get your hands dirty, don't wait for the portal —
+  **[reach out through PIR®'s service page →](https://www.psychedelicsinrecovery.org/service/)**
+  today.
+
+Nothing's live yet on the technical side. Watch this org — the trip's just getting started. 🌀
 
 ## 📊 Rabbit trails
 
@@ -63,11 +74,14 @@ above is the right place to start. Or hop straight to:
 ---
 
 <div><sub>
-Our members either have had prior experience with, or are interested in, integrating the intentional use of psychedelics and/or plant medicines into our spiritually-oriented program. Psychedelics in Recovery is not affiliated with any sect, denomination, politics, organization or institution; does not wish to engage in any controversy; neither endorses nor opposes any causes. We do not sell or promote the use of any substances. PIR provides a safe space in which we can openly discuss the role of psychedelics in our individual recovery journeys.</sub>
+Our members either have had prior experience with, or are interested in, integrating the intentional use of psychedelics and/or plant medicines into our spiritually-oriented program. Psychedelics In Recovery™ is not affiliated with any sect, denomination, politics, organization or institution; does not wish to engage in any controversy; neither endorses nor opposes any causes. We do not sell or promote the use of any substances. PIR® provides a safe space in which we can openly discuss the role of psychedelics in our individual recovery journeys.</sub>
 <sub><br><br>
 <em>While psychedelics are not considered inherently addictive, we practice mindfulness and accountability around the intentions we carry in the utilization of these medicines. We recognize that some in recovery may form addictive patterns with anything that induces altered states. If we find we are using these experiences in self-destructive ways or as a means to escape or avoid, we practice rigorous honesty with ourselves and trusted others in order to promptly restore a healthy recovery process.</em></sub>
 </div>
 <br>
 <div align="center">
-<sub>This profile is a first draft — corrections and expansions welcome as the org's public presence grows.</sub>
+<sub>
+🌵 This profile is still finding its shape, same as any good trip — nothing here is fixed in stone.
+Spot something that could be truer, warmer, or just better? Open an issue and help it grow. 🦋
+</sub>
 </div>
