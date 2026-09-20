@@ -53,10 +53,11 @@ Nothing's live yet on the technical side. Watch this org — the trip's just get
 
 ## 📊 Rabbit trails
 
-- [📰 PIR® Devine News Dashboard →](https://drasticstatic.github.io/pir-devine-news-public/dashboard) —
-  a behind-the-scenes look at the newsletter pipeline.
 - [🏠 Org root page →](https://psychedelicsinrecovery.github.io) — where the org's GitHub Pages
   presence lives.
+  
+- [📰 PIR® Devine News Dashboard →](https://drasticstatic.github.io/pir-devine-news-public/dashboard) —
+  a behind-the-scenes look at the newsletter pipeline.
 
 ## 🤝 Community health
 
