@@ -5,9 +5,9 @@ This file applies as the default contributing guide for any repository under the
 
 ## Before you contribute
 
-PIR is a recovery-community nonprofit first and a technical project second. If a repository here
+PIR® is a recovery-community nonprofit first and a technical project second. If a repository here
 touches anything related to member privacy, meeting content, or personal recovery stories, treat that
-content with the same confidentiality standards PIR's in-person and virtual meetings hold to —
+content with the same confidentiality standards PIR®'s in-person and virtual meetings hold to —
 anonymity and privacy come before any technical convenience.
 
 ## How to contribute
