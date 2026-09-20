@@ -56,12 +56,14 @@ If you found this org looking for the community itself, [Our Homepage](https://w
 above is the right place to start. Or hop straight to:
 - [🧰 More Resources →](https://www.psychedelicsinrecovery.org/resources/)
 - [💌 Contact PIR® →](https://www.psychedelicsinrecovery.org/contact/)
+- [🩸 Donate to PIR® →](https://www.psychedelicsinrecovery.org/7th-tradition/)
 
 ---
 
 <div><sub>
-  <p>Our members either have had prior experience with, or are interested in, integrating the intentional use of psychedelics and/or plant medicines into our spiritually-oriented program. Psychedelics in Recovery is not affiliated with any sect, denomination, politics, organization or institution; does not wish to engage in any controversy; neither endorses nor opposes any causes. We do not sell or promote the use of any substances. PIR provides a safe space in which we can openly discuss the role of psychedelics in our individual recovery journeys.
-  <p>While psychedelics are not considered inherently addictive, we practice mindfulness and accountability around the intentions we carry in the utilization of these medicines. We recognize that some in recovery may form addictive patterns with anything that induces altered states. If we find we are using these experiences in self-destructive ways or as a means to escape or avoid, we practice rigorous honesty with ourselves and trusted others in order to promptly restore a healthy recovery process.</sub>
+Our members either have had prior experience with, or are interested in, integrating the intentional use of psychedelics and/or plant medicines into our spiritually-oriented program. Psychedelics in Recovery is not affiliated with any sect, denomination, politics, organization or institution; does not wish to engage in any controversy; neither endorses nor opposes any causes. We do not sell or promote the use of any substances. PIR provides a safe space in which we can openly discuss the role of psychedelics in our individual recovery journeys.</sub>
+<br><sub>
+While psychedelics are not considered inherently addictive, we practice mindfulness and accountability around the intentions we carry in the utilization of these medicines. We recognize that some in recovery may form addictive patterns with anything that induces altered states. If we find we are using these experiences in self-destructive ways or as a means to escape or avoid, we practice rigorous honesty with ourselves and trusted others in order to promptly restore a healthy recovery process.</sub>
 </div>
 
 <div align="center">
