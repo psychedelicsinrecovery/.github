@@ -8,6 +8,7 @@
 [![GitHub Portal](https://img.shields.io/badge/GitHub-psychedelicsinrecovery.github.io-181717?style=flat&logo=github&logoColor=white)](https://psychedelicsinrecovery.github.io)
 &nbsp;
 [![Status](https://img.shields.io/badge/Status-%F0%9F%94%A7%20In%20Development-orange?style=flat)](https://github.com/psychedelicsinrecovery)
+<br>
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/MyprTq8w95)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/psychedelics-in-recovery-pir)
 [![Sponsor ❤ PIR® (Donate via our "7th Tradition")](https://img.shields.io/badge/Sponsor_%E2%9D%A4-FF5BBD?style=flat&logo=githubsponsors&logoColor=FF0000)](https://www.psychedelicsinrecovery.org/7th-tradition/)
