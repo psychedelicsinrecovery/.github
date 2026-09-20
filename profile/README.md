@@ -5,7 +5,7 @@
 *A safe, sacred space to integrate and discuss the role of psychedelics in your recovery journey*
 
 [![Website](https://img.shields.io/badge/🌐_Website-www.psychedelicsinrecovery.org-2E7D32?style=flat)](https://www.psychedelicsinrecovery.org)
-[![GitHub Pages](https://img.shields.io/badge/GitHub-psychedelicsinrecovery.github.io-181717?style=flat&logo=github&logoColor=white)](https://psychedelicsinrecovery.github.io)
+[![GitHub Portal](https://img.shields.io/badge/GitHub-psychedelicsinrecovery.github.io-181717?style=flat&logo=github&logoColor=white)](https://psychedelicsinrecovery.github.io)
 &nbsp;
 [![Status](https://img.shields.io/badge/Status-%F0%9F%94%A7%20In%20Development-orange?style=flat)](https://github.com/psychedelicsinrecovery)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/MyprTq8w95)
@@ -51,20 +51,17 @@ watch this org if it interests you.
 - [`CONTRIBUTING.md`](https://github.com/psychedelicsinrecovery/.github/blob/main/CONTRIBUTING.md)
 - [`SECURITY.md`](https://github.com/psychedelicsinrecovery/.github/blob/main/SECURITY.md)
 
-If you found this org looking for the community itself, [the website](https://www.psychedelicsinrecovery.org)
-above is the right place to start.
+If you found this org looking for the community itself, [Our Homepage](https://www.psychedelicsinrecovery.org)
+above is the right place to start. Or hop straight to:
+- [🧰 More Resources →](https://www.psychedelicsinrecovery.org/resources/)
+- [💌 Contact PIR® →](https://www.psychedelicsinrecovery.org/contact/)
 
 ---
 
-<div align="center">
-<sub>Our members either have had prior experience with, or are interested in, integrating the intentional use of psychedelics and/or plant medicines into our spiritually-oriented program. Psychedelics in Recovery is not affiliated with any sect, denomination, politics, organization or institution; does not wish to engage in any controversy; neither endorses nor opposes any causes. We do not sell or promote the use of any substances. PIR provides a safe space in which we can openly discuss the role of psychedelics in our individual recovery journeys.</sub>
+<div><sub>
+  <p>Our members either have had prior experience with, or are interested in, integrating the intentional use of psychedelics and/or plant medicines into our spiritually-oriented program. Psychedelics in Recovery is not affiliated with any sect, denomination, politics, organization or institution; does not wish to engage in any controversy; neither endorses nor opposes any causes. We do not sell or promote the use of any substances. PIR provides a safe space in which we can openly discuss the role of psychedelics in our individual recovery journeys.
+  <p>While psychedelics are not considered inherently addictive, we practice mindfulness and accountability around the intentions we carry in the utilization of these medicines. We recognize that some in recovery may form addictive patterns with anything that induces altered states. If we find we are using these experiences in self-destructive ways or as a means to escape or avoid, we practice rigorous honesty with ourselves and trusted others in order to promptly restore a healthy recovery process.</sub>
 </div>
-<div align="center">
-<sub>While psychedelics are not considered inherently addictive, we practice mindfulness and accountability around the intentions we carry in the utilization of these medicines. We recognize that some in recovery may form addictive patterns with anything that induces altered states. If we find we are using these experiences in self-destructive ways or as a means to escape or avoid, we practice rigorous honesty with ourselves and trusted others in order to promptly restore a healthy recovery process.</sub>
-</div>
-
-- [🧰 More Resources →](https://www.psychedelicsinrecovery.org/resources/)
-- [💌 Contact PIR® →](https://www.psychedelicsinrecovery.org/contact/)
 
 <div align="center">
 <sub>This profile is a first draft — corrections and expansions welcome as the org's public presence grows.</sub>
