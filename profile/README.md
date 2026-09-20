@@ -11,7 +11,7 @@
 <br>
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/MyprTq8w95)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/psychedelics-in-recovery-pir)
-[![Sponsor ❤ PIR® (Donate via our "7th Tradition")](https://img.shields.io/badge/Sponsor%20PIR®%20-%20"Donate%20via%20our%207th%20Tradition"_%E2%9D%A4-FF5BBD?style=flat&logo=githubsponsors&logoColor=FF0000)](https://www.psychedelicsinrecovery.org/7th-tradition/)
+[![Sponsor ❤ PIR® (Donate via our "7th Tradition")](https://img.shields.io/badge/Sponsor%20PIR®%20-%20Donate%20via%20our%20"7th%20Tradition"_%E2%9D%A4-FF5BBD?style=flat&logo=githubsponsors&logoColor=FF0000)](https://www.psychedelicsinrecovery.org/7th-tradition/)
 
 </div>
 
@@ -65,7 +65,7 @@ above is the right place to start. Or hop straight to:
 <div><sub>
 Our members either have had prior experience with, or are interested in, integrating the intentional use of psychedelics and/or plant medicines into our spiritually-oriented program. Psychedelics in Recovery is not affiliated with any sect, denomination, politics, organization or institution; does not wish to engage in any controversy; neither endorses nor opposes any causes. We do not sell or promote the use of any substances. PIR provides a safe space in which we can openly discuss the role of psychedelics in our individual recovery journeys.</sub>
 <br><sub>
-*While psychedelics are not considered inherently addictive, we practice mindfulness and accountability around the intentions we carry in the utilization of these medicines. We recognize that some in recovery may form addictive patterns with anything that induces altered states. If we find we are using these experiences in self-destructive ways or as a means to escape or avoid, we practice rigorous honesty with ourselves and trusted others in order to promptly restore a healthy recovery process.*</sub>
+<em>While psychedelics are not considered inherently addictive, we practice mindfulness and accountability around the intentions we carry in the utilization of these medicines. We recognize that some in recovery may form addictive patterns with anything that induces altered states. If we find we are using these experiences in self-destructive ways or as a means to escape or avoid, we practice rigorous honesty with ourselves and trusted others in order to promptly restore a healthy recovery process.</em></sub>
 </div>
 <br>
 <div align="center">
