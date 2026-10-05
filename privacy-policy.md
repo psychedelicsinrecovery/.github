@@ -172,6 +172,18 @@ inboxes so nothing falls through the cracks. Here's how we keep that respectful:
     servants use tools such as Claude Code, ChatGPT, Codex, and Gemini, each under their own account.
   - Some helpers connect to our websites and tools through **MCP connectors** and browser agents such as
     **Claude in Chrome**. Every website change they make is logged and can be rolled back.
+  - 🔌 **These tools connect to each other.** AI assistants today come with many integrations:
+    - **Littlebird.AI** connects to other services through sign-ins (OAuth), such as our Tech chair's
+      GitHub account, and to our WordPress sites through MCP.
+    - Our WordPress sites run MCP connectors (**EMCP Tools**, **Astra MCP**), and we've tested
+      **Jetpack AI** alongside Claude.
+    - Claude can read Littlebird.AI's context through MCP, and **Augment** shares a context engine
+      with Claude.
+    - Some PIR® Google accounts, such as the De Vine News account, are also used through the
+      **Google Workspace CLI** with Claude.
+
+    Each connection is set up deliberately by a service member, covers only what that member can
+    already access, and can be revoked at any time.
   - Some of our members use **Littlebird.AI** in their personal workflows, as an organizational
     assistant that keeps track of their work, observes the screen of the member who uses it, and prepares a daily summary of some PIR® role
     inboxes for the service member who monitors them.
@@ -389,4 +401,4 @@ of this file.
 
 | Date | Change |
 |---|---|
-| 2026-10 | Unified policy for both websites, Discord helpers and GitHub. Replaces the WordPress default templates. Adds AI transcription and personal AI assistants, Zoom, website accounts, data we receive from others, automated decisions, legal notes for members worldwide, and the living-document clause. |
+| 2026-10 | Unified policy for both websites, Discord helpers and GitHub. Replaces the WordPress default templates. Adds AI transcription, personal AI assistants and their integrations, Zoom, website accounts, data we receive from others, automated decisions, legal notes for members worldwide, and the living-document clause. |
