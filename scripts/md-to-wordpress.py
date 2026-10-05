@@ -67,6 +67,16 @@ def convert(md):
             joined=inline(' '.join(buf))
         out.append('<p>'+joined+'</p>')
     return '\n'.join(out)
-src=open(sys.argv[1]).read()
-src=re.sub(r'^# .*\n','',src,count=1)  # page title comes from WP
-print(convert(src))
+if __name__ == '__main__':
+    import argparse
+    ap = argparse.ArgumentParser(description='Markdown -> WordPress HTML')
+    ap.add_argument('markdown')
+    ap.add_argument('--source-url', help='GitHub URL of the canonical file (adds a footer)')
+    a = ap.parse_args()
+    src = open(a.markdown).read()
+    src = re.sub(r'^# .*\n', '', src, count=1)  # page title comes from WordPress
+    out = convert(src)
+    if a.source_url:
+        out += ('\n<hr />\n<p><em>This page mirrors PIR\u2019s canonical document, maintained on '
+                f'<a href="{a.source_url}">GitHub</a>. Edits happen there first.</em></p>')
+    print(out)

@@ -81,8 +81,8 @@ our shared atmosphere. So we work from three commitments:
 - Our meeting-notification signup has asked for your **first name, last initial and email**, and
   for two optional self-descriptions: that you have *a desire to recover*, and/or *an interest in
   psychedelics as an aid to transformation*. We know those statements are sensitive. We use them
-  only to send meeting information, never share them, and are setting a retention limit (see
-  [How long we keep things](#retention)).
+  only to send meeting information and never share them. Older entries are kept while we migrate
+  our tools, and **we'll delete yours on request** (see [§8](#retention)).
 - Newsletter and general signup forms collect your name and email. Signups are stored on our
   website and passed to our email provider (**Brevo**; previously **Mailchimp** and **MailPoet**)
   so we can send you mail. Every email has an unsubscribe link.
@@ -286,7 +286,8 @@ statistics from Google Analytics, Jetpack, and Brevo; and spam verdicts from Aki
 ## 9. Your choices and rights
 
 You can ask us to **show you, correct, export or delete** what we hold about you, except what
-we're legally required to keep. Unsubscribe links are in every email. Email **helpdesk@psychedelicsinrecovery.org** (or **tech@psychedelicsinrecovery.org** for data deletion) (or use `/privacy` in our Discord). A real person will
+we're legally required to keep. Unsubscribe links are in every email. Email **helpdesk@psychedelicsinrecovery.org**, or **tech@psychedelicsinrecovery.org** for data deletion
+(or use `/privacy` in our Discord). A real person will
 reply, usually within a week.
 
 ---
