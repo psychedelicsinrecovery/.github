@@ -228,7 +228,7 @@ GitHub and moderation helpdesks.
 - **When you open a helpdesk ticket:**
   - your request goes into a private Discord thread that only you and the relevant committee can
     see;
-  - LitCom, TechCom and GitHub tickets also create an entry in that committee's **private**
+  - LitCom, TechCom, GitHub and PR tickets also create an entry in that committee's **private**
     GitHub repository, so the work can be tracked;
   - moderation reports stay inside Discord.
 - **Web helpdesk sign-in** uses either your Discord account (we only receive your Discord ID and
@@ -236,8 +236,9 @@ GitHub and moderation helpdesks.
   updates on your ticket.
 - Discord itself operates under [Discord's privacy policy](https://discord.com/privacy).
 
-The full step-by-step data flow for A.L.E.X. and the desks is documented in the A.L.E.X. privacy
-notice (`psychedelicsinrecovery/alex-desk`, published with the helpdesk portals).
+The full step-by-step data flow is in the
+[A.L.E.X. privacy notice](https://psychedelicsinrecovery.github.io/alex-desk-public/privacy.html), with its
+[terms of service](https://psychedelicsinrecovery.github.io/alex-desk-public/terms.html).
 
 ---
 
