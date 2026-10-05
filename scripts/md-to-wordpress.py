@@ -9,7 +9,7 @@ Usage:
   python3 scripts/md-to-wordpress.py privacy-policy.md > /tmp/privacy.html
   python3 scripts/md-to-wordpress.py privacy-policy.md --source-url https://github.com/... > out.html
 
-Then paste the HTML into the page (Code editor), or have an agent push it via EMCP .
+Then paste the HTML into the page (Code editor), or have an agent push it via the EMCP `update-post` tool.
 The first "# Title" line is dropped because WordPress supplies the page title.
 Used for: the privacy policy (main site page ID 3) — re-run whenever privacy-policy.md changes.
 """
