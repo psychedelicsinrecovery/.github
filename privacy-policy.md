@@ -2,8 +2,10 @@
 
 **Psychedelics In Recovery™ (PIR®)** · A 501(c)(3) nonprofit fellowship
 **Applies to:** [psychedelicsinrecovery.org](https://www.psychedelicsinrecovery.org/safety-and-ethics/privacy-policy/),
-[service.psychedelicsinrecovery.org](https://service.psychedelicsinrecovery.org/privacy-policy/), PIR's GitHub
-organization, and PIR's Discord helpers (A.L.E.X. and the helpdesks).
+[service.psychedelicsinrecovery.org](https://service.psychedelicsinrecovery.org/privacy-policy/), PIR's other subdomains
+([newsletter.](https://newsletter.psychedelicsinrecovery.org), [publications.](https://publications.psychedelicsinrecovery.org),
+and the planned publicrelations.), PIR's GitHub organization and Pages sites, and PIR's Discord helpers
+(A.L.E.X. and the helpdesks).
 **Effective:** October 2026 · **Canonical source:** this file, on
 [GitHub](https://github.com/psychedelicsinrecovery/.github/blob/main/privacy-policy.md). Both
 websites display a copy, and if they ever differ, this one wins.
@@ -164,14 +166,15 @@ websites tidy, drafting documents like this one, organizing committee tasks and 
 inboxes so nothing falls through the cracks. Here's how we keep that respectful:
 
 - **The helpers work for service members, not on you.**
-  - We use **Claude** (by Anthropic) as a coding and writing assistant.
-  - We use **Littlebird** as an organizational assistant that keeps track of our work, observes
+  - Our Tech chair uses **Claude Code CLI** (by Anthropic) as a coding and writing assistant. Other
+    servants use tools such as Claude Code, ChatGPT, Codex, and Gemini, each under their own account.
+  - We use **Littlebird.AI** as an organizational assistant that keeps track of our work, observes
     the screen of the service member who uses it, and prepares a daily summary of some PIR role
     inboxes for the service member who monitors them.
 - **What they can see:**
   - website content and settings;
   - documents in our GitHub organization;
-  - and, for Littlebird, the role mailboxes it's asked to summarize, such as `board@` or
+  - and, for Littlebird.AI, the role mailboxes it's asked to summarize, such as `board@` or
     `convention@`. If you email one of those addresses, an AI assistant may help a service
     member read and sort your message.
 - **What we don't do:**
@@ -179,13 +182,13 @@ inboxes so nothing falls through the cracks. Here's how we keep that respectful:
   - we don't use AI to make decisions about you;
   - we don't build profiles of anyone.
 - **Training:**
-  - Littlebird states that it doesn't use personal data to train AI models, deletes data when an
+  - Littlebird.AI states that it doesn't use personal data to train AI models, deletes data when an
     account is closed, and holds zero-data-retention agreements with the AI providers it uses.
   - Anthropic lets account holders choose whether their conversations help train Claude. PIR asks
     service members to turn training settings off wherever a tool offers that choice.
 - 🎙️ **AI note-takers and personal assistants are part of the world now.** Service members may use
   transcription and assistant tools such as **Fathom, Otter.ai, Fireflies.ai, Notion, Zoom AI
-  Companion, Wispr Flow, Parakeet, FreeFlow, Meetily,** and **Littlebird**. Some of these observe a
+  Companion, Wispr Flow, Parakeet, FreeFlow, Meetily,** and **Littlebird.AI**. Some of these observe a
   person's own screen, so they can capture whatever that person sees, including a Zoom or WhatsApp
   window. These tools run on *individual members'* devices and accounts. PIR doesn't operate them and
   can't technically control them.
@@ -252,7 +255,7 @@ We share only what each service needs to do its job for us:
 | Automattic (Jetpack, Akismet, Gravatar) | Security, stats, spam filtering |
 | GitHub | Hosting our documents, literature and private helpdesk tickets |
 | Discord · Vercel · NVIDIA / Anthropic | Running A.L.E.X. and the helpdesks |
-| Anthropic (Claude) · Littlebird · AI meeting note-takers | AI helpers for service members, including service-meeting minutes (see [§5](#ai)) |
+| Anthropic (Claude) · Littlebird.AI · AI meeting note-takers | AI helpers for service members, including service-meeting minutes (see [§5](#ai)) |
 | Zoom | Hosting online meetings |
 
 We'll disclose information if the law requires it, and we'll tell you if we're allowed to.
@@ -270,7 +273,7 @@ statistics from Google Analytics, Jetpack, and Brevo; and spam verdicts from Aki
 - **Abandoned-checkout details:** until they're no longer useful for helping you finish (we're
   setting an automatic clean-up), or immediately on request.
 - **Older form signups** (e.g. past meeting-notification lists): kept while PIR migrates its tools, and
-  **deleted on request**. Email **tech@psychedelicsinrecovery.org**.
+  **deleted on request**. Email **[tech@psychedelicsinrecovery.org](mailto:tech@psychedelicsinrecovery.org)**.
 - **Email lists:** until you unsubscribe.
 - **Comments:** kept indefinitely, so we can recognize returning commenters, unless you ask us to
   remove them.
@@ -286,7 +289,7 @@ statistics from Google Analytics, Jetpack, and Brevo; and spam verdicts from Aki
 ## 9. Your choices and rights
 
 You can ask us to **show you, correct, export or delete** what we hold about you, except what
-we're legally required to keep. Unsubscribe links are in every email. Email **helpdesk@psychedelicsinrecovery.org**, or **tech@psychedelicsinrecovery.org** for data deletion
+we're legally required to keep. Unsubscribe links are in every email. Email **[helpdesk@psychedelicsinrecovery.org](mailto:helpdesk@psychedelicsinrecovery.org)**, or **[tech@psychedelicsinrecovery.org](mailto:tech@psychedelicsinrecovery.org)** for data deletion
 (or use `/privacy` in our Discord). A real person will
 reply, usually within a week.
 
@@ -339,8 +342,13 @@ anyone under 18. If you believe we have, contact us and we'll delete it.
 <a id="platforms"></a>
 ## 14. PIR on other platforms
 
-You can also find PIR on **TikTok, Facebook, Instagram, YouTube, LinkedIn, Spotify and Buzzsprout
-(podcast), WhatsApp, Discord and GitHub**. When you interact with us there, that platform's own
+You can also find PIR on
+[TikTok](https://www.tiktok.com/@pir_worldwide), [Facebook](https://www.facebook.com/PIR12and12),
+[Instagram](https://www.instagram.com/pirworldwide/), [YouTube](https://www.youtube.com/@Psychedelicsinrecovery),
+[LinkedIn](https://www.linkedin.com/company/psychedelics-in-recovery-pir), [Spotify](https://open.spotify.com/show/6G2xrXvUenio18hm4Nzhhe)
+and [Buzzsprout](https://integrationradioapirpodcast.buzzsprout.com/2588998/follow) (podcast),
+[WhatsApp](https://www.psychedelicsinrecovery.org/whatsapp/), [Discord](https://discord.gg/MyprTq8w95), and
+[GitHub](https://github.com/psychedelicsinrecovery). When you interact with us there, that platform's own
 privacy policy applies.
 
 ---
@@ -348,11 +356,11 @@ privacy policy applies.
 <a id="contact"></a>
 ## 15. Contact us
 
-- **Privacy and helpdesk:** helpdesk@psychedelicsinrecovery.org
-- **General:** info@psychedelicsinrecovery.org
-- **Publications:** publications@psychedelicsinrecovery.org
-- **Data deletion:** tech@psychedelicsinrecovery.org
-- **Convention:** convention@psychedelicsinrecovery.org
+- **Privacy and helpdesk:** [helpdesk@psychedelicsinrecovery.org](mailto:helpdesk@psychedelicsinrecovery.org)
+- **General:** [info@psychedelicsinrecovery.org](mailto:info@psychedelicsinrecovery.org)
+- **Publications:** [publications@psychedelicsinrecovery.org](mailto:publications@psychedelicsinrecovery.org)
+- **Data deletion:** [tech@psychedelicsinrecovery.org](mailto:tech@psychedelicsinrecovery.org)
+- **Convention:** [convention@psychedelicsinrecovery.org](mailto:convention@psychedelicsinrecovery.org)
 - 🏛️ **Board of Directors:** [service site](https://service.psychedelicsinrecovery.org/board-of-directors/) · 📡 [Contact page](https://service.psychedelicsinrecovery.org/contact/)
 - **Everyone and everything else:** [PIR contacts directory](https://github.com/psychedelicsinrecovery/.github/blob/main/CONTACTS.md)
 
@@ -370,7 +378,7 @@ service.
 anything new that affects your data. PIR's websites have been built by many volunteers over the years,
 and a well-meaning servant may sometimes add a plugin or tool before its privacy effects are
 understood. When we discover one, we review it, update this policy, and remove or reconfigure it if
-needed. Spot something we missed? Tell **tech@psychedelicsinrecovery.org**. Every change is recorded in the
+needed. Spot something we missed? Tell **[tech@psychedelicsinrecovery.org](mailto:tech@psychedelicsinrecovery.org)**. Every change is recorded in the
 [GitHub history](https://github.com/psychedelicsinrecovery/.github/commits/main/privacy-policy.md)
 of this file.
 
