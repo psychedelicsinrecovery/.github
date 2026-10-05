@@ -77,6 +77,6 @@ if __name__ == '__main__':
     src = re.sub(r'^# .*\n', '', src, count=1)  # page title comes from WordPress
     out = convert(src)
     if a.source_url:
-        out += ('\n<hr />\n<p><em>This page mirrors PIR\u2019s canonical document, maintained on '
+        out += ('\n<hr />\n<p><em>This page mirrors PIR\u00ae\u2019s canonical document, maintained on '
                 f'<a href="{a.source_url}">GitHub</a>. Edits happen there first.</em></p>')
     print(out)
