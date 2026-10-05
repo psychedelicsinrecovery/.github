@@ -1,8 +1,8 @@
-# 🛡️ PIR® Privacy Policy
+# 🛡️ PIR® Privacy Policy & Data Stewardship
 
 **Psychedelics In Recovery™ (PIR®)** · A 501(c)(3) nonprofit fellowship
-**Applies to:** [psychedelicsinrecovery.org](https://www.psychedelicsinrecovery.org),
-[service.psychedelicsinrecovery.org](https://service.psychedelicsinrecovery.org), PIR's GitHub
+**Applies to:** [psychedelicsinrecovery.org](https://www.psychedelicsinrecovery.org/safety-and-ethics/privacy-policy/),
+[service.psychedelicsinrecovery.org](https://service.psychedelicsinrecovery.org/privacy-policy/), PIR's GitHub
 organization, and PIR's Discord helpers (A.L.E.X. and the helpdesks).
 **Effective:** October 2026 · **Canonical source:** this file, on
 [GitHub](https://github.com/psychedelicsinrecovery/.github/blob/main/privacy-policy.md). Both
@@ -39,7 +39,9 @@ websites display a copy, and if they ever differ, this one wins.
 
 Anonymity is the spiritual foundation of our traditions. Taking part in PIR can involve sharing
 that you're in recovery, or that you're curious about psychedelics as part of your path, and we
-know how personal that is. So we work from three commitments:
+know how personal that is. Spiritually, anonymity isn't secrecy. It's the reminder that no one is greater or less than anyone
+else. In a world of accounts, databases, and recording devices, we honor it by respecting everyone in
+our shared atmosphere. So we work from three commitments:
 
 - **We collect as little as we can,** and only for a clear service reason.
 - **We never sell your information,** never rent it, and never use it to advertise to you on
@@ -60,7 +62,7 @@ know how personal that is. So we work from three commitments:
 | Donate | What PayPal shares with us (e.g. amount, name, email) | Receipts and our 7th Tradition records |
 | Ask A.L.E.X. a question on Discord | **Nothing**, beyond anonymous counts | We answer and forget |
 | Open a helpdesk ticket | Your request plus your Discord or email handle | So a service member can help you |
-| Join a *service* meeting where AI note-taking is on | A transcript until the minutes are approved | To prepare accurate minutes |
+| Join a *service* meeting where someone uses an AI note-taker | Whatever their tool keeps (see [§5](#ai)) | To help draft minutes |
 
 ---
 
@@ -111,6 +113,11 @@ for spam detection (**Akismet**, by Automattic). An anonymized string made from 
   records and thank you.
 - In keeping with Tradition 7, PIR is self-supporting and **declines outside contributions**.
 
+### Online meetings (Zoom)
+Unless you join with camera or audio, other participants see only your display name (an alias is
+fine). PIR's Zoom hosts can see the email address or phone number you used to join. We use them only
+to run the meeting and never share them.
+
 ### Website accounts (service members and editors)
 If you have a login on either website (for example, as a committee editor), we store your username,
 email, and profile details. You can view and edit them any time, except your username. Password-reset
@@ -158,8 +165,9 @@ inboxes so nothing falls through the cracks. Here's how we keep that respectful:
 
 - **The helpers work for service members, not on you.**
   - We use **Claude** (by Anthropic) as a coding and writing assistant.
-  - We use **Littlebird** as an organizational assistant that keeps track of our work and prepares
-    a daily summary of some PIR role inboxes for the service member who monitors them.
+  - We use **Littlebird** as an organizational assistant that keeps track of our work, observes
+    the screen of the service member who uses it, and prepares a daily summary of some PIR role
+    inboxes for the service member who monitors them.
 - **What they can see:**
   - website content and settings;
   - documents in our GitHub organization;
@@ -167,21 +175,29 @@ inboxes so nothing falls through the cracks. Here's how we keep that respectful:
     `convention@`. If you email one of those addresses, an AI assistant may help a service
     member read and sort your message.
 - **What we don't do:**
-  - we don't paste member lists, personal shares or meeting content into AI tools;
+  - we don't deliberately feed member lists or personal shares into AI tools;
   - we don't use AI to make decisions about you;
   - we don't build profiles of anyone.
 - **Training:**
   - Littlebird states that it doesn't use personal data to train AI models, deletes data when an
     account is closed, and holds zero-data-retention agreements with the AI providers it uses.
-  - Anthropic lets account holders choose whether their conversations help train Claude. **Our
-    service members keep that setting turned off for PIR work.**
-- **Service-meeting minutes.** Some *service* meetings (committee, board, and business meetings,
-  not recovery meetings) use an **AI note-taker to transcribe and help draft the minutes**, so our
-  volunteer secretaries can focus on the meeting. We let participants know at the start when
-  transcription is on, and anyone can ask for it to be paused. The minutes record service business
-  (decisions, action items, who volunteered for what), not personal shares. Transcripts are used only
-  to prepare the minutes and aren't kept longer than needed for that. **Recovery meetings are never
-  recorded or transcribed.**
+  - Anthropic lets account holders choose whether their conversations help train Claude. PIR asks
+    service members to turn training settings off wherever a tool offers that choice.
+- 🎙️ **AI note-takers and personal assistants are part of the world now.** Service members may use
+  transcription and assistant tools such as **Fathom, Otter.ai, Fireflies.ai, Notion, Zoom AI
+  Companion, Wispr Flow, Parakeet, FreeFlow, Meetily,** and **Littlebird**. Some of these observe a
+  person's own screen, so they can capture whatever that person sees, including a Zoom or WhatsApp
+  window. These tools run on *individual members'* devices and accounts. PIR doesn't operate them and
+  can't technically control them.
+  - **Service meetings** (committee, board, and business meetings) may be transcribed to help draft
+    minutes. Members who transcribe are asked to say so. Most service members dispose of transcripts
+    once the minutes are written, but each tool keeps data under its own settings.
+  - **Recovery meetings should never be recorded or transcribed.** Many meetings say so explicitly,
+    and some read a script intro reminding newcomers that, in a virtual room, others may be "watching
+    with more than human eyes."
+  - Like recording a virtual court hearing, capturing other people's shares without consent breaks
+    trust. In our community it's held together by **mutual respect, not a technical gate**. Please
+    honor it.
 - **Access is limited** to specific service members and revocable at any time, and every change
   our helpers make to the websites is logged and can be rolled back.
 
@@ -253,16 +269,16 @@ statistics from Google Analytics, Jetpack, and Brevo; and spam verdicts from Aki
 - **Orders:** as long as financial record-keeping rules require.
 - **Abandoned-checkout details:** until they're no longer useful for helping you finish (we're
   setting an automatic clean-up), or immediately on request.
-- **Meeting-notification signups:** we're setting a limit (planned: 12 months after your last
-  signup) and clearing older entries.
+- **Older form signups** (e.g. past meeting-notification lists): kept while PIR migrates its tools, and
+  **deleted on request**. Email **tech@psychedelicsinrecovery.org**.
 - **Email lists:** until you unsubscribe.
 - **Comments:** kept indefinitely, so we can recognize returning commenters, unless you ask us to
   remove them.
 - **Helpdesk tickets:** kept while useful to the committee, then archived. Ask us any time to
   delete yours.
 - **A.L.E.X. questions:** not stored.
-- **Service-meeting transcripts:** deleted once the minutes are approved; the approved minutes are
-  kept as PIR's official records, as our bylaws require.
+- **Service-meeting transcripts:** held in individual members' tools under those tools' settings; most are
+  disposed of once minutes are written. Approved minutes are kept as PIR's official records, as our bylaws require.
 
 ---
 
@@ -270,8 +286,7 @@ statistics from Google Analytics, Jetpack, and Brevo; and spam verdicts from Aki
 ## 9. Your choices and rights
 
 You can ask us to **show you, correct, export or delete** what we hold about you, except what
-we're legally required to keep. Unsubscribe links are in every email. Email
-**helpdesk@psychedelicsinrecovery.org** (or use `/privacy` in our Discord). A real person will
+we're legally required to keep. Unsubscribe links are in every email. Email **helpdesk@psychedelicsinrecovery.org** (or **tech@psychedelicsinrecovery.org** for data deletion) (or use `/privacy` in our Discord). A real person will
 reply, usually within a week.
 
 ---
@@ -306,8 +321,9 @@ what you wrote.
   medical records.
 - Card payments are handled entirely by our payment processors under their own security standards
   (PCI DSS). We never store card numbers.
-- Members in the UK, EU, and US states with privacy laws have the rights in [§9](#rights) and can use
-  them the same way. We honor the same requests for everyone, wherever you live.
+- 🌍 PIR's members live all over the world: the US, UK, EU, Switzerland, New Zealand, Costa Rica, and
+  beyond. Whatever privacy law applies where you live, you have the rights in [§9](#rights), and we honor
+  the same requests for everyone.
 
 ---
 
@@ -334,7 +350,9 @@ privacy policy applies.
 - **Privacy and helpdesk:** helpdesk@psychedelicsinrecovery.org
 - **General:** info@psychedelicsinrecovery.org
 - **Publications:** publications@psychedelicsinrecovery.org
+- **Data deletion:** tech@psychedelicsinrecovery.org
 - **Convention:** convention@psychedelicsinrecovery.org
+- 🏛️ **Board of Directors:** [service site](https://service.psychedelicsinrecovery.org/board-of-directors/) · 📡 [Contact page](https://service.psychedelicsinrecovery.org/contact/)
 - **Everyone and everything else:** [PIR contacts directory](https://github.com/psychedelicsinrecovery/.github/blob/main/CONTACTS.md)
 
 **If you're in crisis,** please don't wait for an email reply. Call or text **988** (US), text
@@ -347,11 +365,14 @@ service.
 <a id="changes"></a>
 ## 16. Changes to this policy
 
-We'll update this policy whenever our tools change, before connecting anything new that affects
-your data. Every change is recorded in the
+🌱 **This is a living document.** We update it whenever our tools change, and before connecting
+anything new that affects your data. PIR's websites have been built by many volunteers over the years,
+and a well-meaning servant may sometimes add a plugin or tool before its privacy effects are
+understood. When we discover one, we review it, update this policy, and remove or reconfigure it if
+needed. Spot something we missed? Tell **tech@psychedelicsinrecovery.org**. Every change is recorded in the
 [GitHub history](https://github.com/psychedelicsinrecovery/.github/commits/main/privacy-policy.md)
 of this file.
 
 | Date | Change |
 |---|---|
-| 2026-10 | Unified policy for both websites, Discord helpers and GitHub. Replaces the WordPress default templates. Adds AI transcription of service-meeting minutes, website accounts, data we receive from others, automated decisions, and legal notes. |
+| 2026-10 | Unified policy for both websites, Discord helpers and GitHub. Replaces the WordPress default templates. Adds AI transcription and personal AI assistants, Zoom, website accounts, data we receive from others, automated decisions, legal notes for members worldwide, and the living-document clause. |
