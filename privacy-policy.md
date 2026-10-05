@@ -181,9 +181,8 @@ inboxes so nothing falls through the cracks. Here's how we keep that respectful:
       with Claude.
     - Some PIR® Google accounts, such as the De Vine News account, are also used through the
       **Google Workspace CLI** with Claude.
-
-    Each connection is set up deliberately by a service member, covers only what that member can
-    already access, and can be revoked at any time.
+    - ✅ Each connection is set up deliberately by a service member, covers only what that member
+      can already access, and can be revoked at any time.
   - Some of our members use **Littlebird.AI** in their personal workflows, as an organizational
     assistant that keeps track of their work, observes the screen of the member who uses it, and prepares a daily summary of some PIR® role
     inboxes for the service member who monitors them.
