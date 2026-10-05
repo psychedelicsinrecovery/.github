@@ -214,7 +214,7 @@ we'd want for our own information.
 
 PIR's Discord has a helper called **A.L.E.X.** (*Astral Logic Endpoint eXpander*). It answers
 questions using PIR's public website and published literature, and runs our LitCom, TechCom,
-GitHub and moderation helpdesks.
+GitHub, PR and moderation helpdesks.
 
 - **A.L.E.X. can't read your chats.** It only sees what you type into its own slash commands and
   forms, such as `/ask` or `/techcom`.
