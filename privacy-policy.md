@@ -231,8 +231,12 @@ PIR®'s Discord has a helper called **A.L.E.X.** (*Astral Logic Endpoint eXpande
 questions using PIR®'s public website and published literature, and runs our LitCom, TechCom,
 GitHub, PR and moderation helpdesks.
 
-- **A.L.E.X. can't read your chats.** It only sees what you type into its own slash commands and
-  forms, such as `/ask` or `/techcom`.
+- **A.L.E.X. can't read your chats.** It only sees what you type into its own slash commands,
+  buttons and forms, such as `/ask` or `/techcom`.
+- 💬 **One exception, clearly marked: the ask-alex channel.** When its conversation mode is switched
+  on, A.L.E.X. reads messages posted **in that one channel only**, so members can talk to it
+  without commands. Those messages are handled exactly like `/ask` and are not stored. The
+  channel's pinned message always says whether conversation mode is on.
 - **When you `/ask`:**
   - your question goes to an AI model to write the answer;
   - during our pilot that's an NVIDIA-hosted model, and later possibly Anthropic's Claude;
@@ -400,4 +404,4 @@ of this file.
 
 | Date | Change |
 |---|---|
-| 2026-10 | Unified policy for both websites, Discord helpers and GitHub. Replaces the WordPress default templates. Adds AI transcription, personal AI assistants and their integrations, Zoom, website accounts, data we receive from others, automated decisions, legal notes for members worldwide, and the living-document clause. |
+| 2026-10 | Unified policy for both websites, Discord helpers and GitHub. Replaces the WordPress default templates. Adds AI transcription, personal AI assistants and their integrations, the ask-alex conversation channel, Zoom, website accounts, data we receive from others, automated decisions, legal notes for members worldwide, and the living-document clause. |
