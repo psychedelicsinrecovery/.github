@@ -250,9 +250,9 @@ GitHub, PR and moderation helpdesks.
   - LitCom, TechCom, GitHub and PR tickets also create an entry in that committee's **private**
     GitHub repository, so the work can be tracked;
   - moderation reports stay inside Discord.
-- **Web helpdesk sign-in** uses either your Discord account (we only receive your Discord ID and
-  username) or a **one-time email link**, with no password. We keep your email only to send
-  updates on your ticket.
+- **The web desk** uses a **one-time email link**, with no password. **We don't store your email
+  address:** your tickets are matched by a scrambled tag made from it, and your session stays in your
+  own browser.
 - Discord itself operates under [Discord's privacy policy](https://discord.com/privacy).
 
 The full step-by-step data flow is in the
