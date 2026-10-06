@@ -44,13 +44,30 @@ own focus. The Elections Committee confirmed this structure for the next round
 
 | 🪑 Seat | 🎯 Role focus |
 |---|---|
-| 🏛️ President | Leads the Board |
-| 🖋️ Secretary | Records and correspondence |
-| 💰 Treasurer | Finances and the 7th Tradition |
+| 🏛️ President | Leadership, governance oversight and strategic direction |
+| 🖋️ Secretary | Governance integrity, documentation and compliance |
+| 💰 Treasurer | Financial oversight, accountability and sustainability |
 | 1️⃣ Member-at-Large: **GSR Chair** | Fellowship representation and the communication pipeline |
 | 2️⃣ Member-at-Large: **Founder** | Institutional memory and mission continuity |
 | 3️⃣ Member-at-Large: **Fellowship Representative** | The general membership's voice |
 | 4️⃣ Member-at-Large: **External Advisor** | Outside expertise and strategic guidance |
+
+<details><summary>📋 Officer core functions</summary>
+
+- **🏛️ President:** serves as PIR's chief executive officer and leads the Board in its governance
+  responsibilities: presides over Board meetings and guides decisions, leads strategic planning,
+  ensures Board-approved initiatives are carried out, represents PIR as its primary ambassador, and
+  supports Board development, recruitment and performance.
+- **🖋️ Secretary:** keeps accurate records and supports transparency and continuity: records and keeps
+  Board and committee minutes, ensures proper notice and documentation of meetings, maintains
+  organizational records and governance documents, helps communicate decisions across the Board, and
+  keeps PIR aligned with its bylaws and legal requirements.
+- **💰 Treasurer:** oversees PIR's financial health and responsible stewardship: monitors and reports on
+  finances, supports the annual budget, ensures financial controls and policies are in place, oversees
+  financial reporting and required filings, and advises the Board on financial strategy and
+  sustainability.
+
+</details>
 
 Today, Karyn S serves as Member-at-Large and GSR chair. David L served as the inaugural Member-at-Large.
 
