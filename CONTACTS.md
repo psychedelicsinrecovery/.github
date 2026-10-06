@@ -32,10 +32,27 @@ reads, and DNS lookups). 🙏 Please ask for access instead of creating parallel
 | **Anne R** | 📣 PR chair · 🖋️ Board Secretary | 🇬🇧 London | [Nanou2012](https://github.com/Nanou2012) |
 | **David K** | 💬 Discord owner | 🇺🇸 Alaska | 🙈 |
 | **Douglas N** | 🗞️ De Vine News editor · 🧱 12 Step subcommittee chair | 🇺🇸 California | 🙈 |
-| **Karyn S** | 🏛️ Board · ⚖️ GSR contact | 🇺🇸 Florida | 🙈 |
+| **Karyn S** | 🏛️ Board Member-at-Large · ⚖️ GSR chair | 🇺🇸 Florida | 🙈 |
 | **Erin S** | 🏛️ Board · 💰 Treasurer | 🇺🇸 Florida | 🙈 |
 | **Lauren D** | 🎪 Convention | 🇺🇸 Colorado | 🙈 |
 | **Christopher W** | 💻 TechCom chair · 📜 LitCom chair · 📣 PR liaison | 🇺🇸 Pennsylvania | [drasticstatic](https://github.com/drasticstatic) |
+
+### 🗳️ Board seats & the next election
+PIR's Board of Directors (a 501(c)(3)) has three officers and **four Members-at-Large**, each with its
+own focus. The Elections Committee confirmed this structure for the next round
+([details, linked from the Board page](https://docs.google.com/document/d/1TskArvRXC_ty709WJvYXnQx_LyZDlpFr/edit)):
+
+| 🪑 Seat | 🎯 Role focus |
+|---|---|
+| 🏛️ President | Leads the Board |
+| 🖋️ Secretary | Records and correspondence |
+| 💰 Treasurer | Finances and the 7th Tradition |
+| 1️⃣ Member-at-Large: **GSR Chair** | Fellowship representation and the communication pipeline |
+| 2️⃣ Member-at-Large: **Founder** | Institutional memory and mission continuity |
+| 3️⃣ Member-at-Large: **Fellowship Representative** | The general membership's voice |
+| 4️⃣ Member-at-Large: **External Advisor** | Outside expertise and strategic guidance |
+
+Today, Karyn S serves as Member-at-Large and GSR chair. David L served as the inaugural Member-at-Large.
 
 ### 🕯️ In loving memory
 **David L** was part of PIR from its earliest days. He served as Tech chair and as our fellowship historian, helped build PIR's original website (much of its
