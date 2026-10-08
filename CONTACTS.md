@@ -30,7 +30,7 @@ reads, and DNS lookups). 🙏 Please ask for access instead of creating parallel
 |---|---|---|---|
 | **Kevin F** | 🏛️ President, founder | 🇺🇸 Colorado | 🙈 |
 | **Anne R** | 📣 PR chair · 🖋️ Board Secretary | 🇬🇧 London | [Nanou2012](https://github.com/Nanou2012) |
-| **David K** | 💬 Discord owner | 🇺🇸 Alaska | 🙈 |
+| **David K** | 💬 Discord owner (`davidk0907`) | 🇺🇸 Alaska | 🙈 |
 | **Douglas N** | 🗞️ De Vine News editor · 🧱 12 Step subcommittee chair | 🇺🇸 California | 🙈 |
 | **Karyn S** | 🏛️ Board Member-at-Large · ⚖️ GSR chair | 🇺🇸 Florida | 🙈 |
 | **Erin S** | 🏛️ Board · 💰 Treasurer | 🇺🇸 Florida | 🙈 |
