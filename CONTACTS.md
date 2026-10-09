@@ -37,6 +37,8 @@ reads, and DNS lookups). 🙏 Please ask for access instead of creating parallel
 | **Lauren D** | 🎪 Convention | 🇺🇸 Colorado | 🙈 | — |
 | **Christopher W** | 💻 TechCom chair · 📜 LitCom chair · 📣 PR liaison | 🇺🇸 Pennsylvania | [drasticstatic](https://github.com/drasticstatic) | `drasticstatic` |
 
+> 💬 **Discord handles** help members check who's real before trusting a DM (see 🤨whos-who and 🚨disclaimer in PIR®'s Discord). "—" means not on Discord yet.
+
 ### 🗳️ Board seats & the next election
 PIR's Board of Directors (a 501(c)(3)) has three officers and **four Members-at-Large**, each with its
 own focus. The Elections Committee confirmed this structure for the next round
