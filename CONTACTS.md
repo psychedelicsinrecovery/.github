@@ -26,16 +26,16 @@ reads, and DNS lookups). 🙏 Please ask for access instead of creating parallel
 > initial**. Full names, emails, and LinkedIn profiles are available to org members, and those in
 > service know who's who.
 
-| 🙋 Name | 🛠️ Service | 📍 Region | 🐙 GitHub |
-|---|---|---|---|
-| **Kevin F** | 🏛️ President, founder | 🇺🇸 Colorado | 🙈 |
-| **Anne R** | 📣 PR chair · 🖋️ Board Secretary | 🇬🇧 London | [Nanou2012](https://github.com/Nanou2012) |
-| **David K** | 💬 Discord owner (`davidk0907`) | 🇺🇸 Alaska | 🙈 |
-| **Douglas N** | 🗞️ De Vine News editor · 🧱 12 Step subcommittee chair | 🇺🇸 California | 🙈 |
-| **Karyn S** | 🏛️ Board Member-at-Large · ⚖️ GSR chair | 🇺🇸 Florida | 🙈 |
-| **Erin S** | 🏛️ Board · 💰 Treasurer | 🇺🇸 Florida | 🙈 |
-| **Lauren D** | 🎪 Convention | 🇺🇸 Colorado | 🙈 |
-| **Christopher W** | 💻 TechCom chair · 📜 LitCom chair · 📣 PR liaison | 🇺🇸 Pennsylvania | [drasticstatic](https://github.com/drasticstatic) |
+| 🙋 Name | 🛠️ Service | 📍 Region | 🐙 GitHub | 💬 Discord |
+|---|---|---|---|---|
+| **Kevin F** | 🏛️ President, founder | 🇺🇸 Colorado | 🙈 | — |
+| **Anne R** | 📣 PR chair · 🖋️ Board Secretary | 🇬🇧 London | [Nanou2012](https://github.com/Nanou2012) | `Nanou2012` |
+| **David K** | 💬 Discord owner | 🇺🇸 Alaska | 🙈 | `davidk0907` |
+| **Douglas N** | 🗞️ De Vine News editor · 🧱 12 Step subcommittee chair | 🇺🇸 California | 🙈 | — |
+| **Karyn S** | 🏛️ Board Member-at-Large · ⚖️ GSR chair | 🇺🇸 Florida | 🙈 | — |
+| **Erin S** | 🏛️ Board · 💰 Treasurer | 🇺🇸 Florida | 🙈 | `erinstacey` |
+| **Lauren D** | 🎪 Convention | 🇺🇸 Colorado | 🙈 | — |
+| **Christopher W** | 💻 TechCom chair · 📜 LitCom chair · 📣 PR liaison | 🇺🇸 Pennsylvania | [drasticstatic](https://github.com/drasticstatic) | `drasticstatic` |
 
 ### 🗳️ Board seats & the next election
 PIR's Board of Directors (a 501(c)(3)) has three officers and **four Members-at-Large**, each with its
