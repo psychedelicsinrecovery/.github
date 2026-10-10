@@ -73,6 +73,16 @@ own focus. The Elections Committee confirmed this structure for the next round
 
 Today, Karyn S serves as Member-at-Large and GSR chair. David L served as the inaugural Member-at-Large.
 
+### 🌱 Founders & early servants
+PIR grew from a handful of people who said yes before there was anything to join.
+
+- 🖋️ **Rick B**: founding member and former Board Secretary. 🎖️ His medallion honors our roots and those who
+  shaped the journey, without naming them.
+- 💰 **Todd Y**: founding member and former Board Treasurer.
+- 🌱 **Mitch**: remembered by many members as one of PIR's founders.
+- 🌾 **And the many unnamed servants** who helped plant and water the seed. Thank you. Others will be credited
+  here as they wish.
+
 ### 🕯️ In loving memory
 **David L** was part of PIR from its earliest days. He served as Tech chair and as our fellowship historian, helped build PIR's original website (much of its
 blog and library), and served on the inaugural Board as its Member-at-Large. We lost him to addiction
