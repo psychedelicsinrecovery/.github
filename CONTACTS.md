@@ -5,7 +5,7 @@
 
 # 📇 PIR® Contacts, Mailboxes, Domains & Structure
 
-🗓️ Last verified: 2026-10-05 (👁️ Alfred · ClaudeCodeCLI, from Christopher's notes, live WordPress
+🗓️ Last verified: 2026-10-11 (👁️ Alfred · ClaudeCodeCLI, from Christopher's notes, live WordPress
 reads, and DNS lookups). 🙏 Please ask for access instead of creating parallel accounts.
 
 > 🙈 **Some details are members-only.** Full names, personal emails, and internal notes live in the
@@ -71,7 +71,8 @@ own focus. The Elections Committee confirmed this structure for the next round
 
 </details>
 
-Today, Karyn S serves as Member-at-Large and GSR chair. David L served as the inaugural Member-at-Large.
+Today, Karyn S serves as Member-at-Large and GSR chair. David L served as the inaugural
+Member-at-Large and also as Tech chair.
 
 ### 🌱 Founders & early servants
 PIR grew from a handful of people who said yes before there was anything to join.
@@ -80,8 +81,10 @@ PIR grew from a handful of people who said yes before there was anything to join
   shaped the journey, without naming them.
 - 💰 **Todd Y**: founding member and former Board Treasurer.
 - 🌱 **Mitch**: remembered by many members as one of PIR's founders.
-- 🌾 **And the many unnamed servants** who helped plant and water the seed. Thank you. Others will be credited
-  here as they wish.
+- 🌾 **And the many unnamed servants** who helped plant and water the seed. Thank you. Names on this
+  page aren't credit or rank — in keeping with our anonymity tradition, no one is greater than
+  another, and we act in the voice of the fellowship as one. Names are simply communication tools:
+  they help people find each other and understand who holds which role, nothing more.
 
 ### 🕯️ In loving memory
 **David L** was part of PIR from its earliest days. He served as Tech chair and as our fellowship historian, helped build PIR's original website (much of its
@@ -89,7 +92,8 @@ blog and library), and served on the inaugural Board as its Member-at-Large. We 
 in September 2026. 💜 *[The Board's statement](https://docs.google.com/document/d/1u1Qc0-nU-n-pIQ3D7KcaeFuMj8Na6Nz7jstaR9Ei6xk/edit?tab=t.0).*
 A.L.E.X. and these helpdesks are built partly in his name: so that people can be honest about
 struggle, stay connected, and find help when they need it most. Others who helped build the
-original site will be credited here as they wish.
+original site are remembered here the same way — not ranked or credited above one another, simply
+named so the people carrying this work forward know who came before.
 
 ### 🧑‍💻 GitHub organization roles (tiered access)
 | 🎚️ Role | 👤 Who | 🔓 What it can do |
