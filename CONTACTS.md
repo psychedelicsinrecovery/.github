@@ -84,7 +84,7 @@ PIR grew from a handful of people who said yes before there was anything to join
 - 🌾 **And the many unnamed servants** who helped plant and water the seed. Thank you. Names on this
   page aren't credit or rank — in keeping with our anonymity tradition, no one is greater than
   another, and we act in the voice of the fellowship as one. Names are simply communication tools:
-  they help people find each other and understand who holds which role, nothing more.
+  they help people find each other and understand who holds which role.
 
 ### 🕯️ In loving memory
 **David L** was part of PIR from its earliest days. He served as Tech chair and as our fellowship historian, helped build PIR's original website (much of its
@@ -94,6 +94,14 @@ A.L.E.X. and these helpdesks are built partly in his name: so that people can be
 struggle, stay connected, and find help when they need it most. Others who helped build the
 original site are remembered here the same way — not ranked or credited above one another, simply
 named so the people carrying this work forward know who came before.
+
+**Mitch** was there at the beginning, before there was anything yet to join, and said yes anyway —
+remembered by many members as one of PIR's founders. Christopher never had the chance to know him,
+and the fuller story of his time here hasn't been written down yet; that's named here honestly
+rather than smoothed over. What's true regardless: he's part of what this fellowship is built on,
+not a faint memory but a presence this community still carries forward, the same as anyone we hold
+close whether they walk beside us now or on the other side of the veil. 💜 If you knew Mitch and can
+help fill in what's missing here, please reach out.
 
 ### 🧑‍💻 GitHub organization roles (tiered access)
 | 🎚️ Role | 👤 Who | 🔓 What it can do |
@@ -156,7 +164,7 @@ these exist.
 | ✅ [service.psychedelicsinrecovery.org](https://service.psychedelicsinrecovery.org) | Service WordPress site |
 | 🚧 [newsletter.psychedelicsinrecovery.org](https://newsletter.psychedelicsinrecovery.org) | **Live, but a placeholder template, not PIR content yet.** The future home of De Vine News editions; the WordPress `/newsletter/` page will point here. |
 | 🚧 [publications.psychedelicsinrecovery.org](https://publications.psychedelicsinrecovery.org) | **Live, but a placeholder template, not PIR content yet.** The future home of PIR Publications. |
-| ⚠️ [publicrelations.psychedelicsinrecovery.org](https://publicrelations.psychedelicsinrecovery.org) | **Planned, doesn't exist yet** (a 404 is expected). It comes after the main and service sites are brought into harmony. |
+| 🚧 [publicrelations.psychedelicsinrecovery.org](https://publicrelations.psychedelicsinrecovery.org) | **Created 2026-10-11** (fresh WordPress + W3 Total Cache, WPX). DNS now resolves; WPX hasn't issued a real SSL certificate yet (still self-signed as of creation), so `/wp-admin` isn't reachable yet — expected to resolve on its own shortly. Future home of the PR/communications portal, part of the "every committee gets its own site" plan alongside `newsletter.` and `publications.`. |
 | ✅ [psychedelicsinrecovery.github.io](https://psychedelicsinrecovery.github.io) | PIR's GitHub Pages hub (changelog, library, desk portals) |
 
 🧭 The roadmap: the WordPress newsletter, PR, and book pages point to these dedicated subdomains, so
