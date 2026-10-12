@@ -164,7 +164,7 @@ these exist.
 | ✅ [service.psychedelicsinrecovery.org](https://service.psychedelicsinrecovery.org) | Service WordPress site |
 | 🚧 [newsletter.psychedelicsinrecovery.org](https://newsletter.psychedelicsinrecovery.org) | **Live, but a placeholder template, not PIR content yet.** The future home of De Vine News editions; the WordPress `/newsletter/` page will point here. |
 | 🚧 [publications.psychedelicsinrecovery.org](https://publications.psychedelicsinrecovery.org) | **Live, but a placeholder template, not PIR content yet.** The future home of PIR Publications. |
-| 🚧 [publicrelations.psychedelicsinrecovery.org](https://publicrelations.psychedelicsinrecovery.org) | **Created 2026-10-11** (fresh WordPress + W3 Total Cache, WPX). DNS now resolves; WPX hasn't issued a real SSL certificate yet (still self-signed as of creation), so `/wp-admin` isn't reachable yet — expected to resolve on its own shortly. Future home of the PR/communications portal, part of the "every committee gets its own site" plan alongside `newsletter.` and `publications.`. |
+| 🚧 [publicrelations.psychedelicsinrecovery.org](https://publicrelations.psychedelicsinrecovery.org) | **Live, but not built out yet.** Created 2026-10-11 (fresh WordPress + W3 Total Cache, WPX); SSL issued by WPX on 2026-10-12 once DNS carried WPX's four CDN A records. Admins: Christopher, Anne, Kevin. Future home of the PR/communications portal, part of the "every committee gets its own site" plan alongside `newsletter.` and `publications.`. |
 | ✅ [psychedelicsinrecovery.github.io](https://psychedelicsinrecovery.github.io) | PIR's GitHub Pages hub (changelog, library, desk portals) |
 
 🧭 The roadmap: the WordPress newsletter, PR, and book pages point to these dedicated subdomains, so
