@@ -81,6 +81,9 @@ PIR grew from a handful of people who said yes before there was anything to join
   shaped the journey, without naming them.
 - 💰 **Todd Y**: founding member and former Board Treasurer.
 - 🌱 **Mitch**: remembered by many members as one of PIR's founders.
+- 📜 **Mike B**: LitCom chair before Christopher. He was also the bridge that led Christopher to
+  Psanctuary, one of the first threads between PIR and the wider family of healing communities
+  we now build alongside.
 - 🌾 **And the many unnamed servants** who helped plant and water the seed. Thank you. Names on this
   page aren't credit or rank — in keeping with our anonymity tradition, no one is greater than
   another, and we act in the voice of the fellowship as one. Names are simply communication tools:
