@@ -1,1 +1,616 @@
-# 📜 By-Laws of Psychedelics In Recovery™ – PIR®\n\n> **The governing document of our fellowship** — adopted by the initial Board of Directors on 10/06/2021, amended since, and always current here. 🌍\n> *This is the canonical, versioned source. If any other copy differs, this file wins. Official signed copies are available upon request from the Board Secretary.*\n\n**🗺️ On this page**\n\n- 🗳️ Article I — Meetings\n- 🪑 Article II — Directors\n- 🧭 Article III — Officers\n- 🧑‍🤝‍🧑 Article IV — Staff\n- 📘 Article V — Policies & Procedures\n- 🪧 Article VI — Corporate Seal & Instruments\n- ✏️ Article VII — Amendments\n- 🛡️ Article VIII — Indemnification\n- 🌅 Article IX — Dissolution\n- ⚖️ Article X — Conflict of Interest Policy\n- 👑 President · 📔 Secretary · 💰 Treasurer\n- 🌟 Board Member At-Large · 📣 GSR Chair · 🌱 Founder · 🤝 Fellowship Rep · 🔭 External Advisor\n- 🛡️ Compliance Requirements for Insurance\n- ⚖️ Appendix — Conflict of Interest Policy & Annual Statement\n\n---\n\n\nThe name of the organization is Psychedelics In Recovery. The organization is organized in\naccordance with the Colorado Corporations and Associations Act as amended. The organization has not been formed for the making of any profit, or personal financial gain. The assets and income of the organization shall not be distributable to, or benefit the trustees, directors, or officers or other individuals. The assets and income shall only be used to promote corporate purposes as described below. Nothing contained herein, however, shall be deemed to prohibit the payment of reasonable compensation to employees and independent contractors for services provided for the benefit of the organization. This organization shall not carry on any\nother activities not permitted to be carried on by an organization exempt from federal income tax. The organization shall not endorse, contribute to, work for, or otherwise support (or oppose) a candidate for public office. The purpose of the organization is the following:\n\n**Educate and support the addiction recovery community for individuals to have a safe space to explore addiction recovery options.**\n\nThe organization is organized exclusively for purposes pursuant to section 501(c)(3) of the Internal Revenue Code.\n\n## 🗳️ Article I — Meetings\n\n**Section 1**. Annual Meeting. An annual meeting shall be held once each calendar year for the purpose of electing directors and for the transaction of such other business as may properly come before the meeting. The annual meeting shall be held at the time and place designated by the Board of Directors from time to time.\n\n**Section 2.** Special Meetings. Special meetings may be requested by the President or the Board of Directors. A special meeting of members is not required to be held at a geographic location if the meeting is held by means of the internet of other electronic communications technology in a manner pursuant to which the members have the opportunity to read or hear the proceedings substantially concurrent with the occurrence of the proceedings, note on matters submitted to the members, pose questions, and make comments.\n\n**Section 3.** Notice. Written notice of all meetings shall be provided under this section or as otherwise required by law. The Notice shall state the place, date, and hour of meeting, and if for a special meeting, the purpose of the meeting. Such notice shall be mailed to all directors of record at the address shown on the corporate books, at least 10 days prior to the meeting. The Notice can be by any written form as long as it is provided to all Board of Directors.\n\n**Section 4.** Place of Meeting. Meetings shall be held at the organization's principal place of business unless otherwise stated in the notice. Unless the articles of incorporation or bylaws provide otherwise, the board of directors may permit any or all directors to participate in a regular or special meeting by, or conduct the meeting through the use of, any means of communication by which all directors participating may simultaneously hear each other during this meeting. A director participating in a meeting by this means shall be deemed to be present in person at the meeting.\n\n**Section 5**. Quorum. A simple majority of the directors shall constitute a quorum at a meeting. In the absence of a quorum, a majority of the directors may adjourn the meeting to another time without further notice. If a quorum is represented at an adjourned meeting, any business may be transacted that might have been transacted at the meeting as originally scheduled. The directors present at a meeting represented by a quorum may continue to transact business until adjournment, even if the withdrawal of some directors results in representation of less than a quorum. Unless another section of the Bylaws require majority to vote for important issues.\n\n**Section 6**. Informal Action. Any action required to be taken, or which may be taken, at a meeting, may be taken without a meeting and without prior notice if a consent in writing, setting forth the action so taken, is signed by the directors with respect to the subject matter of the vote.\n\n## 🪑 Article II — Directors\n\n**Section 1**. Number of Directors. The organization shall be managed by a Board of Directors consisting of a minimum of 3 and a max of 11 with a goal of 7 director(s).\nThe Board shall consist of :\n\n* the Executive Committee (President, Secretary, and Treasurer), all voting members\n* the Chair of the General Service Committee, Member-at-large; voting member\n* Member at large (Founding member), non voting member\n* Member at large (All paths of Recovery adviser),  non voting member\n* Member at large (Fellowship rep), voting member.\n\n**Section 2.** Election and Term of Office. The directors, besides the chair of the General Service Committee, shall be elected at the annual meeting by the Board of Directors. Each director shall serve a term of 2 year(s), or until a successor has been elected and qualified. The Chair of the General Service Committee shall be voted into the position by the committee.\n\n**Section 3**. Quorum. A simple majority of directors shall constitute a quorum.\n\n**Section 4**. Adverse Interest. In the determination of a quorum of the directors, or in voting, the disclosed adverse interest of a director shall not disqualify the director or invalidate his or her vote unless a clear conflict of interest is present as defined by the conflict of interest policy.\n\n**Section 5**. Regular Meeting. The Board of Directors shall meet immediately after the election for the purpose of electing its new officers, appointing new committee chairpersons and for transacting such other business as may be deemed appropriate. The Board of Directors may provide, by resolution, for additional regular meetings without notice other than the notice provided by the resolution.\n\n**Section 6** Special Meeting. Special meetings may be requested by the President, Secretary,\nor any two directors by providing five days' written notice by ordinary United States mail or email, effective when mailed. Minutes of the meeting shall be sent to the Board of Directors within two weeks after the meeting. A special meeting of members is not required to be held at a geographic location if the meeting is held by means of the internet or other electronic communications technology in a manner pursuant to which the members have the opportunity to read or hear the proceedings substantially concurrent with the occurrence of the proceedings, note on matters submitted to the members, pose questions, and make comments.\n\n**Section 7.** Procedures. The vote of a majority of the directors present at a properly called meeting at which a quorum is present shall be the act of the Board of Directors, unless the vote of a greater number is required by law or by these by-laws for a particular resolution. A director of the organization who is present at a meeting of the Board of Directors at which action on any corporate matter is taken shall be presumed to have assented to the action taken unless their dissent shall be entered in the minutes of the meeting. The Board shall keep written minutes of its proceedings in its permanent records.\n\n**Section 8.** Informal Action. Any action required to be taken at a meeting of directors, or any action which may be taken at a meeting of directors or of a committee of directors, may be taken without a meeting if a consent in writing setting forth the action so taken, is signed or agreed upon by all of the directors or all of the members of the committee of directors, as the case may be.\n\n**Section 9.** Removal / Vacancies. A director shall be subject to removal, with or without cause, at a meeting called for that purpose. Any vacancy that occurs on the Board of Directors, except as described below, whether by death, resignation, removal or any other cause, may be filled by the remaining directors. A director elected to fill a vacancy shall serve the remaining term of his or her predecessor, or until a successor has been elected and qualified. The General Service Committee will be responsible for electing their new Chair within three months of removal.\n\n**Section 10.** Committees. To the extent permitted by law, the Board of Directors may appoint from its members a committee or committees, temporary or permanent, and designate the duties, powers and authorities of such committees.\n\nThe Executive Committee shall be defined as the President, Secretary, Treasurer.\n\nThe Finance Committee shall be chaired by the Treasurer and co-chaired by a Member-at-Large to review monthly budgets, or annual budgets under established parameters. Other members of PIR or the board may serve on this committee at the discretion of the Co-Chairs.\n\nThe Program Committee shall be chaired by the Board President, or a board approved designate, and will consist of all of the chairs of PIR's operational committees.\n\n## 🧭 Article III — Officers\n\n\n**Section 1.** Number of Officers. The officers of the organization shall be a President, a Treasurer, Secretary, and optionally an Executive Director. Two or more offices may be held by one person. The President may not serve concurrently as the Treasurer unless authorized by the Board of Directors for a temporary period of time.\n\nThe President shall be the chief executive officer and shall preside at all meetings of the Board of Directors and its Executive Committee. The President shall also chair the Program Committee.\n\nThe Secretary shall give notice of all meetings of the Board of Directors and Executive Committee, shall keep an accurate list of the directors, and shall have the authority to certify any\nrecords, or copies of records, as the official records of the organization. The Secretary shall\nmaintain the minutes of the Board of Directors' meetings and all committee meetings.\n\nTreasurer/CFO. The Treasurer shall be responsible for conducting the financial affairs of the\norganization as directed and authorized by the Board of Directors and Executive Committee, if any, and shall make reports of corporate finances as required, but no less often than at each meeting of the Board of Directors and Executive Committee. The Treasurer shall Chair the Finance committee.\n\n**Section 2.** Election and Term of Office. The Board of Directors shall be nominated and chosen by the existing Board of Directors at minimum one month prior to PIR's annual meeting.\nThe nominees bios and arguments for vote shall be shared with the member base one month prior to the annual meeting with the vote by the Board of Directors occurring during the annual meeting. The reading and acceptance of the votes will take place at the Annual Board of Directors Meeting. Each board member shall serve a two year term or until a successor has been elected and qualified in alternating election years.\n\n**Section 3.** Removal or Vacancy. The Board of Directors shall have the power to remove an officer or agent of the organization. Any vacancy that occurs for any reason may be filled by the Board of Directors on an interim basis until the next election cycle.\n\n## 🧑‍🤝‍🧑 Article IV — Staff\n\n\nAt the discretion of and approval by the Board of Directors, PIR may employ paid staff.\nThe Board of Directors may authorize the hiring of an Executive Director (ED) to manage the daily operations of the organization through a Board approved job description. The ED will be responsible for the management of all other PIR staff and will report to the President of the Board or a designate. The ED works at the discretion of the Board of Directors, is recruited by a special board committee, and hired by majority vote of the Board.\n\nIf an ED position  is in place, PIR staff report directly to the ED and take direction exclusively from the ED. The ED will have an annual review by the Board.\n\nThe Board of Directors will ensure that all payroll, taxes, and other legal employment requirements are established, current, and abided by.\n\n## 📘 Article V — Policies & Procedures\n\nThe Board of Directors will establish organizational policies and procedures to insure the wellbeing, safety, and viability of PIR. Including, but not limited to, a Board communication policy, a volunteer and staff communication policy, a volunteer and staff safety plan, and general HR standards.\n\n## 🪧 Article VI — Corporate Seal & Instruments\n\nThe organization shall not have a corporate seal. All instruments that are executed on behalf of the organization which are acknowledged and which affect an interest in real estate shall be executed by the President, and the Secretary or Treasurer. All other instruments executed by the organization, including a release of mortgage or lien, may be executed by the President or the Executive Director. Notwithstanding the preceding provisions of this section, any written instrument may be executed by any officer(s) or agent(s) that are specifically designated by resolution of the Board of Directors.\n\n\n## ✏️ Article VII — Amendments\n\nThe bylaws may be amended, altered, or repealed by the Board of Directors by a ⅔ majority of a quorum vote at any regular or special meeting. The text of the proposed change shall be distributed to all board members at least ten (10) days before the meeting.\n\n## 🛡️ Article VIII — Indemnification\n\nAny director or officer who is involved in litigation by reason of his or her position as a director or officer of this organization shall be indemnified and held harmless by the organization to the fullest extent authorized by law as it now exists or may subsequently be amended (but, in the case of any such amendment, only to the extent that such amendment permits the organization to provide broader indemnification rights).\n\n## 🌅 Article IX — Dissolution\n\nThe organization may be dissolved only with authorization of its Board of Directors given at a special meeting called for that purpose, and with the subsequent approval by no less than two-thirds (2/3) vote of the Directors. In the event of the dissolution of the organization, the assets shall be applied and distributed as follows:\n\nAll liabilities and obligations shall be paid, satisfied and discharged, or adequate provision shall be made therefore. Assets not held upon a condition requiring return, transfer, or conveyance to any other organization or individual shall be distributed, transferred, or conveyed, in trust or otherwise, to charitable and educational organizations, organized under Section 501(c)(3) of the Internal Revenue Code of 1986, as amended, of a similar or like nature to this organization, as determined by the Board of Directors.\n\n## ⚖️ Article X — Conflict of Interest Policy\n\nAll members of the Board of Directors shall abide by and sign a Board approved Conflict of Interest Policy.\n\n### 🖋️ Certification\n\nKevin F, President of Psychedelics in Recovery, and Anne R, Secretary of Psychedelics in Recovery certify that the foregoing is a true and correct copy of the bylaws of the above-named organization, duly adopted by the initial Board of Directors on __________________.\n\nI certify that the foregoing is a true and correct copy of the bylaws of the above-named organization, duly adopted by the initial Board of Directors on __________________.\n\n- Signature: ____________  President: ____________  Name: ____________\n- Signature: ____________  President: ____________  Name: ____________  Date: ____________\n\nBy:\nDate:\nXXX, President\n\n\n\n- Signature: ____________________  Secretary: ____________________  Name: ____________________\n- Signature: ____________________  Secretary: ____________________  Name: ____________________  Date: ____________________\n10/06/2021\nBy:\nDate:\nXXX, Secretary\n\nPlease see the subtabs for descriptions of the Officers and Members At-Large\n\n## 👑 President\n\n**Role Focus:** Leadership, governance oversight, and strategic direction\n\n**Overview:** Serves as the chief executive officer of PIR and leads the Board in fulfilling its governance responsibilities. The President ensures alignment with mission, oversees organizational strategy, and facilitates effective Board functioning.\n\n**Core Functions:**\n\n* Preside over Board meetings and guide decision-making processes\n* Lead strategic planning and organizational direction\n* Ensure execution of Board-approved initiatives and priorities\n* Serve as primary representative and ambassador of PIR\n* Support Board development, recruitment, and performance\n\n## 📔 Secretary\n\n**Role Focus:** Governance integrity, documentation, and compliance\n\n**Overview:** Responsible for maintaining accurate records of Board activity and ensuring organizational compliance with governance requirements. The Secretary supports transparency, continuity, and effective communication within the Board.\n\n**Core Functions:**\n\n* Record and maintain official Board and committee meeting minutes\n* Ensure proper notice and documentation of meetings\n* Maintain organizational records and governance documents\n* Support communication of decisions and actions across the Board\n* Ensure alignment with bylaws and legal requirements\n\n## 💰 Treasurer\n\n**Role Focus:** Financial oversight, accountability, and sustainability\n\n**Overview:** Oversees the financial health of PIR and ensures responsible stewardship of organizational resources. The Treasurer supports budgeting, financial reporting, and compliance with fiscal obligations.\n\n**Core Functions:**\n\n* Monitor and report on organizational finances\n* Support development and oversight of the annual budget\n* Ensure appropriate financial controls and policies are in place\n* Oversee financial reporting and required filings\n* Advise the Board on financial strategy and sustainability\n\n# 👑 Board President — Job Description\n\nAs a partner to the Executive Director (ED) (if applicable) and other board members, the Board Chair will provide leadership to Psychedelics in Recovery (PIR). The Board President/Chair will support and sustain the work of PIR, and provide governance leadership and strategic fundraising support. The Board President is the chair of the Executive Committee. Specific responsibilities are in addition to the responsibilities of a member-at-large. Including:\n\n* Leadership, governance, and oversight\n* Is a member of the Board of Directors\n* Being a trusted advisor to the ED as s/he develops and implements PIR's strategic plan\n* Developing and managing relationships and communicating with: funders, partners, and other stakeholders\n* As a board member, approving PIR's annual budget, audit reports, and material business decisions; being informed of, and meeting all, legal and fiduciary responsibilities\n* Reviewing outcomes and metrics created by PIR for evaluating its impact, and regularly measuring its performance and effectiveness using those metrics\n* Coordinating an annual performance evaluation of the ED\n* Assisting the ED and Nominating Committee in recruiting board members\n* Periodically consulting with board members on their roles and helping them assess their performance\n* Planning, presiding over, and facilitating board and committee meetings; partnering with the ED to ensure that board resolutions are carried out\n* Acting as an ambassador for the organization\n* Ensuring PIR's commitment to a diverse board and staff that reflects the communities PIR serves\n* Fundraising\n* In collaboration with the ED, generating substantial annual revenue and fostering PIR's overall financial health\n* Personally treating PIR as a top philanthropic priority reflected in an annual financial gift\n* Ensuring that 100 percent of PIR's board members make an annual contribution that is commensurate with their capacity (Optional but encouraged)\n\nBoard terms\n\nPIR's Board President (and board members) will serve a 2-year term, to be eligible for re-appointment without restrictions on a number of additional terms, or until a successor has been elected and qualified. Board meetings will be held quarterly.\n\nQualifications:\n\nService on PIR's board of directors is without remuneration, except for administrative support, travel, accommodation costs in relation to board members' duties.\n\n# 📔 Board Secretary — Job Description\n\nAs a partner to the Board President and other board members, the Board Secretary will provide leadership to Psychedelics in Recovery and be a member of the Executive Committee.The Board Secretary will support and sustain the work of PIR, and provide governance leadership and strategic fundraising support. Specific responsibilities are in addition to the responsibilities of a Member At-Large. Including:\n\nLeadership, governance, and oversight\n\n●       Is a member of the Board of Directors\n\n●       Maintains records of the board and ensures effective management of the organization's records\n\n●        Manages minutes of board meetings and ensures meeting minutes are recorded at every board meeting and official communications\n\n●       Ensures minutes are distributed to members shortly after each meeting and before the next board meeting\n\n●       Is sufficiently familiar with legal documents (articles, by-laws, IRS letters, etc.) to note applicability during meetings\n\n●       Will lead board meetings if the Board President, and if applicable the Board VP, are unavailable\n\nBoard terms\n\nPIR's Board Secretary will serve a 2-year term, to be eligible for re-appointment without restrictions on a number of additional terms, or until a successor has been elected and qualified. Board meetings will be held quarterly.\n\nQualifications:\n\nService on PIR's board of directors is without remuneration, except for administrative support, travel, accommodation costs in relation to board members' duties.\n\n# 💰 Board Treasurer — Job Description\n\nAs a partner to the Board President and other board members, the Board Treasurer will provide leadership to Psychedelics in Recovery and be a member of the Executive Committee.The Board Treasurer will support and sustain the work of PIR, and provide governance leadership and strategic fundraising support. Specific responsibilities are in addition to the responsibilities of a member-at-large.Including:\n\n* Leadership, governance, and oversight\n* Manages finances of the organization\n* Administers fiscal matters of the organization\n* Provides the annual budget to the board for members' approval\n* Ensures development and board review of financial policies and procedures\n* Acts as an official signer on the  Nonprofits' bank account and works with the Executive Director on large monetary distributions.\n* Oversees any financial agreements.\n* Serves as the chair of the finance committee where applicable.\n* In cooperation with the board officers, accepts responsibility for filing annual tax forms as required by the state or the IRS.\n* Provides a full financial report to the board of directors annually.\n\nBoard terms\n\nPIR's Board Treasurer will serve a 2-year term, to be eligible for re-appointment without restrictions on a number of additional terms, or until a successor has been elected and qualified. Board meetings will be held quarterly.\n\nQualifications:\n\nService on PIR's board of directors is without remuneration, except for administrative support, travel, accommodation costs in relation to board members' duties.\n\n## 🌟 Board Member At-Large — Job Description\n\nPsychedelics in Recovery (PIR)'s Board of Directors is the governing body, overseeing vision, mission, and internal operations of the organization. Board members hold overall fiscal and managerial oversight responsibility for PIR. They are charged with the supervision and oversight of PIR's mission. They are responsible for making decisions, delegating work, and assuring decisions are carried out in the manner intended. Ultimately, board members serve as ambassadors for PIR's mission, inside and outside of organizational commitments.\n\nTen Basic Board Roles and Responsibilities:\n\n1. Determine mission and purposes. It is the board's responsibility to create and review a statement of mission and purpose that articulates the organization's goals, means, and primary constituents served.\n2. Select the Executive Committee Officers and the ED (if applicable). Boards must reach consensus on the ED's responsibilities and undertake a careful search to find the most qualified individual for the position.\n3. Support and evaluate the ED. The board should ensure that the ED has the moral and professional support he or she needs to further the goals of the organization.\n4. Ensure effective planning. Boards must actively participate in an overall planning process and assist in implementing and monitoring the plan's goals.\n5. The board's responsibility is to determine which programs are consistent with the organization's mission and monitor their effectiveness.\n6. Ensure adequate financial resources. One of the board's foremost responsibilities is to ensure adequate resources are obtained for the organization to fulfill its mission.\n7. Protect assets and provide financial oversight. The board must assist in developing the annual budget and ensuring that proper financial controls are in place.\n8. Build a competent board. All boards have a responsibility to articulate prerequisites for candidates, orient new members, and periodically and comprehensively evaluate its own performance.\n9. Ensure legal and ethical integrity. The board is ultimately responsible for adherence to legal standards and ethical norms. Each board member should be aware of governance and fiscal oversight responsibilities as defined by the IRS and SOS.\n10. Enhance the organization's public standing. The board should clearly articulate the organization's mission, accomplishments, and goals to the public and garner support from the community.\n\n### 🛠️ Responsibilities\n\n●       Serve as a leading ambassador of PIR's mission, programs, and services.\n\n●       Regularly attend and prepare for quarterly Board meetings and important related meetings.\n\n●       Commit to professional development (one or two training sessions are recommended per year).\n\n●       Volunteer for and willingly accept assignments and complete them thoroughly and on time.\n\n●       Serve on at least one sub-committee, preferably as a chair, and attend committee meetings (if applicable)\n\n●       Make a serious commitment to participate actively in Board work.\n\n●       Prepare and approve necessary organizational policies.\n\n●       Commit to an annual philanthropic commitment as determined by the individual board member and fundraise/recruit members on behalf of the organization. (If applicable and in By-Laws)\n\n●       Participate in annual self-evaluation of personal board service.\n\n●       Participate in the hiring and oversight process of the Executive Director.\n\n●       Be knowledgeable about PIR's mission, vision, programs, and events.\n\n●       Stay informed about Board matters, prepare themselves for meetings, and review and comment on issues of importance.\n\n●       Participate in creation of strategic plan and conduct annual review of the strategic plan.\n\n●       Get to know other Board members and PIR's stakeholders and build a collegial working relationship that contributes to consensus.\n\n●       Respond to requests for feedback or decisions between meetings in a timely manner.\n\n●       Understand financial statements or commit to learning about nonprofit financial oversight.\n\nBoard terms\n\nPIR's Board Members At-Large will serve a 2-year term, to be eligible for re-appointment without restrictions on a number of additional terms, or until a successor has been elected and qualified. Board meetings will be held quarterly.\n\nQualifications:\n\nService on PIR's board of directors is without remuneration, except for administrative support, travel, and accommodation costs in relation to board members' duties.\n\n## 📣 GSR Chair (Member At-Large)\n\n**Role Focus:** Fellowship representation & communication pipeline\n\n**Overview:**\nServes as the primary liaison between the Board and the General Service Representative (GSR) network. Ensures that fellowship input is organized, synthesized, and meaningfully integrated into Board-level decision-making.\n\n**Core Functions:**\n\n* Coordinate and support GSR structure across PIR groups\n* Gather and communicate fellowship feedback to the Board\n* Help standardize communication between meetings, committees, and leadership\n* Support implementation of fellowship-informed initiatives\n\n**Value to the Board:**\nAnchors governance in **bottom-up input** while maintaining Board-level accountability.\n\n## 🌱 Founder (Member At-Large)\n\n**Role Focus:** Institutional memory & mission continuity\n\n**Overview:**\nProvides historical context, cultural stewardship, and continuity of vision. Ensures that organizational decisions remain aligned with PIR's founding principles while adapting to growth and change.\n\n**Core Functions:**\n\n* Advise on mission alignment and long-term direction\n* Provide historical perspective on key decisions and structures\n* Support leadership transitions and organizational evolution\n* Serve as a cultural and philosophical anchor for the Board\n\n**Value to the Board:**\nProtects against mission drift and maintains **continuity through growth and transition**.\n\n## 🤝 Fellowship Representative (Member At-Large)\n\n**Role Focus:** General membership voice\n\n**Overview:**\nRepresents the broader PIR fellowship outside of formal service structures. Brings forward emerging needs, concerns, and perspectives from active participants in meetings and community spaces.\n\n**Core Functions:**\n\n* Engage with members across meetings and informal channels\n* Identify trends, needs, and gaps in fellowship experience\n* Provide grounded feedback to inform Board decisions\n* Support accessibility, inclusivity, and community engagement\n\n**Value to the Board:**\nEnsures leadership remains **connected to lived member experience**, not just formal structures.\n\n## 🔭 External Advisor (Member At-Large)\n\n**Role Focus:** Outside expertise & strategic guidance\n\n**Overview:**\nBrings relevant professional, legal, organizational, or strategic expertise from outside PIR. Provides objective perspective and helps strengthen governance, compliance, and long-term planning.\n\n**Core Functions:**\n\n* Advise on governance, legal, financial, or strategic matters\n* Provide external perspective on organizational risks and opportunities\n* Support Board decision-making with subject-matter expertise\n* Strengthen credibility with partners, funders, and stakeholders\n\n**Value to the Board:**\nIntroduces **objective, external insight** to complement internal perspectives and reduce blind spots.\n\n## 🛡️ Compliance Requirements for Insurance\n\n* Scope-of-practice restriction (peer support only)\n* Individuals must not provide regulated healthcare services under PIR.\n* Attestation that under no circumstances will Directors engage in any of the following activity within PIR:\n* Diagnosing conditions\n* Providing medical/mental health care\n* Prescribing or dispensing medication\n* Performing procedures (injections, surgery, etc.)\n* No clinical or medical activity\n* Attestation that under no circumstances will Directors engage in any of the following activity within PIR:\n* Dosing guidance\n* Treatment recommendations\n* Clinical interpretations of psychedelic use\n* Must understand boundary between personal experience sharing and professional advice\n* Background + conduct screening\n*  Must pass basic background check\n*  Must disclose:\n* Any past disciplinary action\n* Any investigations or allegations\n* No disqualifying misconduct history\n* Must disclose if any individual has:\n* License suspension/revocation\n* Investigations (including sexual misconduct)\n* No history of:\n* Professional discipline related to harm or misconduct\n* Unresolved investigations that pose risk\n* Mandatory disclosure requirement\n* Claims/liability disclosure\n* Must disclose:\n* Any past liability claims related to similar work\n* Any known incidents that could become claims\n* COI compliance\n* Must sign annual COI disclosure\n* Must disclose:\n* Financial relationships\n* Potential conflicts\n* Must recuse when appropriate\n* No caregiving/transport roles\n* Must not engage in:\n* Caretaking roles\n* Transporting participants\n* Any service resembling clinical or custodial care\n* Independent coverage boundaries\n* Directors are NOT acting as insured professionals under PIR\n* If operating professionally outside PIR, Directors must maintain their own liability coverage\n* Accuracy + reporting obligation\n* Must agree to:\n* Provide accurate information about role and activities\n* Update PIR if circumstances change\n* Strict adherence to declared services\n* Must operate strictly within peer support model\n* Must not expand scope informally (e.g., “integration coaching” crossing into therapy)\n\n\n## ⚖️ Appendix — Conflict of Interest Policy & Annual Statement\n\n*For Directors and Officers and Members of a Committee with Board Delegated Powers*\n\n### 🎯 Article I — Purpose\n\n1. The purpose of this Board conflict of interest policy is to protect Psychedelics in Recovery (PIR)'s interests when it is contemplating entering into a transaction or arrangement that might benefit the private interests of an officer or director of PIR or might result in a possible excess benefit transaction.\n\n2. This policy is intended to supplement, but not replace, any applicable state and federal laws governing conflicts of interest applicable to nonprofit and charitable organizations.\n\n3. This policy is also intended to identify “independent” directors.\n\n### 📖 Article II — Definitions\n\n1. Interested person -- Any director, principal officer, or member of a committee with governing board delegated powers, who has a direct or indirect financial interest, as defined below, is an interested person.\n\n2. Financial interest -- A person has a financial interest if the person has, directly or indirectly, through business, investment, or family:\n\na. An ownership or investment interest in any entity with which PIR has a transaction or arrangement,\n\nb. A compensation arrangement with PIR or with any entity or individual with which PIR has a transaction or arrangement, or\n\nc. A potential ownership or investment interest in, or compensation arrangement with, any entity or individual with which PIR is negotiating a transaction or arrangement. Compensation includes direct and indirect remuneration as well as gifts or favors that are not insubstantial. A financial interest is not necessarily a conflict of interest. A person who has a financial interest in this policy is based on the IRS model Conflict of Interest policy, which is an attachment to Form 1023. This policy adds information needed to allow PIR to assess director independence in order to answer questions on Form 990.2. A conflict of interest exists only if the Board or Executive Committee decides that a conflict of interest exists, in accordance with this policy.\n\n3. Independent Director -- A director shall be considered “independent” for the purposes of this policy if he or she is “independent” as defined in the instructions for the IRS 990 form or, until such definition is available, the director: a. is not, and has not been for a period of at least three years, an employee of PIR or an employee of any entity in which PIR has a financial interest does not directly or indirectly have a significant business relationship with PIR, which might affect independence in decision-making; b. is not employed as an executive of another corporation where any of PIR's executive officers or employees serve on that corporation's compensation committee; and does not have an immediate family member who is an executive officer or employee of PIR or who holds a position that has a significant financial relationship with PIR.\n\n### ⚙️ Article III — Procedures\n\n1. Duty to Disclose -- In connection with any actual or possible conflict of interest, an interested person must disclose the existence of the financial interest and be given the opportunity to disclose all material facts to the Board or Executive Committee.\n\n2. Recusal of Self - Any director may recuse himself or herself at any time from involvement in any decision or discussion in which the director believes he or she has or may have a conflict of interest, without going through the process for determining whether a conflict of interest exists.\n\n3. Determining Whether a Conflict of Interest Exists -- After disclosure of the financial interest and all material facts, and after any discussion with the interested person, he/she shall leave the Board or Executive Committee meeting while the determination of a conflict of interest is discussed and voted upon. The remaining Board or Executive Committee members shall decide if a conflict of interest exists.\n\n4. Procedures for Addressing the Conflict of Interest\n\na. An interested person may make a presentation at the Board or Executive Committee meeting, but after the presentation, he/she shall leave the meeting during the discussion of, and the vote on, the transaction or arrangement involving the possible conflict of interest.\n\nb. The Chairperson of the Board or Executive Committee shall, if appropriate, appoint a disinterested person or committee to investigate alternatives to the proposed transaction or arrangement.\n\nc. After exercising due diligence, the Board or Executive Committee shall determine whether PIR can obtain with reasonable efforts a more advantageous transaction or arrangement from a person or entity that would not give rise to a conflict of interest.\n\nd. If a more advantageous transaction or arrangement is not reasonably possible under Circumstances not producing a conflict of interest, the Board or Executive Committee shall determine by a majority vote of the disinterested directors whether the transaction or arrangement is in PIR's best interest, for its own benefit, and whether it is fair and reasonable. In conformity with the above determination, it shall make its decision as to whether to enter into the transaction or arrangement.\n\n5. Violations of the Conflicts of Interest Policy\n\na. If the Board or Executive Committee has reasonable cause to believe a member has failed to disclose actual or possible conflicts of interest, it shall inform the member of the basis for such belief and afford the member an opportunity to explain the alleged failure to disclose.\n\nb. If, after hearing the member's response and after making further investigation as warranted by the circumstances, the Board or Executive Committee determines the member has failed to disclose an actual or possible conflict of interest, it shall take appropriate disciplinary and corrective action.\n\n### 🗄️ Article IV — Records of Proceedings\n\nThe minutes of the Board and all committees with board delegated powers shall contain:\n\na. The names of the persons who disclosed or otherwise were found to have a financial interest in connection with an actual or possible conflict of interest, the nature of the financial interest, any action taken to determine whether a conflict of interest was present, and the Board's or Executive Committee's decision as to whether a conflict of interest in fact existed.\n\nb. The names of the persons who were present for discussions and votes relating to the transaction or arrangement, the content of the discussion, including any alternatives to the proposed transaction or arrangement, and a record of any votes taken in connection with the proceedings.\n\n### 💵 Article V — Compensation\n\na. A voting member of the Board who receives compensation, directly or indirectly, from PIR for services is precluded from voting on matters pertaining to that member's compensation.\n\nb. A voting member of any committee whose jurisdiction includes compensation matters and who receives compensation, directly or indirectly, from PIR for services is precluded from voting on matters pertaining to that member's compensation.\n\nc. No voting member of the Board or any committee whose jurisdiction includes compensation matters and who receives compensation, directly or indirectly, from PIR, either individually or collectively, is prohibited from providing information to any committee regarding compensation.\n\n### 🗓️ Article VI — Annual Statements\n\n1. Each director, principal officer and member of a committee with Board delegated powers shall annually sign a statement which affirms such person:\n\na. Has received a copy of the conflict of interest policy,\n\nb. Has read and understands the policy,\n\nc. Has agreed to comply with the policy, and\n\nd. Understands PIR in order to maintain its federal tax exemption must engage primarily in activities which accomplish one or more of its tax-exempt purposes.\n\n2. Each voting member of the Board shall annually sign a statement which declares whether such person is an independent director.\n\n3. If at any time during the year, the information in the annual statement changes materially, the director shall disclose such changes and revise the annual disclosure form.\n\n4. The Board of Directors shall regularly and consistently monitor and enforce compliance with this policy by reviewing annual statements and taking such other actions as are necessary for effective oversight.\n\n5. To ensure PIR does not engage in activities that could jeopardize its tax-exempt status, periodic reviews shall be conducted. The periodic reviews shall, at a minimum, include the following subjects:\n\na. Whether compensation arrangements and benefits are reasonable, based on competent survey information (if reasonably available), and the result of arm's length bargaining.\n\nb. Whether partnerships, joint ventures, and arrangements with management organizations, if any, conform to PIR's written policies, are properly recorded, reflect reasonable investment or payments for goods and services, further charitable purposes and do not result in inurement or impermissible private benefit or in an excess benefit transaction.\n\n### 🧑‍🏫 Article VII — Use of Outside Experts\n\nWhen conducting the periodic reviews as provided for in Article VII, PIR may, but need not, use outside advisors. If outside experts are used, their use shall not relieve the Board of its responsibility for ensuring periodic reviews are conducted.\n\n### 🖋️ Certification\n\nXXXXXX, President of PIR, and XXXXXXX, Secretary of PIR, certify that the foregoing is a true and correct copy of the Conflict of Interest Policy of the above-named organization, duly adopted by the initial Board of Directors on XXXXXX.\n\nXXXXXX, President\n\nBy:     ___________________________________\n\nXXXXX\n\nDate:   ___________________\n\nXXXXX, Secretary\n\nBy:     ___________________________________\n\nXXXXXXX\n\nDate:   ___________________\n\nPIR Director and Officer Annual Conflict of Interest Statement\n\n1. Name: ________________________________ Date: _____________\n\n2. Position:\n\nAre you a voting Director? Yes ( ) No ( )\n\nAre you an Officer? Yes ( ) No ( )\n\nIf you are an Officer, which Officer position do you hold:\n\n_________________________________.\n\n3. I affirm the following:\n\nI have received a copy of the Conflict of Interest Policy. __________ (initial)\n\nI have read and understand the policy. __________ (initial)\n\nI agree to comply with the policy. __________ (initial)\n\nI understand that PIR is charitable and in order to maintain its federal tax exemption it must engage primarily in activities which accomplish one or more of tax-exempt purposes. __________ (initial)\n\n4. Disclosures:\n\na. Do you have a financial interest (current or potential), including a compensation arrangement, as defined in the Conflict of Interest policy with PIR?\n\nYes ( ) No ( )\n\ni. If yes, please describe it: ____________________________________\n\nii. If yes, has the financial interest been disclosed, as provided in the Conflict of Interest policy?\n\nYes ( ) No ( )\n\nb. In the past, have you had a financial interest, including a compensation arrangement, as defined in the Conflict of Interest policy with PIR? Yes ( ) No ( )\n\ni. If yes, please describe it, including when (approximately):\n\n__________________________________________________\n\nii. If yes, has the financial interest been disclosed, as provided in the Conflict of Interest policy?\n\nYes ( ) No ( )\n\n5. Are you an independent director, as defined in the Conflict of Interest policy? Yes ( ) No ( )\n\na. If you are not independent, why?\n\n__________________________________________________\n\nDate: __________\n\nSignature of Chair/President or Director\n\n_________________________
+# 📜 By-Laws of Psychedelics In Recovery™ – PIR®
+
+> **The governing document of our fellowship** — adopted by the initial Board of Directors on 10/06/2021, amended since, and always current here. 🌍
+> *This is the canonical, versioned source. If any other copy differs, this file wins. Official signed copies are available upon request from the Board Secretary.*
+
+**🗺️ On this page**
+
+- 🗳️ Article I — Meetings
+- 🪑 Article II — Directors
+- 🧭 Article III — Officers
+- 🧑‍🤝‍🧑 Article IV — Staff
+- 📘 Article V — Policies & Procedures
+- 🪧 Article VI — Corporate Seal & Instruments
+- ✏️ Article VII — Amendments
+- 🛡️ Article VIII — Indemnification
+- 🌅 Article IX — Dissolution
+- ⚖️ Article X — Conflict of Interest Policy
+- 👑 President · 📔 Secretary · 💰 Treasurer
+- 🌟 Board Member At-Large · 📣 GSR Chair · 🌱 Founder · 🤝 Fellowship Rep · 🔭 External Advisor
+- 🛡️ Compliance Requirements for Insurance
+- ⚖️ Appendix — Conflict of Interest Policy & Annual Statement
+
+---
+
+The name of the organization is Psychedelics In Recovery. The organization is organized in accordance with the Colorado Corporations and Associations Act as amended. The organization has not been formed for the making of any profit, or personal financial gain. The assets and income of the organization shall not be distributable to, or benefit the trustees, directors, or officers or other individuals. The assets and income shall only be used to promote corporate purposes as described below. Nothing contained herein, however, shall be deemed to prohibit the payment of reasonable compensation to employees and independent contractors for services provided for the benefit of the organization. This organization shall not carry on any other activities not permitted to be carried on by an organization exempt from federal income tax. The organization shall not endorse, contribute to, work for, or otherwise support (or oppose) a candidate for public office. The purpose of the organization is the following:
+
+**Educate and support the addiction recovery community for individuals to have a safe space to explore addiction recovery options.**
+
+The organization is organized exclusively for purposes pursuant to section 501(c)(3) of the Internal Revenue Code.
+
+## 🗳️ Article I — Meetings
+
+**Section 1**. Annual Meeting. An annual meeting shall be held once each calendar year for the purpose of electing directors and for the transaction of such other business as may properly come before the meeting. The annual meeting shall be held at the time and place designated by the Board of Directors from time to time.
+
+**Section 2.** Special Meetings. Special meetings may be requested by the President or the Board of Directors. A special meeting of members is not required to be held at a geographic location if the meeting is held by means of the internet of other electronic communications technology in a manner pursuant to which the members have the opportunity to read or hear the proceedings substantially concurrent with the occurrence of the proceedings, note on matters submitted to the members, pose questions, and make comments.
+
+**Section 3.** Notice. Written notice of all meetings shall be provided under this section or as otherwise required by law. The Notice shall state the place, date, and hour of meeting, and if for a special meeting, the purpose of the meeting. Such notice shall be mailed to all directors of record at the address shown on the corporate books, at least 10 days prior to the meeting. The Notice can be by any written form as long as it is provided to all Board of Directors.
+
+**Section 4.** Place of Meeting. Meetings shall be held at the organization's principal place of business unless otherwise stated in the notice. Unless the articles of incorporation or bylaws provide otherwise, the board of directors may permit any or all directors to participate in a regular or special meeting by, or conduct the meeting through the use of, any means of communication by which all directors participating may simultaneously hear each other during this meeting. A director participating in a meeting by this means shall be deemed to be present in person at the meeting.
+
+**Section 5**. Quorum. A simple majority of the directors shall constitute a quorum at a meeting. In the absence of a quorum, a majority of the directors may adjourn the meeting to another time without further notice. If a quorum is represented at an adjourned meeting, any business may be transacted that might have been transacted at the meeting as originally scheduled. The directors present at a meeting represented by a quorum may continue to transact business until adjournment, even if the withdrawal of some directors results in representation of less than a quorum. Unless another section of the Bylaws require majority to vote for important issues.
+
+**Section 6**. Informal Action. Any action required to be taken, or which may be taken, at a meeting, may be taken without a meeting and without prior notice if a consent in writing, setting forth the action so taken, is signed by the directors with respect to the subject matter of the vote.
+
+## 🪑 Article II — Directors
+
+**Section 1**. Number of Directors. The organization shall be managed by a Board of Directors consisting of a minimum of 3 and a max of 11 with a goal of 7 director(s). The Board shall consist of :
+
+* the Executive Committee (President, Secretary, and Treasurer), all voting members
+* the Chair of the General Service Committee, Member-at-large; voting member
+* Member at large (Founding member), non voting member
+* Member at large (All paths of Recovery adviser), non voting member
+* Member at large (Fellowship rep), voting member.
+
+**Section 2.** Election and Term of Office. The directors, besides the chair of the General Service Committee, shall be elected at the annual meeting by the Board of Directors. Each director shall serve a term of 2 year(s), or until a successor has been elected and qualified. The Chair of the General Service Committee shall be voted into the position by the committee.
+
+**Section 3**. Quorum. A simple majority of directors shall constitute a quorum.
+
+**Section 4**. Adverse Interest. In the determination of a quorum of the directors, or in voting, the disclosed adverse interest of a director shall not disqualify the director or invalidate his or her vote unless a clear conflict of interest is present as defined by the conflict of interest policy.
+
+**Section 5**. Regular Meeting. The Board of Directors shall meet immediately after the election for the purpose of electing its new officers, appointing new committee chairpersons and for transacting such other business as may be deemed appropriate. The Board of Directors may provide, by resolution, for additional regular meetings without notice other than the notice provided by the resolution.
+
+**Section 6** Special Meeting. Special meetings may be requested by the President, Secretary, or any two directors by providing five days' written notice by ordinary United States mail or email, effective when mailed. Minutes of the meeting shall be sent to the Board of Directors within two weeks after the meeting. A special meeting of members is not required to be held at a geographic location if the meeting is held by means of the internet or other electronic communications technology in a manner pursuant to which the members have the opportunity to read or hear the proceedings substantially concurrent with the occurrence of the proceedings, note on matters submitted to the members, pose questions, and make comments.
+
+**Section 7.** Procedures. The vote of a majority of the directors present at a properly called meeting at which a quorum is present shall be the act of the Board of Directors, unless the vote of a greater number is required by law or by these by-laws for a particular resolution. A director of the organization who is present at a meeting of the Board of Directors at which action on any corporate matter is taken shall be presumed to have assented to the action taken unless their dissent shall be entered in the minutes of the meeting. The Board shall keep written minutes of its proceedings in its permanent records.
+
+**Section 8.** Informal Action. Any action required to be taken at a meeting of directors, or any action which may be taken at a meeting of directors or of a committee of directors, may be taken without a meeting if a consent in writing setting forth the action so taken, is signed or agreed upon by all of the directors or all of the members of the committee of directors, as the case may be.
+
+**Section 9.** Removal / Vacancies. A director shall be subject to removal, with or without cause, at a meeting called for that purpose. Any vacancy that occurs on the Board of Directors, except as described below, whether by death, resignation, removal or any other cause, may be filled by the remaining directors. A director elected to fill a vacancy shall serve the remaining term of his or her predecessor, or until a successor has been elected and qualified. The General Service Committee will be responsible for electing their new Chair within three months of removal.
+
+**Section 10.** Committees. To the extent permitted by law, the Board of Directors may appoint from its members a committee or committees, temporary or permanent, and designate the duties, powers and authorities of such committees.
+
+The Executive Committee shall be defined as the President, Secretary, Treasurer.
+
+The Finance Committee shall be chaired by the Treasurer and co-chaired by a Member-at-Large to review monthly budgets, or annual budgets under established parameters. Other members of PIR or the board may serve on this committee at the discretion of the Co-Chairs.
+
+The Program Committee shall be chaired by the Board President, or a board approved designate, and will consist of all of the chairs of PIR's operational committees.
+
+## 🧭 Article III — Officers
+
+**Section 1.** Number of Officers. The officers of the organization shall be a President, a Treasurer, Secretary, and optionally an Executive Director. Two or more offices may be held by one person. The President may not serve concurrently as the Treasurer unless authorized by the Board of Directors for a temporary period of time.
+
+The President shall be the chief executive officer and shall preside at all meetings of the Board of Directors and its Executive Committee. The President shall also chair the Program Committee.
+
+The Secretary shall give notice of all meetings of the Board of Directors and Executive Committee, shall keep an accurate list of the directors, and shall have the authority to certify any records, or copies of records, as the official records of the organization. The Secretary shall maintain the minutes of the Board of Directors' meetings and all committee meetings.
+
+Treasurer/CFO. The Treasurer shall be responsible for conducting the financial affairs of the organization as directed and authorized by the Board of Directors and Executive Committee, if any, and shall make reports of corporate finances as required, but no less often than at each meeting of the Board of Directors and Executive Committee. The Treasurer shall Chair the Finance committee.
+
+**Section 2.** Election and Term of Office. The Board of Directors shall be nominated and chosen by the existing Board of Directors at minimum one month prior to PIR's annual meeting. The nominees bios and arguments for vote shall be shared with the member base one month prior to the annual meeting with the vote by the Board of Directors occurring during the annual meeting. The reading and acceptance of the votes will take place at the Annual Board of Directors Meeting. Each board member shall serve a two year term or until a successor has been elected and qualified in alternating election years.
+
+**Section 3.** Removal or Vacancy. The Board of Directors shall have the power to remove an officer or agent of the organization. Any vacancy that occurs for any reason may be filled by the Board of Directors on an interim basis until the next election cycle.
+
+## 🧑‍🤝‍🧑 Article IV — Staff
+
+At the discretion of and approval by the Board of Directors, PIR may employ paid staff. The Board of Directors may authorize the hiring of an Executive Director (ED) to manage the daily operations of the organization through a Board approved job description. The ED will be responsible for the management of all other PIR staff and will report to the President of the Board or a designate. The ED works at the discretion of the Board of Directors, is recruited by a special board committee, and hired by majority vote of the Board.
+
+If an ED position is in place, PIR staff report directly to the ED and take direction exclusively from the ED. The ED will have an annual review by the Board.
+
+The Board of Directors will ensure that all payroll, taxes, and other legal employment requirements are established, current, and abided by.
+
+## 📘 Article V — Policies & Procedures
+
+The Board of Directors will establish organizational policies and procedures to insure the wellbeing, safety, and viability of PIR. Including, but not limited to, a Board communication policy, a volunteer and staff communication policy, a volunteer and staff safety plan, and general HR standards.
+
+## 🪧 Article VI — Corporate Seal & Instruments
+
+The organization shall not have a corporate seal. All instruments that are executed on behalf of the organization which are acknowledged and which affect an interest in real estate shall be executed by the President, and the Secretary or Treasurer. All other instruments executed by the organization, including a release of mortgage or lien, may be executed by the President or the Executive Director. Notwithstanding the preceding provisions of this section, any written instrument may be executed by any officer(s) or agent(s) that are specifically designated by resolution of the Board of Directors.
+
+## ✏️ Article VII — Amendments
+
+The bylaws may be amended, altered, or repealed by the Board of Directors by a ⅔ majority of a quorum vote at any regular or special meeting. The text of the proposed change shall be distributed to all board members at least ten (10) days before the meeting.
+
+## 🛡️ Article VIII — Indemnification
+
+Any director or officer who is involved in litigation by reason of his or her position as a director or officer of this organization shall be indemnified and held harmless by the organization to the fullest extent authorized by law as it now exists or may subsequently be amended (but, in the case of any such amendment, only to the extent that such amendment permits the organization to provide broader indemnification rights).
+
+## 🌅 Article IX — Dissolution
+
+The organization may be dissolved only with authorization of its Board of Directors given at a special meeting called for that purpose, and with the subsequent approval by no less than two-thirds (2/3) vote of the Directors. In the event of the dissolution of the organization, the assets shall be applied and distributed as follows:
+
+All liabilities and obligations shall be paid, satisfied and discharged, or adequate provision shall be made therefore. Assets not held upon a condition requiring return, transfer, or conveyance to any other organization or individual shall be distributed, transferred, or conveyed, in trust or otherwise, to charitable and educational organizations, organized under Section 501(c)(3) of the Internal Revenue Code of 1986, as amended, of a similar or like nature to this organization, as determined by the Board of Directors.
+
+## ⚖️ Article X — Conflict of Interest Policy
+
+All members of the Board of Directors shall abide by and sign a Board approved Conflict of Interest Policy.
+
+### 🖋️ Certification
+
+Kevin F, President of Psychedelics in Recovery, and Anne R, Secretary of Psychedelics in Recovery certify that the foregoing is a true and correct copy of the bylaws of the above-named organization, duly adopted by the initial Board of Directors on __________________.
+
+I certify that the foregoing is a true and correct copy of the bylaws of the above-named organization, duly adopted by the initial Board of Directors on __________________.
+
+- Signature: ____________________  President: ____________________  Name: ____________________
+- Signature: ____________________  President: ____________________  Name: ____________________  Date: ____________________
+
+10/06/2021
+
+By:
+Date:
+XXX, President
+
+- Signature: ____________________  Secretary: ____________________  Name: ____________________
+- Signature: ____________________  Secretary: ____________________  Name: ____________________  Date: ____________________
+
+10/06/2021
+
+By:
+Date:
+XXX, Secretary
+
+Please see the subtabs for descriptions of the Officers and Members At-Large
+
+## 👑 President
+
+**Role Focus:** Leadership, governance oversight, and strategic direction
+
+**Overview:** Serves as the chief executive officer of PIR and leads the Board in fulfilling its governance responsibilities. The President ensures alignment with mission, oversees organizational strategy, and facilitates effective Board functioning.
+
+**Core Functions:**
+
+* Preside over Board meetings and guide decision-making processes
+* Lead strategic planning and organizational direction
+* Ensure execution of Board-approved initiatives and priorities
+* Serve as primary representative and ambassador of PIR
+* Support Board development, recruitment, and performance
+
+## 📔 Secretary
+
+**Role Focus:** Governance integrity, documentation, and compliance
+
+**Overview:** Responsible for maintaining accurate records of Board activity and ensuring organizational compliance with governance requirements. The Secretary supports transparency, continuity, and effective communication within the Board.
+
+**Core Functions:**
+
+* Record and maintain official Board and committee meeting minutes
+* Ensure proper notice and documentation of meetings
+* Maintain organizational records and governance documents
+* Support communication of decisions and actions across the Board
+* Ensure alignment with bylaws and legal requirements
+
+## 💰 Treasurer
+
+**Role Focus:** Financial oversight, accountability, and sustainability
+
+**Overview:** Oversees the financial health of PIR and ensures responsible stewardship of organizational resources. The Treasurer supports budgeting, financial reporting, and compliance with fiscal obligations.
+
+**Core Functions:**
+
+* Monitor and report on organizational finances
+* Support development and oversight of the annual budget
+* Ensure appropriate financial controls and policies are in place
+* Oversee financial reporting and required filings
+* Advise the Board on financial strategy and sustainability
+
+# 👑 Board President — Job Description
+
+As a partner to the Executive Director (ED) (if applicable) and other board members, the Board Chair will provide leadership to Psychedelics in Recovery (PIR). The Board President/Chair will support and sustain the work of PIR, and provide governance leadership and strategic fundraising support. The Board President is the chair of the Executive Committee. Specific responsibilities are in addition to the responsibilities of a member-at-large. Including:
+
+* Leadership, governance, and oversight
+* Is a member of the Board of Directors
+* Being a trusted advisor to the ED as s/he develops and implements PIR's strategic plan
+* Developing and managing relationships and communicating with: funders, partners, and other stakeholders
+* As a board member, approving PIR's annual budget, audit reports, and material business decisions; being informed of, and meeting all, legal and fiduciary responsibilities
+* Reviewing outcomes and metrics created by PIR for evaluating its impact, and regularly measuring its performance and effectiveness using those metrics
+* Coordinating an annual performance evaluation of the ED
+* Assisting the ED and Nominating Committee in recruiting board members
+* Periodically consulting with board members on their roles and helping them assess their performance
+* Planning, presiding over, and facilitating board and committee meetings; partnering with the ED to ensure that board resolutions are carried out
+* Acting as an ambassador for the organization
+* Ensuring PIR's commitment to a diverse board and staff that reflects the communities PIR serves
+* Fundraising
+* In collaboration with the ED, generating substantial annual revenue and fostering PIR's overall financial health
+* Personally treating PIR as a top philanthropic priority reflected in an annual financial gift
+* Ensuring that 100 percent of PIR's board members make an annual contribution that is commensurate with their capacity (Optional but encouraged)
+
+Board terms
+
+PIR's Board President (and board members) will serve a 2-year term, to be eligible for re-appointment without restrictions on a number of additional terms, or until a successor has been elected and qualified. Board meetings will be held quarterly.
+
+Qualifications:
+
+Service on PIR's board of directors is without remuneration, except for administrative support, travel, accommodation costs in relation to board members' duties.
+
+# 📔 Board Secretary — Job Description
+
+As a partner to the Board President and other board members, the Board Secretary will provide leadership to Psychedelics in Recovery and be a member of the Executive Committee. The Board Secretary will support and sustain the work of PIR, and provide governance leadership and strategic fundraising support. Specific responsibilities are in addition to the responsibilities of a Member At-Large. Including:
+
+Leadership, governance, and oversight
+
+● Is a member of the Board of Directors
+
+● Maintains records of the board and ensures effective management of the organization's records
+
+● Manages minutes of board meetings and ensures meeting minutes are recorded at every board meeting and official communications
+
+● Ensures minutes are distributed to members shortly after each meeting and before the next board meeting
+
+● Is sufficiently familiar with legal documents (articles, by-laws, IRS letters, etc.) to note applicability during meetings
+
+● Will lead board meetings if the Board President, and if applicable the Board VP, are unavailable
+
+Board terms
+
+PIR's Board Secretary will serve a 2-year term, to be eligible for re-appointment without restrictions on a number of additional terms, or until a successor has been elected and qualified. Board meetings will be held quarterly.
+
+Qualifications:
+
+Service on PIR's board of directors is without remuneration, except for administrative support, travel, accommodation costs in relation to board members' duties.
+
+# 💰 Board Treasurer — Job Description
+
+As a partner to the Board President and other board members, the Board Treasurer will provide leadership to Psychedelics in Recovery and be a member of the Executive Committee. The Board Treasurer will support and sustain the work of PIR, and provide governance leadership and strategic fundraising support. Specific responsibilities are in addition to the responsibilities of a member-at-large. Including:
+
+* Leadership, governance, and oversight
+* Manages finances of the organization
+* Administers fiscal matters of the organization
+* Provides the annual budget to the board for members' approval
+* Ensures development and board review of financial policies and procedures
+* Acts as an official signer on the Nonprofits' bank account and works with the Executive Director on large monetary distributions.
+* Oversees any financial agreements.
+* Serves as the chair of the finance committee where applicable.
+* In cooperation with the board officers, accepts responsibility for filing annual tax forms as required by the state or the IRS.
+* Provides a full financial report to the board of directors annually.
+
+Board terms
+
+PIR's Board Treasurer will serve a 2-year term, to be eligible for re-appointment without restrictions on a number of additional terms, or until a successor has been elected and qualified. Board meetings will be held quarterly.
+
+Qualifications:
+
+Service on PIR's board of directors is without remuneration, except for administrative support, travel, accommodation costs in relation to board members' duties.
+
+## 🌟 Board Member At-Large — Job Description
+
+Psychedelics in Recovery (PIR)'s Board of Directors is the governing body, overseeing vision, mission, and internal operations of the organization. Board members hold overall fiscal and managerial oversight responsibility for PIR. They are charged with the supervision and oversight of PIR's mission. They are responsible for making decisions, delegating work, and assuring decisions are carried out in the manner intended. Ultimately, board members serve as ambassadors for PIR's mission, inside and outside of organizational commitments.
+
+Ten Basic Board Roles and Responsibilities:
+
+1. Determine mission and purposes. It is the board's responsibility to create and review a statement of mission and purpose that articulates the organization's goals, means, and primary constituents served.
+2. Select the Executive Committee Officers and the ED (if applicable). Boards must reach consensus on the ED's responsibilities and undertake a careful search to find the most qualified individual for the position.
+3. Support and evaluate the ED. The board should ensure that the ED has the moral and professional support he or she needs to further the goals of the organization.
+4. Ensure effective planning. Boards must actively participate in an overall planning process and assist in implementing and monitoring the plan's goals.
+5. The board's responsibility is to determine which programs are consistent with the organization's mission and monitor their effectiveness.
+6. Ensure adequate financial resources. One of the board's foremost responsibilities is to ensure adequate resources are obtained for the organization to fulfill its mission.
+7. Protect assets and provide financial oversight. The board must assist in developing the annual budget and ensuring that proper financial controls are in place.
+8. Build a competent board. All boards have a responsibility to articulate prerequisites for candidates, orient new members, and periodically and comprehensively evaluate its own performance.
+9. Ensure legal and ethical integrity. The board is ultimately responsible for adherence to legal standards and ethical norms. Each board member should be aware of governance and fiscal oversight responsibilities as defined by the IRS and SOS.
+10. Enhance the organization's public standing. The board should clearly articulate the organization's mission, accomplishments, and goals to the public and garner support from the community.
+
+### 🛠️ Responsibilities
+
+● Serve as a leading ambassador of PIR's mission, programs, and services.
+
+● Regularly attend and prepare for quarterly Board meetings and important related meetings.
+
+● Commit to professional development (one or two training sessions are recommended per year).
+
+● Volunteer for and willingly accept assignments and complete them thoroughly and on time.
+
+● Serve on at least one sub-committee, preferably as a chair, and attend committee meetings (if applicable)
+
+● Make a serious commitment to participate actively in Board work.
+
+● Prepare and approve necessary organizational policies.
+
+● Commit to an annual philanthropic commitment as determined by the individual board member and fundraise/recruit members on behalf of the organization. (If applicable and in By-Laws)
+
+● Participate in annual self-evaluation of personal board service.
+
+● Participate in the hiring and oversight process of the Executive Director.
+
+● Be knowledgeable about PIR's mission, vision, programs, and events.
+
+● Stay informed about Board matters, prepare themselves for meetings, and review and comment on issues of importance.
+
+● Participate in creation of strategic plan and conduct annual review of the strategic plan.
+
+● Get to know other Board members and PIR's stakeholders and build a collegial working relationship that contributes to consensus.
+
+● Respond to requests for feedback or decisions between meetings in a timely manner.
+
+● Understand financial statements or commit to learning about nonprofit financial oversight.
+
+Board terms
+
+PIR's Board Members At-Large will serve a 2-year term, to be eligible for re-appointment without restrictions on a number of additional terms, or until a successor has been elected and qualified. Board meetings will be held quarterly.
+
+Qualifications:
+
+Service on PIR's board of directors is without remuneration, except for administrative support, travel, and accommodation costs in relation to board members' duties.
+
+## 📣 GSR Chair (Member At-Large)
+
+**Role Focus:** Fellowship representation & communication pipeline
+
+**Overview:** Serves as the primary liaison between the Board and the General Service Representative (GSR) network. Ensures that fellowship input is organized, synthesized, and meaningfully integrated into Board-level decision-making.
+
+**Core Functions:**
+
+* Coordinate and support GSR structure across PIR groups
+* Gather and communicate fellowship feedback to the Board
+* Help standardize communication between meetings, committees, and leadership
+* Support implementation of fellowship-informed initiatives
+
+**Value to the Board:** Anchors governance in **bottom-up input** while maintaining Board-level accountability.
+
+## 🌱 Founder (Member At-Large)
+
+**Role Focus:** Institutional memory & mission continuity
+
+**Overview:** Provides historical context, cultural stewardship, and continuity of vision. Ensures that organizational decisions remain aligned with PIR's founding principles while adapting to growth and change.
+
+**Core Functions:**
+
+* Advise on mission alignment and long-term direction
+* Provide historical perspective on key decisions and structures
+* Support leadership transitions and organizational evolution
+* Serve as a cultural and philosophical anchor for the Board
+
+**Value to the Board:** Protects against mission drift and maintains **continuity through growth and transition**.
+
+## 🤝 Fellowship Representative (Member At-Large)
+
+**Role Focus:** General membership voice
+
+**Overview:** Represents the broader PIR fellowship outside of formal service structures. Brings forward emerging needs, concerns, and perspectives from active participants in meetings and community spaces.
+
+**Core Functions:**
+
+* Engage with members across meetings and informal channels
+* Identify trends, needs, and gaps in fellowship experience
+* Provide grounded feedback to inform Board decisions
+* Support accessibility, inclusivity, and community engagement
+
+**Value to the Board:** Ensures leadership remains **connected to lived member experience**, not just formal structures.
+
+## 🔭 External Advisor (Member At-Large)
+
+**Role Focus:** Outside expertise & strategic guidance
+
+**Overview:** Brings relevant professional, legal, organizational, or strategic expertise from outside PIR. Provides objective perspective and helps strengthen governance, compliance, and long-term planning.
+
+**Core Functions:**
+
+* Advise on governance, legal, financial, or strategic matters
+* Provide external perspective on organizational risks and opportunities
+* Support Board decision-making with subject-matter expertise
+* Strengthen credibility with partners, funders, and stakeholders
+
+**Value to the Board:** Introduces **objective, external insight** to complement internal perspectives and reduce blind spots.
+
+## 🛡️ Compliance Requirements for Insurance
+
+* Scope-of-practice restriction (peer support only)
+* Individuals must not provide regulated healthcare services under PIR.
+* Attestation that under no circumstances will Directors engage in any of the following activity within PIR:
+* Diagnosing conditions
+* Providing medical/mental health care
+* Prescribing or dispensing medication
+* Performing procedures (injections, surgery, etc.)
+* No clinical or medical activity
+* Attestation that under no circumstances will Directors engage in any of the following activity within PIR:
+* Dosing guidance
+* Treatment recommendations
+* Clinical interpretations of psychedelic use
+* Must understand boundary between personal experience sharing and professional advice
+* Background + conduct screening
+* Must pass basic background check
+* Must disclose:
+* Any past disciplinary action
+* Any investigations or allegations
+* No disqualifying misconduct history
+* Must disclose if any individual has:
+* License suspension/revocation
+* Investigations (including sexual misconduct)
+* No history of:
+* Professional discipline related to harm or misconduct
+* Unresolved investigations that pose risk
+* Mandatory disclosure requirement
+* Claims/liability disclosure
+* Must disclose:
+* Any past liability claims related to similar work
+* Any known incidents that could become claims
+* COI compliance
+* Must sign annual COI disclosure
+* Must disclose:
+* Financial relationships
+* Potential conflicts
+* Must recuse when appropriate
+* No caregiving/transport roles
+* Must not engage in:
+* Caretaking roles
+* Transporting participants
+* Any service resembling clinical or custodial care
+* Independent coverage boundaries
+* Directors are NOT acting as insured professionals under PIR
+* If operating professionally outside PIR, Directors must maintain their own liability coverage
+* Accuracy + reporting obligation
+* Must agree to:
+* Provide accurate information about role and activities
+* Update PIR if circumstances change
+* Strict adherence to declared services
+* Must operate strictly within peer support model
+* Must not expand scope informally (e.g., “integration coaching” crossing into therapy)
+
+## ⚖️ Appendix — Conflict of Interest Policy & Annual Statement
+
+*For Directors and Officers and Members of a Committee with Board Delegated Powers*
+
+### 🎯 Article I — Purpose
+
+1. The purpose of this Board conflict of interest policy is to protect Psychedelics in Recovery (PIR)'s interests when it is contemplating entering into a transaction or arrangement that might benefit the private interests of an officer or director of PIR or might result in a possible excess benefit transaction.
+
+2. This policy is intended to supplement, but not replace, any applicable state and federal laws governing conflicts of interest applicable to nonprofit and charitable organizations.
+
+3. This policy is also intended to identify “independent” directors.
+
+### 📖 Article II — Definitions
+
+1. Interested person -- Any director, principal officer, or member of a committee with governing board delegated powers, who has a direct or indirect financial interest, as defined below, is an interested person.
+
+2. Financial interest -- A person has a financial interest if the person has, directly or indirectly, through business, investment, or family:
+
+a. An ownership or investment interest in any entity with which PIR has a transaction or arrangement,
+
+b. A compensation arrangement with PIR or with any entity or individual with which PIR has a transaction or arrangement, or
+
+c. A potential ownership or investment interest in, or compensation arrangement with, any entity or individual with which PIR is negotiating a transaction or arrangement. Compensation includes direct and indirect remuneration as well as gifts or favors that are not insubstantial. A financial interest is not necessarily a conflict of interest. A person who has a financial interest in this policy is based on the IRS model Conflict of Interest policy, which is an attachment to Form 1023. This policy adds information needed to allow PIR to assess director independence in order to answer questions on Form 990.2. A conflict of interest exists only if the Board or Executive Committee decides that a conflict of interest exists, in accordance with this policy.
+
+3. Independent Director -- A director shall be considered “independent” for the purposes of this policy if he or she is “independent” as defined in the instructions for the IRS 990 form or, until such definition is available, the director: a. is not, and has not been for a period of at least three years, an employee of PIR or an employee of any entity in which PIR has a financial interest does not directly or indirectly have a significant business relationship with PIR, which might affect independence in decision-making; b. is not employed as an executive of another corporation where any of PIR's executive officers or employees serve on that corporation's compensation committee; and does not have an immediate family member who is an executive officer or employee of PIR or who holds a position that has a significant financial relationship with PIR.
+
+### ⚙️ Article III — Procedures
+
+1. Duty to Disclose -- In connection with any actual or possible conflict of interest, an interested person must disclose the existence of the financial interest and be given the opportunity to disclose all material facts to the Board or Executive Committee.
+
+2. Recusal of Self - Any director may recuse himself or herself at any time from involvement in any decision or discussion in which the director believes he or she has or may have a conflict of interest, without going through the process for determining whether a conflict of interest exists.
+
+3. Determining Whether a Conflict of Interest Exists -- After disclosure of the financial interest and all material facts, and after any discussion with the interested person, he/she shall leave the Board or Executive Committee meeting while the determination of a conflict of interest is discussed and voted upon. The remaining Board or Executive Committee members shall decide if a conflict of interest exists.
+
+4. Procedures for Addressing the Conflict of Interest
+
+a. An interested person may make a presentation at the Board or Executive Committee meeting, but after the presentation, he/she shall leave the meeting during the discussion of, and the vote on, the transaction or arrangement involving the possible conflict of interest.
+
+b. The Chairperson of the Board or Executive Committee shall, if appropriate, appoint a disinterested person or committee to investigate alternatives to the proposed transaction or arrangement.
+
+c. After exercising due diligence, the Board or Executive Committee shall determine whether PIR can obtain with reasonable efforts a more advantageous transaction or arrangement from a person or entity that would not give rise to a conflict of interest.
+
+d. If a more advantageous transaction or arrangement is not reasonably possible under Circumstances not producing a conflict of interest, the Board or Executive Committee shall determine by a majority vote of the disinterested directors whether the transaction or arrangement is in PIR's best interest, for its own benefit, and whether it is fair and reasonable. In conformity with the above determination, it shall make its decision as to whether to enter into the transaction or arrangement.
+
+5. Violations of the Conflicts of Interest Policy
+
+a. If the Board or Executive Committee has reasonable cause to believe a member has failed to disclose actual or possible conflicts of interest, it shall inform the member of the basis for such belief and afford the member an opportunity to explain the alleged failure to disclose.
+
+b. If, after hearing the member's response and after making further investigation as warranted by the circumstances, the Board or Executive Committee determines the member has failed to disclose an actual or possible conflict of interest, it shall take appropriate disciplinary and corrective action.
+
+### 🗄️ Article IV — Records of Proceedings
+
+The minutes of the Board and all committees with board delegated powers shall contain:
+
+a. The names of the persons who disclosed or otherwise were found to have a financial interest in connection with an actual or possible conflict of interest, the nature of the financial interest, any action taken to determine whether a conflict of interest was present, and the Board's or Executive Committee's decision as to whether a conflict of interest in fact existed.
+
+b. The names of the persons who were present for discussions and votes relating to the transaction or arrangement, the content of the discussion, including any alternatives to the proposed transaction or arrangement, and a record of any votes taken in connection with the proceedings.
+
+### 💵 Article V — Compensation
+
+a. A voting member of the Board who receives compensation, directly or indirectly, from PIR for services is precluded from voting on matters pertaining to that member's compensation.
+
+b. A voting member of any committee whose jurisdiction includes compensation matters and who receives compensation, directly or indirectly, from PIR for services is precluded from voting on matters pertaining to that member's compensation.
+
+c. No voting member of the Board or any committee whose jurisdiction includes compensation matters and who receives compensation, directly or indirectly, from PIR, either individually or collectively, is prohibited from providing information to any committee regarding compensation.
+
+### 🗓️ Article VI — Annual Statements
+
+1. Each director, principal officer and member of a committee with Board delegated powers shall annually sign a statement which affirms such person:
+
+a. Has received a copy of the conflict of interest policy,
+
+b. Has read and understands the policy,
+
+c. Has agreed to comply with the policy, and
+
+d. Understands PIR in order to maintain its federal tax exemption must engage primarily in activities which accomplish one or more of its tax-exempt purposes.
+
+2. Each voting member of the Board shall annually sign a statement which declares whether such person is an independent director.
+
+3. If at any time during the year, the information in the annual statement changes materially, the director shall disclose such changes and revise the annual disclosure form.
+
+4. The Board of Directors shall regularly and consistently monitor and enforce compliance with this policy by reviewing annual statements and taking such other actions as are necessary for effective oversight.
+
+5. To ensure PIR does not engage in activities that could jeopardize its tax-exempt status, periodic reviews shall be conducted. The periodic reviews shall, at a minimum, include the following subjects:
+
+a. Whether compensation arrangements and benefits are reasonable, based on competent survey information (if reasonably available), and the result of arm's length bargaining.
+
+b. Whether partnerships, joint ventures, and arrangements with management organizations, if any, conform to PIR's written policies, are properly recorded, reflect reasonable investment or payments for goods and services, further charitable purposes and do not result in inurement or impermissible private benefit or in an excess benefit transaction.
+
+### 🧑‍🏫 Article VII — Use of Outside Experts
+
+When conducting the periodic reviews as provided for in Article VII, PIR may, but need not, use outside advisors. If outside experts are used, their use shall not relieve the Board of its responsibility for ensuring periodic reviews are conducted.
+
+### 🖋️ Certification
+
+XXXXXX, President of PIR, and XXXXXXX, Secretary of PIR, certify that the foregoing is a true and correct copy of the Conflict of Interest Policy of the above-named organization, duly adopted by the initial Board of Directors on XXXXXX.
+
+XXXXXX, President
+
+By:     ___________________________________
+
+XXXXX
+
+Date:   ___________________
+
+XXXXX, Secretary
+
+By:     ___________________________________
+
+XXXXXXX
+
+Date:   ___________________
+
+PIR Director and Officer Annual Conflict of Interest Statement
+
+1. Name: ________________________________ Date: _____________
+
+2. Position:
+
+Are you a voting Director? Yes ( ) No ( )
+
+Are you an Officer? Yes ( ) No ( )
+
+If you are an Officer, which Officer position do you hold:
+
+_________________________________.
+
+3. I affirm the following:
+
+I have received a copy of the Conflict of Interest Policy. __________ (initial)
+
+I have read and understand the policy. __________ (initial)
+
+I agree to comply with the policy. __________ (initial)
+
+I understand that PIR is charitable and in order to maintain its federal tax exemption it must engage primarily in activities which accomplish one or more of tax-exempt purposes. __________ (initial)
+
+4. Disclosures:
+
+a. Do you have a financial interest (current or potential), including a compensation arrangement, as defined in the Conflict of Interest policy with PIR?
+
+Yes ( ) No ( )
+
+i. If yes, please describe it: ____________________________________
+
+ii. If yes, has the financial interest been disclosed, as provided in the Conflict of Interest policy?
+
+Yes ( ) No ( )
+
+b. In the past, have you had a financial interest, including a compensation arrangement, as defined in the Conflict of Interest policy with PIR? Yes ( ) No ( )
+
+i. If yes, please describe it, including when (approximately):
+
+__________________________________________________
+
+ii. If yes, has the financial interest been disclosed, as provided in the Conflict of Interest policy?
+
+Yes ( ) No ( )
+
+5. Are you an independent director, as defined in the Conflict of Interest policy? Yes ( ) No ( )
+
+a. If you are not independent, why?
+
+__________________________________________________
+
+Date: __________
+
+Signature of Chair/President or Director
+
+_________________________
