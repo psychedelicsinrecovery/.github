@@ -167,4 +167,79 @@ these exist.
 
 | 🔗 Host | 🚦 Status |
 |---|---|
-| ✅ [psychedelicsinrecovery.org](https://www.psychedelicsinrecovery.org) | Main WordPress site (WPX host
+| ✅ [psychedelicsinrecovery.org](https://www.psychedelicsinrecovery.org) | Main WordPress site (WPX hosting) |
+| ✅ [service.psychedelicsinrecovery.org](https://service.psychedelicsinrecovery.org) | Service WordPress site |
+| 🚧 [newsletter.psychedelicsinrecovery.org](https://newsletter.psychedelicsinrecovery.org) | **Live, but a placeholder template, not PIR content yet.** The future home of De Vine News editions; the WordPress `/newsletter/` page will point here. |
+| 🚧 [publications.psychedelicsinrecovery.org](https://publications.psychedelicsinrecovery.org) | **Live, but a placeholder template, not PIR content yet.** The future home of PIR Publications. |
+| 🚧 [publicrelations.psychedelicsinrecovery.org](https://publicrelations.psychedelicsinrecovery.org) | **Live, but not built out yet.** Created 2026-10-11 (fresh WordPress + W3 Total Cache, WPX); SSL issued by WPX on 2026-10-12 once DNS carried WPX's four CDN A records. Admins: Christopher, Anne, Kevin. Future home of the PR/communications portal, part of the "every committee gets its own site" plan alongside `newsletter.` and `publications.`. |
+| ✅ [psychedelicsinrecovery.github.io](https://psychedelicsinrecovery.github.io) | PIR's GitHub Pages hub (changelog, library, desk portals) |
+
+🧭 The roadmap: the WordPress newsletter, PR, and book pages point to these dedicated subdomains, so
+whoever serves the WordPress back-end has clear, smaller responsibilities (plugins, media library).
+
+---
+
+## 🏛️ Committees & subcommittees
+
+Committees, like individual meetings under the PIR umbrella, largely act autonomously.
+Subcommittees sit under a parent committee. (In repos, folders are simply called `committees/`.)
+
+| 🏛️ Body | 🌿 Subcommittees & teams | 🚦 Status | 🎫 Helpdesk · 🗄️ Storage |
+|---|---|---|---|
+| [⚖️ GSR Committee](https://service.psychedelicsinrecovery.org/gsr-committee/) ([what's a GSR?](https://service.psychedelicsinrecovery.org/gsr/)) | — | ✅ **PIR's decision-making body** | [gsr@](mailto:gsr@psychedelicsinrecovery.org) |
+| [🏛️ Board of Directors](https://service.psychedelicsinrecovery.org/board-of-directors/) (501(c)(3)) | — | ✅ Active | [board@](mailto:board@psychedelicsinrecovery.org) |
+| [📜 Literature Committee (LitCom)](https://service.psychedelicsinrecovery.org/literature-committee/) | [🧱 12 Step Committee](https://service.psychedelicsinrecovery.org/12-step-committee/) · [📖 Book Committee](https://service.psychedelicsinrecovery.org/book-committee/) · [📚 ForaPIR](https://service.psychedelicsinrecovery.org/forapir/) | ✅ LitCom active · 🌙 12 Step and Book temporarily sunset (books are in publication) · 🌙 ForaPIR sunset (collected personal stories and speaker shares; it gave way to the Book Committee) | `/litcom` → `litcom-desk` · [`literature-committee`](https://github.com/psychedelicsinrecovery/literature-committee-public) (📚 publications public) |
+| [🤝 Public Relations (PR)](https://service.psychedelicsinrecovery.org/pr-committee/) | 🗞️ 2026 Newsletter Committee (De Vine News) · 🎙️ Podcast & A/V team (works with PR; not yet a subcommittee) | ✅ Active | `/pr` → `pr-desk` · [`public-relations`](https://github.com/psychedelicsinrecovery/public-relations-public) |
+| [💻 Tech Committee (TechCom)](https://service.psychedelicsinrecovery.org/tech-committee/) | 🛡️ Privacy Policy & Data Stewardship | ✅ Active | `/techcom` → `techcom-desk`; GitHub → `/github` → `github-desk` · [`tech-committee`](https://github.com/psychedelicsinrecovery/tech-committee-public) (docs and website archive public) |
+| [🎪 Convention Committee](https://service.psychedelicsinrecovery.org/convention-committee/) | 🙌 Many ways to serve. Reach out and we'll find your fit! | ✅ Active | [convention@](mailto:convention@psychedelicsinrecovery.org) |
+| [💰 Finance](https://service.psychedelicsinrecovery.org/finance/) | — | — | [treasurer@](mailto:treasurer@psychedelicsinrecovery.org) |
+| [⚙️ Intergroup](https://service.psychedelicsinrecovery.org/intergroup/) | [🛠️ Service Structure Working Group](https://service.psychedelicsinrecovery.org/service-structure-working-group/) (purpose: to develop a Service Structure for PIR) | 🌙 Sunset | — |
+
+📋 All committees: [service.psychedelicsinrecovery.org/committees](https://service.psychedelicsinrecovery.org/committees/) ·
+[former committees](https://service.psychedelicsinrecovery.org/former-committees/)
+
+💬 **WhatsApp working groups:** "PIR Privacy Policy & Data Stewardship | Tech SubCommittee" and
+"PIR Newsletter | PR SubCommittee". 🛡️ Discord moderation: `/mod` (private, stays in Discord). Server
+owner: David K.
+
+---
+
+## 📱 PIR® on other platforms
+[🎵 TikTok](https://www.tiktok.com/@pir_worldwide) ·
+[📘 Facebook](https://www.facebook.com/PIR12and12) ·
+[📸 Instagram](https://www.instagram.com/pirworldwide/) ·
+[▶️ YouTube](https://www.youtube.com/@Psychedelicsinrecovery) ·
+[💼 LinkedIn](https://www.linkedin.com/company/psychedelics-in-recovery-pir) ·
+[🎧 Spotify](https://open.spotify.com/show/6G2xrXvUenio18hm4Nzhhe) ·
+[🎙️ Buzzsprout (Integration Radio podcast)](https://integrationradioapirpodcast.buzzsprout.com/2588998/follow) ·
+[💬 WhatsApp](https://www.psychedelicsinrecovery.org/whatsapp/) ·
+[🎮 Discord](https://discord.gg/MyprTq8w95) ·
+[🐙 GitHub](https://github.com/psychedelicsinrecovery)
+
+## 🤖 Helpers & AI tools
+
+| 🤖 Helper | 👁️‍🗨️ What it can touch | 🔗 Learn more |
+|---|---|---|
+| 👁️ **Alfred** (Christopher's 👾 Claude Code CLI, sometimes routed through 🪄 NVIDIA NIM) | Both WordPress sites (via EMCP Tools, logged and reversible), PIR GitHub repos | [Alfred's public preview](https://drasticstatic.github.io/anthropas-argus-alfred-public-preview/) |
+| 🐦 **Littlebird.AI** (Christopher's account) | Both WordPress sites (EMCP); screen observation and meeting notes on Christopher's devices; summaries of monitored role mailboxes | [Littlebird Ambassador](https://drasticstatic.github.io/littlebird-ambassador-public-preview/) |
+| 🌌 **A.L.E.X.** (PIR's Discord helper) | PIR's public website content and published literature; helpdesk tickets only | [How A.L.E.X. works](https://psychedelicsinrecovery.github.io/changelog-astro-public/library/how-alex-works) · 🚧 [A.L.E.X. portal](https://psychedelicsinrecovery.github.io/alex-desk-public/) · 🚧 [Alexandrina engine preview](https://drasticstatic.github.io/alexandrina-public-preview/) |
+| 🧑‍🍳 *Aunt Harriot* (future demo) | Nothing at PIR yet. A possible template for an API-key-based admin helper. | [Aunt Harriot's public preview](https://drasticstatic.github.io/aunt-harriot-public-preview/) |
+
+**🧠 AI tools our servants use** (each under its own account and settings):
+- 👾 **Claude Code CLI** (Christopher), 👽 **Claude Code and Claude apps** (others), and 🧱 the
+  **Claude API**, the building block planned for A.L.E.X.'s answers.
+- 🐦 **Littlebird.AI**: memory, screen observation, inbox briefs.
+- 🪄 **Everything else:** ChatGPT and Codex, Gemini, NVIDIA NIM (A.L.E.X.'s pilot model), Augment
+  Cosmos, and the meeting note-takers named in our
+  [privacy policy](https://github.com/psychedelicsinrecovery/.github/blob/main/privacy-policy.md#ai).
+
+🔌 **MCP capability docs:** [EMCP Tools](https://psychedelicsinrecovery.github.io/changelog-astro-public/library/capabilities-emcp-tools) ·
+[Astra](https://psychedelicsinrecovery.github.io/changelog-astro-public/library/capabilities-astra)
+
+🎫 **Helpdesk portals** (🚧 GitHub Pages, launching):
+[🌌 A.L.E.X.](https://psychedelicsinrecovery.github.io/alex-desk-public/) ·
+[📜 LitCom](https://psychedelicsinrecovery.github.io/litcom-desk-public/) ·
+[💻 TechCom](https://psychedelicsinrecovery.github.io/techcom-desk-public/) ·
+[🐙 GitHub](https://psychedelicsinrecovery.github.io/github-desk-public/) ·
+[📣 PR](https://psychedelicsinrecovery.github.io/pr-desk-public/)
+
