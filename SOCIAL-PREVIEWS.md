@@ -5,7 +5,7 @@ preview card (title, description and a share image) that it fetched **once** and
 After a share image or title changes, old previews keep showing until each app is told to look again.
 This file lists how to do that for each app, and which pages have their own tailored share image.
 
-*Generated 2026-10-13 by the arrival kit's `social/social-previews.mjs` (canonical copy in
+*Generated 2026-10-14 by the arrival kit's `social/social-previews.mjs` (canonical copy in
 [my-template](https://github.com/drasticstatic/my-template/tree/main/changelog-template/arrival/social)).
 Re-run it after deploys that add pages or change share images.*
 
@@ -28,14 +28,29 @@ Facebook for the pages listed below. Use the `?v=2` suffix anywhere else.
 
 ## 🖼️ Share-image ledger
 
-31 pages checked: **24 tailored**, 7 using the default card,
+44 pages checked: **39 tailored**, 5 using the default card,
 0 with no share image.
 
 ### ✨ Pages with their own tailored share image
 
 | Page | Title | Share image |
 |---|---|---|
+| [psychedelicsinrecovery.github.io/donate/](https://psychedelicsinrecovery.github.io/donate/) | Donate — PIR® on GitHub | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/page/donate.jpg) |
+| [psychedelicsinrecovery.github.io/map/](https://psychedelicsinrecovery.github.io/map/) | Map — PIR® on GitHub | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/page/map.jpg) |
+| [psychedelicsinrecovery.github.io/alex-desk-public/](https://psychedelicsinrecovery.github.io/alex-desk-public/) | A.L.E.X. · PIR® Psychedelics In Recovery™ | [image](https://psychedelicsinrecovery.github.io/alex-desk-public/assets/og-alex.jpg) |
+| [psychedelicsinrecovery.github.io/litcom-desk-public/](https://psychedelicsinrecovery.github.io/litcom-desk-public/) | LitCom Desk · A.L.E.X. · PIR® | [image](https://psychedelicsinrecovery.github.io/litcom-desk-public/social-card.jpg) |
+| [psychedelicsinrecovery.github.io/techcom-desk-public/](https://psychedelicsinrecovery.github.io/techcom-desk-public/) | TechCom Desk · A.L.E.X. · PIR® | [image](https://psychedelicsinrecovery.github.io/techcom-desk-public/social-card.jpg) |
+| [psychedelicsinrecovery.github.io/github-desk-public/](https://psychedelicsinrecovery.github.io/github-desk-public/) | GitHubDesk · A.L.E.X. · PIR® | [image](https://psychedelicsinrecovery.github.io/github-desk-public/social-card.jpg) |
+| [psychedelicsinrecovery.github.io/pr-desk-public/](https://psychedelicsinrecovery.github.io/pr-desk-public/) | PR Desk · A.L.E.X. · PIR® | [image](https://psychedelicsinrecovery.github.io/pr-desk-public/social-card.jpg) |
+| [psychedelicsinrecovery.github.io/catalyst-desk-public/](https://psychedelicsinrecovery.github.io/catalyst-desk-public/) | C.A.T.A.L.Y.S.T. · PIR®'s behind-the-scenes helpers | [image](https://psychedelicsinrecovery.github.io/catalyst-desk-public/assets/img/og-card.jpg) |
+| [drasticstatic.github.io/alexandrina-public-preview/](https://drasticstatic.github.io/alexandrina-public-preview/) | Alexandrina · the engine behind A.L.E.X. | [image](https://drasticstatic.github.io/alexandrina-public-preview/assets/og-share.jpg) |
+| [psychedelicsinrecovery.github.io/changelog-astro-public/changelog](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog) | Changelog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/page/changelog.jpg) |
+| [psychedelicsinrecovery.github.io/changelog-astro-public/library](https://psychedelicsinrecovery.github.io/changelog-astro-public/library) | Library | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/page/library.jpg) |
 | [psychedelicsinrecovery.github.io/changelog-astro-public/ledger](https://psychedelicsinrecovery.github.io/changelog-astro-public/ledger) | Ledger: every public change — PIR® AstroLog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/ledger.jpg) |
+| [psychedelicsinrecovery.github.io/changelog-astro-public/map](https://psychedelicsinrecovery.github.io/changelog-astro-public/map) | Map — PIR® AstroLog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/page/map.jpg) |
+| [psychedelicsinrecovery.github.io/changelog-astro-public/roadmap](https://psychedelicsinrecovery.github.io/changelog-astro-public/roadmap) | Roadmap — PIR® AstroLog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/page/roadmap.jpg) |
+| [psychedelicsinrecovery.github.io/changelog-astro-public/sustainability](https://psychedelicsinrecovery.github.io/changelog-astro-public/sustainability) | Sustainability — PIR® AstroLog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/page/sustainability.jpg) |
+| [psychedelicsinrecovery.github.io/changelog-astro-public/changelog/brand-assets/2026-10-13-one-navbar-every-desk-a-map-and-one-window-for-every-way-in](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/brand-assets/2026-10-13-one-navbar-every-desk-a-map-and-one-window-for-every-way-in) | One navbar on every PIR page and desk, one window for every way to reach PIR, a map of everything, and a donate page — Changelog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/changelog/brand-assets/2026-10-13-one-navbar-every-desk-a-map-and-one-window-for-every-way-in.jpg) |
 | [psychedelicsinrecovery.github.io/changelog-astro-public/changelog/brand-assets/2026-10-12-the-ledger-reading-mode-whats-new](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/brand-assets/2026-10-12-the-ledger-reading-mode-whats-new) | The ledger: every public change in plain words, plus reading mode and what's new since your last visit — Changelog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/changelog/brand-assets/2026-10-12-the-ledger-reading-mode-whats-new.jpg) |
 | [psychedelicsinrecovery.github.io/changelog-astro-public/changelog/wordpress/2026-10-12-main-site-moves-onto-wpx-cdn](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/wordpress/2026-10-12-main-site-moves-onto-wpx-cdn) | The main site moves onto WPX's CDN, plus three wasted requests per page removed — Changelog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/changelog/wordpress/2026-10-12-main-site-moves-onto-wpx-cdn.jpg) |
 | [psychedelicsinrecovery.github.io/changelog-astro-public/changelog/brand-assets/2026-10-12-choose-how-you-arrive](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/brand-assets/2026-10-12-choose-how-you-arrive) | Choose how you arrive: a welcome guide, one search for everything, and a preview card for every entry — Changelog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/changelog/brand-assets/2026-10-12-choose-how-you-arrive.jpg) |
@@ -64,8 +79,6 @@ Facebook for the pages listed below. Use the `?v=2` suffix anywhere else.
 
 - [psychedelicsinrecovery.github.io/](https://psychedelicsinrecovery.github.io/)
 - [psychedelicsinrecovery.github.io/changelog-astro-public/](https://psychedelicsinrecovery.github.io/changelog-astro-public/)
-- [psychedelicsinrecovery.github.io/changelog-astro-public/changelog](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog)
-- [psychedelicsinrecovery.github.io/changelog-astro-public/library](https://psychedelicsinrecovery.github.io/changelog-astro-public/library)
 - [psychedelicsinrecovery.github.io/changelog-astro-public/changelog/wordpress](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/wordpress)
 - [psychedelicsinrecovery.github.io/changelog-astro-public/changelog/alex-desk](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/alex-desk)
 - [psychedelicsinrecovery.github.io/changelog-astro-public/changelog/brand-assets](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/brand-assets)
@@ -74,13 +87,26 @@ Facebook for the pages listed below. Use the `?v=2` suffix anywhere else.
 
 ```
 https://psychedelicsinrecovery.github.io/
+https://psychedelicsinrecovery.github.io/donate/
+https://psychedelicsinrecovery.github.io/map/
+https://psychedelicsinrecovery.github.io/alex-desk-public/
+https://psychedelicsinrecovery.github.io/litcom-desk-public/
+https://psychedelicsinrecovery.github.io/techcom-desk-public/
+https://psychedelicsinrecovery.github.io/github-desk-public/
+https://psychedelicsinrecovery.github.io/pr-desk-public/
+https://psychedelicsinrecovery.github.io/catalyst-desk-public/
+https://drasticstatic.github.io/alexandrina-public-preview/
 https://psychedelicsinrecovery.github.io/changelog-astro-public/
 https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog
 https://psychedelicsinrecovery.github.io/changelog-astro-public/library
 https://psychedelicsinrecovery.github.io/changelog-astro-public/ledger
+https://psychedelicsinrecovery.github.io/changelog-astro-public/map
+https://psychedelicsinrecovery.github.io/changelog-astro-public/roadmap
+https://psychedelicsinrecovery.github.io/changelog-astro-public/sustainability
 https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/wordpress
 https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/alex-desk
 https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/brand-assets
+https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/brand-assets/2026-10-13-one-navbar-every-desk-a-map-and-one-window-for-every-way-in
 https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/brand-assets/2026-10-12-the-ledger-reading-mode-whats-new
 https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/wordpress/2026-10-12-main-site-moves-onto-wpx-cdn
 https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/brand-assets/2026-10-12-choose-how-you-arrive
