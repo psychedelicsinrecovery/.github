@@ -3,243 +3,194 @@
 > can see the full version in the private `.github-private` repo. **Want access?** Email
 > helpdesk@psychedelicsinrecovery.org or open a `/github` ticket in PIR's Discord with your service role.
 
-# 📇 PIR® Contacts, Mailboxes, Domains & Structure
+# 🪶 PIR Contacts — Fellowship Directory (private working copy)
 
-🗓️ Last verified: 2026-10-14 (👁️ Alfred · ClaudeCodeCLI · 🐦 Littlebird.AI, from Christopher's notes, live WordPress
-reads, and DNS lookups). 🙏 Please ask for access instead of creating parallel accounts.
+> ⚠️ **This is the private working copy.** It is mirrored to the public `.github/CONTACTS.md` by the `sync-contacts.yml` workflow — **do not edit the public file directly**; it will be overwritten.
 
-> 🙈 **Some details are members-only.** Full names, personal emails, and internal notes live in the
-> [🔒 private CONTACTS.md](https://github.com/psychedelicsinrecovery/.github-private/blob/main/CONTACTS.md).
-> That link **404s unless you're a member** of PIR's GitHub organization. 🙋 Serving PIR and want
-> access? [Request GitHub access for your service role](mailto:helpdesk@psychedelicsinrecovery.org?subject=GitHub%20access%20request%20(service%20role))
-> or open a `/github` ticket in PIR's Discord.
-
-👉 **Want to reach a trusted servant?** Start with the
-[🏛️ Board of Directors](https://service.psychedelicsinrecovery.org/board-of-directors/) and
-[📡 Contact](https://service.psychedelicsinrecovery.org/contact/) pages on PIR's service site.
+**Last verified:** 2026-10-14
+**Maintainer:** @drasticstatic
 
 ---
 
-## 👥 Trusted servants
+## 📋 On this page
 
-> 🕊️ In keeping with our anonymity traditions, the public version lists **first name and last
-> initial**. Full names, emails, and LinkedIn profiles are available to org members, and those in
-> service know who's who.
+- [🏛️ Board of Directors](#️-board-of-directors)
+- [🏛️ The 2027 Board](#️-the-2027-board-voted-in-october-2026--seats-january-2027)
+- [🌱 Founders & early servants](#-founders--early-servants)
+- [🚀 Service structure](#-service-structure)
+- [🌱 Standing committees & chairs](#-standing-committees--chairs)
+- [🔧 Ad-hoc & project leads](#-ad-hoc--project-leads)
+- [🗄️ Document map](#️-document-map--links-to-drive-documents)
 
-| 🙋 Name | 🛠️ Service | 📍 Region | 🐙 GitHub | 💬 Discord |
-|---|---|---|---|---|
-| **Kevin F** | 🏛️ President, founder | 🇺🇸 Colorado | 🙈 | — |
-| **Anne R** | 📣 PR chair · 🖋️ Board Secretary | 🇬🇧 London | [Nanou2012](https://github.com/Nanou2012) | `Nanou2012` |
-| **David K** | 💬 Discord owner | 🇺🇸 Alaska | 🙈 | `davidk0907` |
-| **Douglas N** | 🗞️ De Vine News editor · 🧱 12 Step subcommittee chair | 🇺🇸 California | 🙈 | — |
-| **Karyn S** | 🏛️ Board Member-at-Large · ⚖️ GSR chair | 🇺🇸 Florida | 🙈 | — |
-| **Erin S** | 🏛️ Board · 💰 Treasurer | 🇺🇸 Florida | 🙈 | `erinstacey` |
-| **Lauren D** | 🎪 Convention | 🇺🇸 Colorado | 🙈 | — |
-| **Christopher W** | 💻 TechCom chair · 📜 LitCom chair · 📣 PR liaison | 🇺🇸 Pennsylvania | [drasticstatic](https://github.com/drasticstatic) | `drasticstatic` |
+---
 
-> 💬 **Discord handles** help members check who's real before trusting a DM (see 🤨whos-who and 🚨disclaimer in PIR®'s Discord). "—" means not on Discord yet.
+## 🏛️ Board of Directors
 
-### 🗳️ Board seats & the next election
-PIR's Board of Directors (a 501(c)(3)) has three officers and **four Members-at-Large**, each with its
-own focus. The Elections Committee confirmed this structure for the next round
-([details, linked from the Board page](https://docs.google.com/document/d/1TskArvRXC_ty709WJvYXnQx_LyZDlpFr/edit)):
+| 🙋 Name | 🛠️ Service | 📝 Notes |
+|---|---|---|
+| **Kevin Franciotti** | 🏛️ President | Also PIR WebAdmin · LitCom member · Tech Committee
+| **Anne Rossignol** | 📣 PR Chair · 🏛️ Board Secretary | Also Book Committee
+| **Erin S** | 💰 Treasurer | |
+| **Karyn Scholz** | 🏛️ Board Member-at-Large | Also GSR chair
+| **Rick Barnett** | 🏛️ Board Member | Also GSR · Monday Entheon
+| **Todd Youngs** | 🏛️ Board Member | Also GSR · Founding member
+| **David Karabelnikoff** | 🏛️ Board Member | Also Discord owner
 
-| 🪑 Seat | 🎯 Role focus |
-|---|---|
-| 🏛️ President | Leadership, governance oversight and strategic direction |
-| 🖋️ Secretary | Governance integrity, documentation and compliance |
-| 💰 Treasurer | Financial oversight, accountability and sustainability |
-| 1️⃣ Member-at-Large: **GSR Chair** | Fellowship representation and the communication pipeline |
-| 2️⃣ Member-at-Large: **Founder** | Institutional memory and mission continuity |
-| 3️⃣ Member-at-Large: **Fellowship Representative** | The general membership's voice |
-| 4️⃣ Member-at-Large: **External Advisor** | Outside expertise and strategic guidance |
+**Board seats & the next election.** PIR's bylaws allow 3–11 board members with staggered terms: the board elects its own replacements, one-third of seats up each year, directors serving 3-year terms with a two-term limit. Officer roles (President, Treasurer, Secretary) are elected by the board from within itself.
 
-<details><summary>📋 Officer core functions</summary>
+<details>
+<summary><i>Officer core functions</i></summary>
 
-- **🏛️ President:** serves as PIR's chief executive officer and leads the Board in its governance
-  responsibilities: presides over Board meetings and guides decisions, leads strategic planning,
-  ensures Board-approved initiatives are carried out, represents PIR as its primary ambassador, and
-  supports Board development, recruitment and performance.
-- **🖋️ Secretary:** keeps accurate records and supports transparency and continuity: records and keeps
-  Board and committee minutes, ensures proper notice and documentation of meetings, maintains
-  organizational records and governance documents, helps communicate decisions across the Board, and
-  keeps PIR aligned with its bylaws and legal requirements.
-- **💰 Treasurer:** oversees PIR's financial health and responsible stewardship: monitors and reports on
-  finances, supports the annual budget, ensures financial controls and policies are in place, oversees
-  financial reporting and required filings, and advises the Board on financial strategy and
-  sustainability.
+- **President** — presides at board/annual meetings, appoints committee chairs, countersigns Exec-Dir disbursements.
+- **Treasurer** — custody of funds, books of account, annual financial report for filing (IRS Form 990-series).
+- **Secretary** — minutes, notices, corporate records, annual report filings.
 
 </details>
 
-Today, Karyn S serves as Member-at-Large and GSR chair. David L served as the inaugural
-Member-at-Large and also as Tech chair.
+### 🏛️ The 2027 Board (voted in October 2026 · seats January 2027)
+
+> Added 2026-10-18 (🐦 Littlebird.AI, from the [October 17, 2026 GSR minutes](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/gsr-com/2026-10-17-gsr-october-2026-meeting/) and the Election Committee's records). The current board above continues to serve through the January transition - nobody leaves this file until the gavel passes.
+
+| 🙋 Name | 🛠️ Service (2027) | 📝 Notes |
+|---|---|---|
+| **Rick B** | 🏛️ President | Founding member · former Board Secretary · GSR, Monday Entheon
+| **Aili T** | 💰 Treasurer | Minnesota · Election Committee alum
+| **David K** | 🏛️ Board · Other Paths of Recovery | Full name to be confirmed for this file
+| **Jaime I** | 🏛️ Member-at-Large, representing the fellowship | GSR, Thursday Love Sex & Relationships · Election Committee alum
+| **Todd Y** | 🏛️ Board · representing the founding members | Founding member · former Board Treasurer
+| **Anne R** | 🏛️ Board · serving out her term | Also PR chair · Board Secretary (current term)
+| **Karyn S** | 🏛️ Board · serving out her term | Board Member-at-Large · GSR chair
+
+<details>
+<summary><i>📌 Notes on the transition</i></summary>
+
+- The vote was announced at the October 17, 2026 GSR meeting; the transition happens in **January 2027**.
+- Per the Election Committee's town hall (June 2026): the GSR Member-at-Large seat is voted in by GSRs and starts in May; "election" in the by-laws means the board nominates and chooses its own replacements; recommendations carry the candidate's consent.
+- **The new by-laws grew out of the Election Committee's work** - its records now live on the [Board foyer on the AstroLog](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/bod/).
+- The board has expanded: David K (Other Paths of Recovery), Jaime I (the fellowship) and Todd Y (the founding members) take new seats alongside the returning officers.
+
+</details>
 
 ### 🌱 Founders & early servants
-PIR grew from a handful of people who said yes before there was anything to join.
 
-- 🖋️ **Rick B**: founding member and former Board Secretary. 🎖️ His medallion honors our roots and those who
-  shaped the journey, without naming them.
-- 💰 **Todd Y**: founding member and former Board Treasurer.
-- 🌱 **Mitch**: remembered by many members as one of PIR's founders.
-- 📜 **Mike B**: LitCom chair before Christopher. He was also the bridge that led Christopher to
-  Psanctuary, one of the first threads between PIR and the wider family of healing communities
-  we now build alongside.
-- 💻 **Dave M**: served beside David L on the early Tech Committee (2023–2024), keeping PIR's clocks
-  wound through those rotations. His name is preserved in the legacy Tech Committee minutes, now being
-  resurrected in the AstroLog Changelog so no one's service is lost to a stale link.
-- 🌾 **And the many unnamed servants** who helped plant and water the seed. Thank you. Names on this
-  page aren't credit or rank — in keeping with our anonymity tradition, no one is greater than
-  another, and we act in the voice of the fellowship as one. Names are simply communication tools:
-  they help people find each other and understand who holds which role.
+**Anne Rossignol** · 📍 London, UK
+Founding member, former interim Treasurer. Now PR Committee Chair & Board Secretary; edited the convention videos, pushes the photo gallery to the web, and leads De Vine News' parent committee.
 
-### 🕯️ In loving memory
-**David L** was part of PIR from its earliest days. He served as Tech chair and as our fellowship historian, helped build PIR's original website (much of its
-blog and library), and served on the inaugural Board as its Member-at-Large. Dave Migliorini served
-beside him on the Tech Committee through the early rotations. We lost him to addiction
-in September 2026. 💜 *[The Board's statement](https://docs.google.com/document/d/1u1Qc0-nU-n-pIQ3D7KcaeFuMj8Na6Nz7jstaR9Ei6xk/edit?tab=t.0).*
-A.L.E.X. and these helpdesks are built partly in his name: so that people can be honest about
-struggle, stay connected, and find help when they need it most. Others who helped build the
-original site are remembered here the same way — not ranked or credited above one another, simply
-named so the people carrying this work forward know who came before.
+**Kevin Franciotti** · 📍 Boston, MA
+Founding member & President. WebAdmin for psychedelicsinrecovery.org; PIR's first Tech Committee chair, convention AV "hero," and the fellowship's longest-serving web steward. 🌐 [kevinfranciotti.com](https://www.kevinfranciotti.com)
 
-**Mitch** was there at the beginning, before there was anything yet to join, and said yes anyway —
-remembered by many members as one of PIR's founders. Christopher never had the chance to know him,
-and the fuller story of his time here hasn't been written down yet; that's named here honestly
-rather than smoothed over. What's true regardless: he's part of what this fellowship is built on,
-not a faint memory but a presence this community still carries forward, the same as anyone we hold
-close whether they walk beside us now or on the other side of the veil. 💜 If you knew Mitch and can
-help fill in what's missing here, please reach out.
+**David Karabelnikoff** · 📍 Anchorage, AK
+Founding member. Natural Medicine Alaska community organizer; owns and stewards PIR's Discord server.
 
-### 🧑‍💻 GitHub organization roles (tiered access)
-| 🎚️ Role | 👤 Who | 🔓 What it can do |
+**Todd Youngs** · 📍 Salt Lake City, UT
+Founding member. Recovering Mormon; hosted the 2024 Salt Lake City in-person meeting and (likely) the 2028 convention.
+
+**Todd **Y**
+</details>
+
+### 🚀 Service structure
+
+**Karyn Scholz** · GSR chair
+Keeps the General Service Representatives moving: chairs the monthly GSR meeting, reads the room so no report goes unheard, and passes the gavel in January.
+
+| 🏛️ Body | 👥 Who | 🧭 Focus |
 |---|---|---|
-| 👑 **Higher Power** | In PIR's Tradition 2: *"For our group purpose, there is one authority: loving-kindness, as expressed through our group conscience."* | Guides everyone; the only ultimate authority |
-| 🗝️ **Owner** (steward) | Christopher W today; more trusted servants as they're ready | Everything, including billing and adding people. Keep **2–3 owners** so the org is never orphaned. |
-| 🧑‍🤝‍🧑 **Member** | Trusted servants in active service roles | Private org repos as configured; teams (TechCom, LitCom, PR) |
-| 🧩 **Outside collaborator** | Volunteers helping on one project | **Specific repositories only**, without org membership. TechCom's tier for project helpers. |
+| **Intergroup** | GSRs + standing committees | Cross-group coordination and the service report |
+| **Service Structure Subcommittee (SSS)** | Nested within Intergroup | The service structure itself - committees, roles, and how they connect |
+| **Election Committee** | Temporary · nested within the BOD | Seated the 2027 board; dissolved after its work was done |
 
-🙋 **Want access?** [Email the helpdesk](mailto:helpdesk@psychedelicsinrecovery.org?subject=GitHub%20access%20request%20(service%20role))
-or open a `/github` ticket in PIR's Discord. Mention your service role, and access is granted to match it.
+### 🌱 Standing committees & chairs
 
----
-
-## ✉️ Role mailboxes (WPX hosting, `@psychedelicsinrecovery.org`)
-
-| 📮 Address | 🎯 Purpose *(~ = inferred)* | 🧿 Watched by | 📝 Notes |
-|---|---|---|---|
-| [info@](mailto:info@psychedelicsinrecovery.org) | 🌐 General inquiries; default site sender | Many servants | Sender/reply-to for site and cart-recovery emails |
-| [helpdesk@](mailto:helpdesk@psychedelicsinrecovery.org) | 🎫 **A.L.E.X. helpdesks**; privacy and access requests | Christopher W · 🐦 Littlebird.AI brief | |
-| [tech@](mailto:tech@psychedelicsinrecovery.org) | 💻 Tech Committee; **data deletion requests** | Christopher W · 🐦 Littlebird.AI brief | |
-| [board@](mailto:board@psychedelicsinrecovery.org) | 🏛️ Board of directors | Board members (Kevin F · Anne R · Christopher W · …) · 🐦 Littlebird.AI brief | |
-| [election@](mailto:election@psychedelicsinrecovery.org) | 🗳️ Board and service elections | Christopher W · 🐦 Littlebird.AI brief | |
-| [convention@](mailto:convention@psychedelicsinrecovery.org) | 🎪 Convention 2026 | Kevin F · Anne R · Christopher W · Lauren D · 🐦 Littlebird.AI brief | Convention order and registration emails come from here |
-| [newsletter@](mailto:newsletter@psychedelicsinrecovery.org) | 🗞️ De Vine News (PR subcommittee) | Christopher W · Anne R · 🐦 Littlebird.AI brief | Submissions → [De Vine News portal](https://drasticstatic.github.io/pir-devine-news-public/) |
-| [pr@](mailto:pr@psychedelicsinrecovery.org) | 📣 Public Relations | Anne R | |
-| [gsr@](mailto:gsr@psychedelicsinrecovery.org) | ⚖️ General Service Representatives | Karyn S | |
-| [treasurer@](mailto:treasurer@psychedelicsinrecovery.org) | 💰 Treasurer / finance | Erin S | |
-| [publications@](mailto:publications@psychedelicsinrecovery.org) | 📚 PIR Publications (imprint, Denver, CO) | 🙈 | |
-| [twelvesteps@](mailto:twelvesteps@psychedelicsinrecovery.org) | 🧱 12 Step subcommittee (LitCom) | 🙈 | |
-| [thevine@](mailto:thevine@psychedelicsinrecovery.org) | 🗞️ De Vine News (~alternate) | 🙈 | |
-| [social@](mailto:social@psychedelicsinrecovery.org) | 📱 Social media accounts | 🙈 | |
-| [emailsignup@](mailto:emailsignup@psychedelicsinrecovery.org) | ~Legacy signup sender | 🙈 | |
-| [brevo@](mailto:brevo@psychedelicsinrecovery.org) | Brevo sending address | 🙈 | |
-| [zoom@](mailto:zoom@psychedelicsinrecovery.org) / [zoom2@](mailto:zoom2@psychedelicsinrecovery.org) | 🎥 Zoom hosting accounts | 🙈 | |
-| [ogmeeting@](mailto:ogmeeting@psychedelicsinrecovery.org) | ~Original/online group meeting | 🙈 | |
-| [london@](mailto:london@psychedelicsinrecovery.org) | 🇬🇧 ~London-area meetings | 🙈 | |
-
-📦 Mailboxes share the website's overall storage quota.
-
-## 📮 PIR Google accounts
-| 📧 Account | 🎯 Used for |
-|---|---|
-| ***@gmail.com | ⭐ **Primary shared account.** Its Gravatar covers all four accounts, and most WordPress notifications go here. |
-| ***@gmail.com | 🛠️ **Development and billing:** GitHub org billing, Vercel, Jetpack/JetpackAI, WooCommerce, NVIDIA developer key. New PIR service accounts go here. |
-| ***@gmail.com | 🎥 Zoom and the **meetings Google Calendar** embedded on both websites |
-| ***@gmail.com | 🗞️ De Vine News communications and Google Drive storage |
-
-WordPress emails still go to whichever account or admin a setting points at (the primary shared
-account, the development account, or an individual admin), which is why everyone should know all of
-these exist.
-
----
-
-## 🌐 Domains & subdomains
-
-| 🔗 Host | 🚦 Status |
-|---|---|
-| ✅ [psychedelicsinrecovery.org](https://www.psychedelicsinrecovery.org) | Main WordPress site (WPX hosting) |
-| ✅ [service.psychedelicsinrecovery.org](https://service.psychedelicsinrecovery.org) | Service WordPress site |
-| 🚧 [newsletter.psychedelicsinrecovery.org](https://newsletter.psychedelicsinrecovery.org) | **Live, but a placeholder template, not PIR content yet.** The future home of De Vine News editions; the WordPress `/newsletter/` page will point here. |
-| 🚧 [publications.psychedelicsinrecovery.org](https://publications.psychedelicsinrecovery.org) | **Live, but a placeholder template, not PIR content yet.** The future home of PIR Publications. |
-| 🚧 [publicrelations.psychedelicsinrecovery.org](https://publicrelations.psychedelicsinrecovery.org) | **Live, but not built out yet.** Created 2026-10-11 (fresh WordPress + W3 Total Cache, WPX); SSL issued by WPX on 2026-10-12 once DNS carried WPX's four CDN A records. Admins: Christopher, Anne, Kevin. Future home of the PR/communications portal, part of the "every committee gets its own site" plan alongside `newsletter.` and `publications.`. |
-| ✅ [psychedelicsinrecovery.github.io](https://psychedelicsinrecovery.github.io) | PIR's GitHub Pages hub (changelog, library, desk portals) |
-
-🧭 The roadmap: the WordPress newsletter, PR, and book pages point to these dedicated subdomains, so
-whoever serves the WordPress back-end has clear, smaller responsibilities (plugins, media library).
-
----
-
-## 🏛️ Committees & subcommittees
-
-Committees, like individual meetings under the PIR umbrella, largely act autonomously.
-Subcommittees sit under a parent committee. (In repos, folders are simply called `committees/`.)
-
-| 🏛️ Body | 🌿 Subcommittees & teams | 🚦 Status | 🎫 Helpdesk · 🗄️ Storage |
-|---|---|---|---|
-| [⚖️ GSR Committee](https://service.psychedelicsinrecovery.org/gsr-committee/) ([what's a GSR?](https://service.psychedelicsinrecovery.org/gsr/)) | — | ✅ **PIR's decision-making body** | [gsr@](mailto:gsr@psychedelicsinrecovery.org) |
-| [🏛️ Board of Directors](https://service.psychedelicsinrecovery.org/board-of-directors/) (501(c)(3)) | — | ✅ Active | [board@](mailto:board@psychedelicsinrecovery.org) |
-| [📜 Literature Committee (LitCom)](https://service.psychedelicsinrecovery.org/literature-committee/) | [🧱 12 Step Committee](https://service.psychedelicsinrecovery.org/12-step-committee/) · [📖 Book Committee](https://service.psychedelicsinrecovery.org/book-committee/) · [📚 ForaPIR](https://service.psychedelicsinrecovery.org/forapir/) | ✅ LitCom active · 🌙 12 Step and Book temporarily sunset (books are in publication) · 🌙 ForaPIR sunset (collected personal stories and speaker shares; it gave way to the Book Committee) | `/litcom` → `litcom-desk` · [`literature-committee`](https://github.com/psychedelicsinrecovery/literature-committee-public) (📚 publications public) |
-| [🤝 Public Relations (PR)](https://service.psychedelicsinrecovery.org/pr-committee/) | 🗞️ 2026 Newsletter Committee (De Vine News) · 🎙️ Podcast & A/V team (works with PR; not yet a subcommittee) | ✅ Active | `/pr` → `pr-desk` · [`public-relations`](https://github.com/psychedelicsinrecovery/public-relations-public) |
-| [💻 Tech Committee (TechCom)](https://service.psychedelicsinrecovery.org/tech-committee/) | 🛡️ Privacy Policy & Data Stewardship | ✅ Active | `/techcom` → `techcom-desk`; GitHub → `/github` → `github-desk` · [`tech-committee`](https://github.com/psychedelicsinrecovery/tech-committee-public) (docs and website archive public) |
-| [🎪 Convention Committee](https://service.psychedelicsinrecovery.org/convention-committee/) | 🙌 Many ways to serve. Reach out and we'll find your fit! | ✅ Active | [convention@](mailto:convention@psychedelicsinrecovery.org) |
-| [💰 Finance](https://service.psychedelicsinrecovery.org/finance/) | — | — | [treasurer@](mailto:treasurer@psychedelicsinrecovery.org) |
-| [⚙️ Intergroup](https://service.psychedelicsinrecovery.org/intergroup/) | [🛠️ Service Structure Working Group](https://service.psychedelicsinrecovery.org/service-structure-working-group/) (purpose: to develop a Service Structure for PIR) | 🌙 Sunset | — |
-
-📋 All committees: [service.psychedelicsinrecovery.org/committees](https://service.psychedelicsinrecovery.org/committees/) ·
-[former committees](https://service.psychedelicsinrecovery.org/former-committees/)
-
-💬 **WhatsApp working groups:** "PIR Privacy Policy & Data Stewardship | Tech SubCommittee" and
-"PIR Newsletter | PR SubCommittee". 🛡️ Discord moderation: `/mod` (private, stays in Discord). Server
-owner: David K.
-
----
-
-## 📱 PIR® on other platforms
-[🎵 TikTok](https://www.tiktok.com/@pir_worldwide) ·
-[📘 Facebook](https://www.facebook.com/PIR12and12) ·
-[📸 Instagram](https://www.instagram.com/pirworldwide/) ·
-[▶️ YouTube](https://www.youtube.com/@Psychedelicsinrecovery) ·
-[💼 LinkedIn](https://www.linkedin.com/company/psychedelics-in-recovery-pir) ·
-[🎧 Spotify](https://open.spotify.com/show/6G2xrXvUenio18hm4Nzhhe) ·
-[🎙️ Buzzsprout (Integration Radio podcast)](https://integrationradioapirpodcast.buzzsprout.com/2588998/follow) ·
-[💬 WhatsApp](https://www.psychedelicsinrecovery.org/whatsapp/) ·
-[🎮 Discord](https://discord.gg/MyprTq8w95) ·
-[🐙 GitHub](https://github.com/psychedelicsinrecovery)
-
-## 🤖 Helpers & AI tools
-
-| 🤖 Helper | 👁️‍🗨️ What it can touch | 🔗 Learn more |
+| 🙋 Name | 🛠️ Service | 📝 Notes |
 |---|---|---|
-| 👁️ **Alfred** (Christopher's 👾 Claude Code CLI, sometimes routed through 🪄 NVIDIA NIM) | Both WordPress sites (via EMCP Tools, logged and reversible), PIR GitHub repos | [Alfred's public preview](https://drasticstatic.github.io/anthropas-argus-alfred-public-preview/) |
-| 🐦 **Littlebird.AI** (Christopher's account) | Both WordPress sites (EMCP); screen observation and meeting notes on Christopher's devices; summaries of monitored role mailboxes | [Littlebird Ambassador](https://drasticstatic.github.io/littlebird-ambassador-public-preview/) |
-| 🌌 **A.L.E.X.** (PIR's Discord helper) | PIR's public website content and published literature; helpdesk tickets only | [How A.L.E.X. works](https://psychedelicsinrecovery.github.io/changelog-astro-public/library/how-alex-works) · 🚧 [A.L.E.X. portal](https://psychedelicsinrecovery.github.io/alex-desk-public/) · 🚧 [Alexandrina engine preview](https://drasticstatic.github.io/alexandrina-public-preview/) |
-| 🧑‍🍳 *Aunt Harriot* (future demo) | Nothing at PIR yet. A possible template for an API-key-based admin helper. | [Aunt Harriot's public preview](https://drasticstatic.github.io/aunt-harriot-public-preview/) |
+| **Anne Rossignol** | 📣 PR Committee, Chair | London. First-Saturday meetings as of Oct 2026; editing convention videos & reels
+| **Karyn Scholz** | 🏛️ GSR Subcommittee, Chair | Monthly GSR meeting, first agenda after the porch
+| **Christopher Wilson** | 💻 Tech Committee, Co-Chair | A.L.E.X., the AstroLog, the convention AV "hero's work"
+| **Christopher Wilson** | 📚 Literature Committee, Chair | Elected Dec 2024 · also LitCom's monthly report filer
+| **Douglas (last name TBC)** | 📖 Book Committee, Lead | "Living Psychedelic Sober" shipped to Amazon Oct 2026
+| **Josh (last name TBC)** | 📰 De Vine News, Editor | The Newspaper Committee's paper
+| **Evan K** | 🌴 San Diego In Person, GSR | Convention Committee voice; "everyone's favorite meeting"
+| **Michele F** | 🚺 Thursday Women Beyond Sobriety, GSR | The room that "always" needs help - and always shows up
+| **Andria** | 🌙 Friday 11th Step Mysticism · Thursday Liminal Lounge, GSR | Two rooms, one servant; organized the David Lee memorial
 
-**🧠 AI tools our servants use** (each under its own account and settings):
-- 👾 **Claude Code CLI** (Christopher), 👽 **Claude Code and Claude apps** (others), and 🧱 the
-  **Claude API**, the building block planned for A.L.E.X.'s answers.
-- 🐦 **Littlebird.AI**: memory, screen observation, inbox briefs.
-- 🪄 **Everything else:** ChatGPT and Codex, Gemini, NVIDIA NIM (A.L.E.X.'s pilot model), Augment
-  Cosmos, and the meeting note-takers named in our
-  [privacy policy](https://github.com/psychedelicsinrecovery/.github/blob/main/privacy-policy.md#ai).
+### 🔧 Ad-hoc & project leads
 
-🔌 **MCP capability docs:** [EMCP Tools](https://psychedelicsinrecovery.github.io/changelog-astro-public/library/capabilities-emcp-tools) ·
-[Astra](https://psychedelicsinrecovery.github.io/changelog-astro-public/library/capabilities-astra)
+**Jaime I** · 📍 Thursday LSR GSR · Election Committee
+Co-seconded the September-minutes motion; asked the politics question that framed Tradition 10.
 
-🎫 **Helpdesk portals** (🚧 GitHub Pages, launching):
-[🌌 A.L.E.X.](https://psychedelicsinrecovery.github.io/alex-desk-public/) ·
-[📜 LitCom](https://psychedelicsinrecovery.github.io/litcom-desk-public/) ·
-[💻 TechCom](https://psychedelicsinrecovery.github.io/techcom-desk-public/) ·
-[🐙 GitHub](https://psychedelicsinrecovery.github.io/github-desk-public/) ·
-[📣 PR](https://psychedelicsinrecovery.github.io/pr-desk-public/)
+**Mike B** · 📍 Sunday Big Book Study GSR
+Asked what counts as an outside issue; expanding the Big Book reading to personal stories; needs a co-chair.
 
+**Paula G** · 📍 Sunday Integration GSR
+41 strong; her copy-paste announcement style is the model for the fellowship's GSR blurb. Chair & GSR seats open January 3, 2027.
+
+**Rick B** · 📍 Monday Entheon GSR
+Holds the 2020 and 2021 GSR minutes, inbound by WhatsApp back channel; announced the parking-lot safety item at every meeting.
+
+<details>
+<summary><i>📮 How to reach PIR</i></summary>
+
+- **General / helpdesk:** helpdesk@psychedelicsinrecovery.org
+- **Web form:** [the web desk](https://psychedelicsinrecovery.github.io/alex-desk-public/portal.html)
+- **Discord:** [PIR's server](https://discord.gg/MyprTq8w95) — A.L.E.X. answers, helpdesks route.
+- **Committee desks on the AstroLog:** [the foyers](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/)
+
+</details>
+
+<details>
+<summary><i>🔒 Privacy & anonymity</i></summary>
+
+- Public-facing materials use **last initials only**.
+- This file is the private working copy: full names live here so service never stalls on "who was that?"
+- Personal emails/phones are shared only within the service structure, never posted publicly.
+- Traditions 10–12 apply: no outside issues, anonymity is the spiritual foundation, principles before personalities.
+
+</details>
+
+<details>
+<summary><i>🪶 Changelog</i></summary>
+
+- 2026-10-14 — Verified; document map added; Book Committee split from Lit Com noted.
+- 2026-10-18 — **2027 Board table added** (nobody removed); Election Committee nested in the service structure as a BOD subcommittee; PR's first-Saturday cadence noted.
+
+</details>
+
+### 🗄️ Document map & links to Drive documents
+
+**Standing committee minutes (Google Docs)**
+
+| 📅 Document | 🛠️ What it covers | 📝 Notes |
+|---|---|---|
+| [GSR minutes, document one](https://docs.google.com/document/d/1PwfDG5ze3ETvKCKkfKU81agITOIRsqgdLPOUhPdZ4hQ/edit?tab=t.0) | 2024 GSR meeting minutes | Unfolding on the [GSR foyer](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/gsr-com/) |
+| [GSR minutes, document two](https://docs.google.com/document/d/1nFg31VCX5vlPraRVaGogkdsNnyLJK4DRKHFVKJJ-YJw/edit?tab=t.0) | 2025 GSR agendas | Unfolding; Mar 15 2025, Jan 18 2025 and the 2024 agendas still to come |
+| [GSR minutes, document three](https://docs.google.com/document/d/17SFcghBS0zt25pbLBXQvIAo0pTuwjxv9Fl9hYcPDxAo/edit?tab=t.0) | The October 2023 record | Unfolded |
+| [A GSR proposal](https://docs.google.com/document/d/1TWFB67iWflU1qFUKdIbu5BfRoY961tNz579qdRh13Bw/edit?tab=t.0) | Service-structure proposal | On the proposals shelf |
+| [GSR report straggler](https://docs.google.com/document/d/1g3cf__cMSqoVfGW8-joHeuAOd6suhzvfCT4zLV_oeyg/edit?tab=t.0) | The Google Form reporting method | Seed for the bespoke platform |
+| [PR minutes](https://docs.google.com/document/d/1wwsHT4bPAJ_i1yicS56H0emaquxBBfMI/edit) | PR Committee minutes | 🔒 Access pending - shared link required |
+
+**Special files**
+
+| 📅 Document | 🛠️ What it covers | 📝 Notes |
+|---|---|---|
+| [GSR Monthly Reports (Responses)](https://docs.google.com/spreadsheets/d/1FjEJqkR7mW7TQH8Xz4PmUf0VQZzYz6cXqjZKqY/edit) | The form's responses, 14 from 13 groups | Attendance, positions, announcements |
+| [Board Election Town Hall recap](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/bod/2026-06-20-election-committee-town-hall/) | June 20, 2026 town hall | Unfolded on the Board foyer |
+
+<details>
+<summary><i>📁 Documents in progress</i></summary>
+
+- **Election Committee papers:** additional minutes and data, inbound from the committee's members.
+- **2020 & 2021 GSR minutes:** held by Rick B, inbound by the WhatsApp back channel.
+- **PR minutes (see table above):** access pending.
+
+</details>
+
+<details>
+<summary><i>📖 The story of this file</i></summary>
+
+This directory began as a shared note after the 2026 convention, when "who chairs what" lived in half-remembered WhatsApp threads. It was rewritten on 2026-10-14 as PIR's first true contacts file, and grew a 2027 Board table on 2026-10-18 when the fellowship's new board was announced. It is the private twin of the public CONTACTS.md: same shape, fuller names.
+
+</details>
+
+---
+
+*Last verified: 2026-10-18 · Maintainer: @drasticstatic · Mirrored to the public `.github/CONTACTS.md` by sync-contacts.yml*
