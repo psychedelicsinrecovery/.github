@@ -3,7 +3,6 @@
 > can see the full version in the private `.github-private` repo. **Want access?** Email
 > helpdesk@psychedelicsinrecovery.org or open a `/github` ticket in PIR's Discord with your service role.
 
-successfully downloaded text file (SHA: 42dc0240b84be6831ba72512453535954f0fc63c)
 # 📇 PIR® Contacts, Mailboxes, Domains & Structure
 
 🗓️ Last verified: 2026-10-14 (👁️ Alfred · ClaudeCodeCLI · 🐦 Littlebird.AI, from Christopher's notes, live WordPress
