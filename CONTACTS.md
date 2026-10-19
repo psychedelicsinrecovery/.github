@@ -3,6 +3,7 @@
 > can see the full version in the private `.github-private` repo. **Want access?** Email
 > helpdesk@psychedelicsinrecovery.org or open a `/github` ticket in PIR's Discord with your service role.
 
+successfully downloaded text file (SHA: 42dc0240b84be6831ba72512453535954f0fc63c)
 # 📇 PIR® Contacts, Mailboxes, Domains & Structure
 
 🗓️ Last verified: 2026-10-14 (👁️ Alfred · ClaudeCodeCLI · 🐦 Littlebird.AI, from Christopher's notes, live WordPress
@@ -60,7 +61,7 @@ own focus. The Elections Committee confirmed this structure for the next round
   responsibilities: presides over Board meetings and guides decisions, leads strategic planning,
   ensures Board-approved initiatives are carried out, represents PIR as its primary ambassador, and
   supports Board development, recruitment and performance.
-- **🖋️ Secretary:** keeps accurate records and supports transparency and continuity: records and keeps
+- **🖋️ Secretary:** keeps accurate records and supports transparency and consistency: records and keeps
   Board and committee minutes, ensures proper notice and documentation of meetings, maintains
   organizational records and governance documents, helps communicate decisions across the Board, and
   keeps PIR aligned with its bylaws and legal requirements.
@@ -189,7 +190,7 @@ Subcommittees sit under a parent committee. (In repos, folders are simply called
 | [⚖️ GSR Committee](https://service.psychedelicsinrecovery.org/gsr-committee/) ([what's a GSR?](https://service.psychedelicsinrecovery.org/gsr/)) | — | ✅ **PIR's decision-making body** | [gsr@](mailto:gsr@psychedelicsinrecovery.org) |
 | [🏛️ Board of Directors](https://service.psychedelicsinrecovery.org/board-of-directors/) (501(c)(3)) | — | ✅ Active | [board@](mailto:board@psychedelicsinrecovery.org) |
 | [📜 Literature Committee (LitCom)](https://service.psychedelicsinrecovery.org/literature-committee/) | [🧱 12 Step Committee](https://service.psychedelicsinrecovery.org/12-step-committee/) · [📖 Book Committee](https://service.psychedelicsinrecovery.org/book-committee/) · [📚 ForaPIR](https://service.psychedelicsinrecovery.org/forapir/) | ✅ LitCom active · 🌙 12 Step and Book temporarily sunset (books are in publication) · 🌙 ForaPIR sunset (collected personal stories and speaker shares; it gave way to the Book Committee) | `/litcom` → `litcom-desk` · [`literature-committee`](https://github.com/psychedelicsinrecovery/literature-committee-public) (📚 publications public) |
-| [🤝 Public Relations (PR)](https://service.psychedelicsinrecovery.org/pr-committee/) | 🗞️ 2026 Newsletter Committee (De Vine News) · 🎙️ Podcast & A/V team (works with PR; not yet a subcommittee) | ✅ Active | `/pr` → `pr-desk` · [`public-relations`](https://github.com/psychedelicsinrecovery/public-relations-public) |
+| [🤝 Public Relations (PR)](https://service.psychedelicsinrecovery.org/pr-committee/) | 🗞️ De Vine News (see the [Newspaper foyer](/changelog-astro-public/changelog/newspaper/)) · 🎙️ Podcast & A/V team (works with PR; not yet a subcommittee) | ✅ Active | `/pr` → `pr-desk` · [`public-relations`](https://github.com/psychedelicsinrecovery/public-relations-public) |
 | [💻 Tech Committee (TechCom)](https://service.psychedelicsinrecovery.org/tech-committee/) | 🛡️ Privacy Policy & Data Stewardship | ✅ Active | `/techcom` → `techcom-desk`; GitHub → `/github` → `github-desk` · [`tech-committee`](https://github.com/psychedelicsinrecovery/tech-committee-public) (docs and website archive public) |
 | [🎪 Convention Committee](https://service.psychedelicsinrecovery.org/convention-committee/) | 🙌 Many ways to serve. Reach out and we'll find your fit! | ✅ Active | [convention@](mailto:convention@psychedelicsinrecovery.org) |
 | [💰 Finance](https://service.psychedelicsinrecovery.org/finance/) | — | — | [treasurer@](mailto:treasurer@psychedelicsinrecovery.org) |
@@ -205,7 +206,7 @@ owner: David K.
 ---
 
 ## 📱 PIR® on other platforms
-[🎵 TikTok](https://www.tiktok.com/@pir_worldwide) ·
+[🎵 TikTok](https://www.tiktok.com/@pir_worldwide/) ·
 [📘 Facebook](https://www.facebook.com/PIR12and12) ·
 [📸 Instagram](https://www.instagram.com/pirworldwide/) ·
 [▶️ YouTube](https://www.youtube.com/@Psychedelicsinrecovery) ·
@@ -242,3 +243,33 @@ owner: David K.
 [💻 TechCom](https://psychedelicsinrecovery.github.io/techcom-desk-public/) ·
 [🐙 GitHub](https://psychedelicsinrecovery.github.io/github-desk-public/) ·
 [📣 PR](https://psychedelicsinrecovery.github.io/pr-desk-public/)
+
+---
+
+## 📎 Appendix — 2027 Board & founding board (2026-10-19)
+
+> 🐦 Littlebird append (2026-10-19), by Christopher's request. An earlier 2026-10-18 edit rewrote too
+> much of this file; the original (2026-10-14 verified, commit `923f70d`) has been restored from
+> history and the new material lives below. **Only appends from here on.**
+
+### 🌍 The 2027 Board (seats January 2027) — public-safe
+
+Announced at the [October 17, 2026 GSR meeting](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/gsr-com/2026-10-17-gsr-october-2026-meeting/).
+The current board keeps serving through the January transition.
+
+| 🙋 Name | 🛠️ Service (2027) | 📝 Notes |
+|---|---|---|
+| **Rick B** | 🏛️ President | Founding member |
+| **Aili T** | 💰 Treasurer | Election Committee alum |
+| **David K** | 🏛️ Member-at-Large: Other Paths of Recovery | Discord owner |
+| **Jaime I** | 🏛️ Member-at-Large: Fellowship Representative | GSR, Thursday LSR |
+| **Todd Y** | 🏛️ Member-at-Large: Founder | Founding member |
+| **Anne R** | 🏛️ Board — serving out her term | PR chair |
+| **Karyn S** | 🏛️ Board — serving out her term | GSR chair |
+
+**The Election Committee** — the temporary committee that gathered the fellowship's recommendations
+and seated this board — is recorded as a **BOD subcommittee** (the way the Service Structure Working
+Group nests within Intergroup). Its desk **opened June 20, 2026** with the first town hall and
+**hibernated August 23, 2026**, at its last meeting; the new by-laws grew out of its work.
+Records: [the Election Committee's desk](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/bod/2026-06-20-election-committee-desk/)
+on the AstroLog.
