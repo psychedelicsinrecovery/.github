@@ -39,7 +39,7 @@ reads, and DNS lookups). 🙏 Please ask for access instead of creating parallel
 | **Aili T** | 🏛️ Board — Treasurer (Jan 2027) · Election Committee alum | 🇺🇸 Minnesota | 🙈 | — |
 | **Jaime I** | 🏛️ Board — Member-at-Large: Fellowship Rep (Jan 2027) · Election Committee alum | — | 🙈 | — |
 
-> 💬 **Discord handles** help members check who's real before trusting a DM (see 🤨whos-who and 🚨disclaimer in PIR®'s Discord). &quot;—&quot; means not on Discord yet.
+> 💬 **Discord handles** help members check who's real before trusting a DM (see 🤨whos-who and 🚨disclaimer in PIR®'s Discord). "—" means not on Discord yet.
 
 ### 🗳️ Board seats & the next election
 PIR's Board of Directors (a 501(c)(3)) has three officers and **four Members-at-Large**, each with its
@@ -120,13 +120,13 @@ PIR grew from a handful of people who said yes before there was anything to join
 
 ### 🕯️ In loving memory
 **David L** was part of PIR from its earliest days. He served as Tech chair and as our fellowship historian, helped build PIR's original website (much of its
-blog and library), and served on the inaugural Board as its Member-at-Large. Dave Migliorini served
-beside him on the Tech Committee through the early rotations. We lost him to addiction
+blog and library), and served on the inaugural Board as its Member-at-Large. We lost him to addiction
 in September 2026. 💜 *[The Board's statement](https://docs.google.com/document/d/1u1Qc0-nU-n-pIQ3D7KcaeFuMj8Na6Nz7jstaR9Ei6xk/edit?tab=t.0).*
 A.L.E.X. and these helpdesks are built partly in his name: so that people can be honest about
 struggle, stay connected, and find help when they need it most. Others who helped build the
 original site are remembered here the same way — not ranked or credited above one another, simply
 named so the people carrying this work forward know who came before.
+Dave M served beside David L on the Tech Committee through those early rotations.
 
 **Mitch** was there at the beginning, before there was anything yet to join, and said yes anyway —
 remembered by many members as one of PIR's founders. Christopher never had the chance to know him,
@@ -139,7 +139,7 @@ help fill in what's missing here, please reach out.
 ### 🧑‍💻 GitHub organization roles (tiered access)
 | 🎚️ Role | 👤 Who | 🔓 What it can do |
 |---|---|---|
-| 👑 **Higher Power** | In PIR's Tradition 2: *&quot;For our group purpose, there is one authority: loving-kindness, as expressed through our group conscience.&quot;* | Guides everyone; the only ultimate authority |
+| 👑 **Higher Power** | In PIR's Tradition 2: *"For our group purpose, there is one authority: loving-kindness, as expressed through our group conscience."* | Guides everyone; the only ultimate authority |
 | 🗝️ **Owner** (steward) | Christopher W today; more trusted servants as they're ready | Everything, including billing and adding people. Keep **2–3 owners** so the org is never orphaned. |
 | 🧑‍🤝‍🧑 **Member** | Trusted servants in active service roles | Private org repos as configured; teams (TechCom, LitCom, PR) |
 | 🧩 **Outside collaborator** | Volunteers helping on one project | **Specific repositories only**, without org membership. TechCom's tier for project helpers. |
@@ -197,7 +197,7 @@ these exist.
 | ✅ [service.psychedelicsinrecovery.org](https://service.psychedelicsinrecovery.org) | Service WordPress site |
 | 🚧 [newsletter.psychedelicsinrecovery.org](https://newsletter.psychedelicsinrecovery.org) | **Live, but a placeholder template, not PIR content yet.** The future home of De Vine News editions; the WordPress `/newsletter/` page will point here. |
 | 🚧 [publications.psychedelicsinrecovery.org](https://publications.psychedelicsinrecovery.org) | **Live, but a placeholder template, not PIR content yet.** The future home of PIR Publications. |
-| 🚧 [publicrelations.psychedelicsinrecovery.org](https://publicrelations.psychedelicsinrecovery.org) | **Live, but not built out yet.** Created 2026-10-11 (fresh WordPress + W3 Total Cache, WPX); SSL issued by WPX on 2026-10-12 once DNS carried WPX's four CDN A records. Admins: Christopher, Anne, Kevin. Future home of the PR/communications portal, part of the &quot;every committee gets its own site&quot; plan alongside `newsletter.` and `publications.`. |
+| 🚧 [publicrelations.psychedelicsinrecovery.org](https://publicrelations.psychedelicsinrecovery.org) | **Live, but not built out yet.** Created 2026-10-11 (fresh WordPress + W3 Total Cache, WPX); SSL issued by WPX on 2026-10-12 once DNS carried WPX's four CDN A records. Admins: Christopher, Anne, Kevin. Future home of the PR/communications portal, part of the "every committee gets its own site" plan alongside `newsletter.` and `publications.`. |
 | ✅ [psychedelicsinrecovery.github.io](https://psychedelicsinrecovery.github.io) | PIR's GitHub Pages hub (changelog, library, desk portals) |
 
 🧭 The roadmap: the WordPress newsletter, PR, and book pages point to these dedicated subdomains, so
@@ -224,8 +224,8 @@ Subcommittees sit under a parent committee. (In repos, folders are simply called
 📋 All committees: [service.psychedelicsinrecovery.org/committees](https://service.psychedelicsinrecovery.org/committees/) ·
 [former committees](https://service.psychedelicsinrecovery.org/former-committees/)
 
-💬 **WhatsApp working groups:** &quot;PIR Privacy Policy & Data Stewardship | Tech SubCommittee&quot; and
-&quot;PIR Newsletter | PR SubCommittee&quot;. 🛡️ Discord moderation: `/mod` (private, stays in Discord). Server
+💬 **WhatsApp working groups:** "PIR Privacy Policy & Data Stewardship | Tech SubCommittee" and
+"PIR Newsletter | PR SubCommittee". 🛡️ Discord moderation: `/mod` (private, stays in Discord). Server
 owner: David K.
 
 ---
