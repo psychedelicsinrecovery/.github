@@ -28,7 +28,7 @@ Facebook for the pages listed below. Use the `?v=2` suffix anywhere else.
 
 ## 🖼️ Share-image ledger
 
-137 pages checked: **125 tailored**, 11 using the default card,
+138 pages checked: **126 tailored**, 11 using the default card,
 1 with no share image.
 
 ### ✨ Pages with their own tailored share image
@@ -40,7 +40,7 @@ Facebook for the pages listed below. Use the `?v=2` suffix anywhere else.
 | [psychedelicsinrecovery.github.io/pledge/](https://psychedelicsinrecovery.github.io/pledge/) | A gratitude pledge — PIR® on GitHub | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/page/pledge.jpg) |
 | [psychedelicsinrecovery.github.io/changelog-astro-public/map](https://psychedelicsinrecovery.github.io/changelog-astro-public/map) | Map — PIR® AstroLog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/page/map.jpg) |
 | [psychedelicsinrecovery.github.io/changelog-astro-public/proposals](https://psychedelicsinrecovery.github.io/changelog-astro-public/proposals) | Proposals — PIR® AstroLog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/page/proposals.jpg) |
-| [psychedelicsinrecovery.github.io/changelog-astro-public/proposals/2026-10-22-siteground-auto-renewal-safeguards](https://psychedelicsinrecovery.github.io/changelog-astro-public/proposals/2026-10-22-siteground-auto-renewal-safeguards) | SiteGround auto-renewal safeguards — Proposals — PIR® AstroLog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/page/proposals.jpg) |
+| [psychedelicsinrecovery.github.io/changelog-astro-public/proposals/2026-10-22-siteground-auto-renewal-safeguards](https://psychedelicsinrecovery.github.io/changelog-astro-public/proposals/2026-10-22-siteground-auto-renewal-safeguards) | SiteGround auto-renewal safeguards — Proposals — PIR® AstroLog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/proposals/2026-10-22-siteground-auto-renewal-safeguards.jpg) |
 | [psychedelicsinrecovery.github.io/changelog-astro-public/resources](https://psychedelicsinrecovery.github.io/changelog-astro-public/resources) | Resources — PIR® AstroLog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/page/resources.jpg) |
 | [psychedelicsinrecovery.github.io/alex-desk-public/](https://psychedelicsinrecovery.github.io/alex-desk-public/) | A.L.E.X. · PIR® Psychedelics In Recovery™ | [image](https://psychedelicsinrecovery.github.io/alex-desk-public/assets/og-alex.jpg) |
 | [psychedelicsinrecovery.github.io/alex-desk-public/portal.html](https://psychedelicsinrecovery.github.io/alex-desk-public/portal.html) | Web desk · A.L.E.X. · PIR® | [image](https://psychedelicsinrecovery.github.io/alex-desk-public/assets/og-alex.jpg) |
@@ -61,6 +61,7 @@ Facebook for the pages listed below. Use the `?v=2` suffix anywhere else.
 | [psychedelicsinrecovery.github.io/changelog-astro-public/ledger](https://psychedelicsinrecovery.github.io/changelog-astro-public/ledger) | Ledger: every public change — PIR® AstroLog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/ledger.jpg) |
 | [psychedelicsinrecovery.github.io/changelog-astro-public/roadmap](https://psychedelicsinrecovery.github.io/changelog-astro-public/roadmap) | Roadmap — PIR® AstroLog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/page/roadmap.jpg) |
 | [psychedelicsinrecovery.github.io/changelog-astro-public/sustainability](https://psychedelicsinrecovery.github.io/changelog-astro-public/sustainability) | Sustainability — PIR® AstroLog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/page/sustainability.jpg) |
+| [psychedelicsinrecovery.github.io/changelog-astro-public/changelog/brand-assets/2026-10-22-kit-1-4-foyers-pledge-proposals](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/brand-assets/2026-10-22-kit-1-4-foyers-pledge-proposals) | One kit, one footer, every door: Foyers in groups, a gratitude pledge, and proposals in the open — Changelog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/changelog/brand-assets/2026-10-22-kit-1-4-foyers-pledge-proposals.jpg) |
 | [psychedelicsinrecovery.github.io/changelog-astro-public/changelog/tech-com/2026-10-19-pr-foyer-populated](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/tech-com/2026-10-19-pr-foyer-populated) | The PR foyer is populated: six meetings, October 2025 to May 2026 — Changelog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/changelog/tech-com/2026-10-19-pr-foyer-populated.jpg) |
 | [psychedelicsinrecovery.github.io/changelog-astro-public/changelog/tech-com/2026-10-18-foyers-grid-and-election-committee](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/tech-com/2026-10-18-foyers-grid-and-election-committee) | Foyers, not rows: the grid reads in columns, and the Election Committee finds its desk — Changelog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/changelog/tech-com/2026-10-18-foyers-grid-and-election-committee.jpg) |
 | [psychedelicsinrecovery.github.io/changelog-astro-public/changelog/tech-com/2026-10-17-techcom-monthly-report](https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/tech-com/2026-10-17-techcom-monthly-report) | TechCom October report: the helpdesks, the AstroLog, and a pipeline made honest — Changelog | [image](https://psychedelicsinrecovery.github.io/changelog-astro-public/og/changelog/tech-com/2026-10-17-techcom-monthly-report.jpg) |
@@ -220,6 +221,7 @@ https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/bod
 https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/brand-assets
 https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/intergroup
 https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/alex-desk
+https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/brand-assets/2026-10-22-kit-1-4-foyers-pledge-proposals
 https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/tech-com/2026-10-19-pr-foyer-populated
 https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/tech-com/2026-10-18-foyers-grid-and-election-committee
 https://psychedelicsinrecovery.github.io/changelog-astro-public/changelog/tech-com/2026-10-17-techcom-monthly-report
