@@ -107,6 +107,11 @@ PIR grew from a handful of people who said yes before there was anything to join
 - 📜 **Mike B**: LitCom chair before Christopher. He was also the bridge that led Christopher to
   Psanctuary, one of the first threads between PIR and the wider family of healing communities
   we now build alongside.
+  Mike also chaired the 💞 Love, Sex & Relationships meeting; Christopher followed him there as he
+  did in LitCom, and Jaime chairs it today.
+- 🧘 **Kenney**: chaired PIR's 11th Step conscious-contact meditation meeting and helped LitCom in its
+  early days, alongside many others who may be named here over time. Seeing servants like Mike and
+  Kenney say yes is part of how Christopher stepped out of his comfort zone to chair too.
 - 💻 **Dave M**: served beside David L on the early Tech Committee (2023–2024), keeping PIR's clocks
   wound through those rotations. His name is preserved in the legacy Tech Committee minutes, now being
   resurrected in the AstroLog Changelog so no one's service is lost to a stale link.
