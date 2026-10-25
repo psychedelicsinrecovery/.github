@@ -1,5 +1,8 @@
 # Contributing
 
+> **Joined the organization?** Start with [`ONBOARDING.md`](./ONBOARDING.md): two-factor login, connecting your AI helper, and how we work.
+
+
 This file applies as the default contributing guide for any repository under the
 `psychedelicsinrecovery` organization that doesn't have its own `CONTRIBUTING.md`.
 
