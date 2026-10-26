@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-labelledby="t d">
+<title id="t">PIR®, Psychedelics In Recovery™</title>
+<desc id="d">A night sky slowly breathing toward daybreak: soft violet, cyan and gold light drifting over quiet stars. A safe, sacred space to integrate and discuss the role of psychedelics in your recovery journey.</desc>
+<style>
+.wall{filter:url(#wall)}
+.breathe{transform-box:fill-box;transform-origin:center;animation:breathe 9s ease-in-out infinite}
+.breathe.b2{animation-duration:11s;animation-delay:-4s}
+.breathe.b3{animation-duration:7s;animation-delay:-2s}
+@keyframes breathe{0%,100%{transform:scale(1);opacity:.82}50%{transform:scale(1.045);opacity:1}}
+.tw{animation:tw 9s ease-in-out infinite}
+@keyframes tw{0%,100%{opacity:.22}50%{opacity:.95}}
+.glow{animation:glow 10s ease-in-out infinite}
+@keyframes glow{0%,100%{opacity:.55}50%{opacity:1}}
+
+@media (prefers-reduced-motion: reduce){*{animation:none !important}.wall{filter:url(#wall-still)}}
+</style>
+<defs>
+<filter id="wall" x="-5%" y="-5%" width="110%" height="110%" color-interpolation-filters="sRGB">
+  <feTurbulence type="fractalNoise" baseFrequency="0.0045 0.009" numOctaves="2" seed="11" result="n">
+    <animate attributeName="baseFrequency" dur="12s" values="0.0045 0.009;0.006 0.0115;0.0045 0.009" repeatCount="indefinite"/>
+  </feTurbulence>
+  <feDisplacementMap in="SourceGraphic" in2="n" scale="5" xChannelSelector="R" yChannelSelector="G" result="d"/>
+  <feColorMatrix in="d" type="hueRotate" values="0">
+    <animate attributeName="values" dur="30s" values="0;14;0;-14;0" repeatCount="indefinite"/>
+  </feColorMatrix>
+</filter>
+<filter id="wall-still" x="-5%" y="-5%" width="110%" height="110%" color-interpolation-filters="sRGB">
+  <feTurbulence type="fractalNoise" baseFrequency="0.0045 0.009" numOctaves="2" seed="11" result="n"/>
+  <feDisplacementMap in="SourceGraphic" in2="n" scale="5" xChannelSelector="R" yChannelSelector="G"/>
+</filter>
+<clipPath id="clip"><rect width="1280" height="400" rx="18"/></clipPath>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.35"><stop offset="0" stop-color="#fbf9fe"/><stop offset=".55" stop-color="#f2ecfc"/><stop offset="1" stop-color="#e8defa"/></linearGradient>
+<radialGradient id="nv"><stop offset="0" stop-color="#8d5cf0" stop-opacity="0.26"/><stop offset="1" stop-color="#8d5cf0" stop-opacity="0"/></radialGradient>
+<radialGradient id="nc"><stop offset="0" stop-color="#3aa7d8" stop-opacity="0.17"/><stop offset="1" stop-color="#3aa7d8" stop-opacity="0"/></radialGradient>
+<radialGradient id="ng"><stop offset="0" stop-color="#e9b949" stop-opacity="0.22"/><stop offset="1" stop-color="#e9b949" stop-opacity="0"/></radialGradient>
+<radialGradient id="nv2"><stop offset="0" stop-color="#8d5cf0" stop-opacity="0.117"/><stop offset="1" stop-color="#8d5cf0" stop-opacity="0"/></radialGradient>
+<linearGradient id="dawn" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#8d5cf0" stop-opacity="0"/><stop offset=".55" stop-color="#e9b949" stop-opacity=".9"/><stop offset="1" stop-color="#8d5cf0" stop-opacity="0"/></linearGradient>
+<radialGradient id="dawnglow"><stop offset="0" stop-color="#e9b949" stop-opacity="0.26"/><stop offset="1" stop-color="#e9b949" stop-opacity="0"/></radialGradient>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1280" height="400" fill="url(#bg)"/>
+<g class="wall">
+<ellipse class="breathe" cx="900" cy="170" rx="380" ry="165" fill="url(#nv)"/>
+<ellipse class="breathe b2" cx="1080" cy="270" rx="270" ry="130" fill="url(#nc)"/>
+<ellipse class="breathe b3" cx="760" cy="320" rx="300" ry="115" fill="url(#ng)"/>
+<ellipse class="breathe b2" cx="260" cy="70" rx="360" ry="130" fill="url(#nv2)"/>
+</g>
+<g class="glow">
+<ellipse cx="960" cy="470" rx="520" ry="150" fill="url(#dawnglow)"/>
+<path d="M 420 412 Q 960 300 1500 412" fill="none" stroke="url(#dawn)" stroke-width="2.2"/>
+</g>
+<circle cx="420.1" cy="70.1" r="1.28" fill="#6b3fd1" opacity="0.53" class="tw" style="animation-delay:-0.7s;animation-duration:9.4s"/>
+<circle cx="62.8" cy="175.3" r="0.58" fill="#6b3fd1" opacity="0.40"/>
+<circle cx="545.8" cy="321.6" r="0.65" fill="#6b3fd1" opacity="0.82" class="tw" style="animation-delay:-2.0s;animation-duration:9.8s"/>
+<circle cx="736.2" cy="161.6" r="1.67" fill="#6b3fd1" opacity="0.37"/>
+<circle cx="1087.4" cy="121.7" r="0.67" fill="#6b3fd1" opacity="0.41"/>
+<circle cx="401.0" cy="317.6" r="0.72" fill="#6b3fd1" opacity="0.54" class="tw" style="animation-delay:-5.2s;animation-duration:9.9s"/>
+<circle cx="699.6" cy="37.4" r="0.57" fill="#6b3fd1" opacity="0.45"/>
+<circle cx="865.1" cy="173.1" r="0.88" fill="#6b3fd1" opacity="0.64"/>
+<circle cx="1007.4" cy="274.0" r="0.79" fill="#6b3fd1" opacity="0.64"/>
+<circle cx="671.4" cy="339.6" r="1.38" fill="#6b3fd1" opacity="0.49"/>
+<circle cx="1239.3" cy="57.9" r="1.00" fill="#6b3fd1" opacity="0.59" class="tw" style="animation-delay:-6.8s;animation-duration:7.7s"/>
+<circle cx="64.9" cy="262.6" r="1.42" fill="#6b3fd1" opacity="0.64"/>
+<circle cx="1108.6" cy="130.7" r="1.33" fill="#6b3fd1" opacity="0.65"/>
+<circle cx="739.7" cy="183.7" r="1.51" fill="#6b3fd1" opacity="0.68" class="tw" style="animation-delay:-8.5s;animation-duration:9.1s"/>
+<circle cx="823.6" cy="383.4" r="1.49" fill="#6b3fd1" opacity="0.49"/>
+<circle cx="44.2" cy="185.8" r="0.70" fill="#6b3fd1" opacity="0.41"/>
+<circle cx="177.4" cy="106.1" r="0.97" fill="#6b3fd1" opacity="0.57" class="tw" style="animation-delay:-7.8s;animation-duration:7.4s"/>
+<circle cx="701.7" cy="342.6" r="1.48" fill="#6b3fd1" opacity="0.78"/>
+<circle cx="463.7" cy="342.9" r="1.65" fill="#6b3fd1" opacity="0.47" class="tw" style="animation-delay:-1.4s;animation-duration:7.8s"/>
+<circle cx="751.2" cy="111.7" r="0.50" fill="#6b3fd1" opacity="0.56"/>
+<circle cx="1205.5" cy="270.9" r="1.12" fill="#6b3fd1" opacity="0.66"/>
+<circle cx="859.9" cy="34.1" r="1.58" fill="#6b3fd1" opacity="0.74"/>
+<circle cx="1107.4" cy="310.8" r="0.97" fill="#6b3fd1" opacity="0.67" class="tw" style="animation-delay:-3.6s;animation-duration:7.5s"/>
+<circle cx="93.7" cy="39.1" r="0.75" fill="#6b3fd1" opacity="0.43"/>
+<circle cx="440.4" cy="33.6" r="0.50" fill="#6b3fd1" opacity="0.43"/>
+<circle cx="47.8" cy="339.3" r="1.24" fill="#6b3fd1" opacity="0.42"/>
+<circle cx="470.5" cy="59.7" r="1.52" fill="#6b3fd1" opacity="0.59" class="tw" style="animation-delay:-8.9s;animation-duration:9.1s"/>
+<circle cx="123.2" cy="52.0" r="0.91" fill="#6b3fd1" opacity="0.48"/>
+<circle cx="1050.4" cy="74.1" r="0.53" fill="#6b3fd1" opacity="0.83"/>
+<circle cx="675.3" cy="68.5" r="1.15" fill="#6b3fd1" opacity="0.84" class="tw" style="animation-delay:-0.2s;animation-duration:9.4s"/>
+<circle cx="1093.4" cy="273.0" r="0.81" fill="#6b3fd1" opacity="0.53"/>
+<circle cx="224.5" cy="301.2" r="1.14" fill="#6b3fd1" opacity="0.74"/>
+<circle cx="427.4" cy="97.0" r="1.47" fill="#6b3fd1" opacity="0.75" class="tw" style="animation-delay:-8.9s;animation-duration:10.8s"/>
+<circle cx="1037.3" cy="289.2" r="0.77" fill="#6b3fd1" opacity="0.61"/>
+<circle cx="459.7" cy="24.8" r="0.53" fill="#6b3fd1" opacity="0.49"/>
+<circle cx="1209.7" cy="180.4" r="1.62" fill="#6b3fd1" opacity="0.84"/>
+<circle cx="1207.8" cy="149.6" r="0.76" fill="#6b3fd1" opacity="0.46"/>
+<circle cx="261.5" cy="90.0" r="1.25" fill="#6b3fd1" opacity="0.59" class="tw" style="animation-delay:-8.1s;animation-duration:10.8s"/>
+<circle cx="830.9" cy="311.5" r="0.60" fill="#6b3fd1" opacity="0.68"/>
+<circle cx="1151.4" cy="305.0" r="1.40" fill="#6b3fd1" opacity="0.59"/>
+<circle cx="238.8" cy="307.6" r="0.90" fill="#6b3fd1" opacity="0.55" class="tw" style="animation-delay:-7.2s;animation-duration:11.4s"/>
+<circle cx="516.9" cy="366.2" r="1.37" fill="#6b3fd1" opacity="0.44"/>
+<circle cx="174.5" cy="70.2" r="1.59" fill="#6b3fd1" opacity="0.75"/>
+<circle cx="198.4" cy="321.5" r="1.68" fill="#6b3fd1" opacity="0.62" class="tw" style="animation-delay:-5.9s;animation-duration:8.6s"/>
+<circle cx="179.5" cy="19.3" r="1.67" fill="#6b3fd1" opacity="0.67"/>
+<circle cx="673.2" cy="361.3" r="1.02" fill="#6b3fd1" opacity="0.79"/>
+<circle cx="1047.0" cy="92.5" r="0.80" fill="#6b3fd1" opacity="0.64" class="tw" style="animation-delay:-2.6s;animation-duration:8.1s"/>
+<circle cx="179.6" cy="352.5" r="0.92" fill="#6b3fd1" opacity="0.58"/>
+<circle cx="744.0" cy="350.4" r="1.00" fill="#6b3fd1" opacity="0.62" class="tw" style="animation-delay:-8.3s;animation-duration:9.3s"/>
+<circle cx="669.3" cy="21.0" r="1.03" fill="#6b3fd1" opacity="0.44"/>
+<circle cx="20.9" cy="311.3" r="0.71" fill="#6b3fd1" opacity="0.59"/>
+<circle cx="921.0" cy="221.0" r="0.89" fill="#6b3fd1" opacity="0.74" class="tw" style="animation-delay:-4.7s;animation-duration:9.5s"/>
+<circle cx="326.1" cy="117.0" r="1.43" fill="#6b3fd1" opacity="0.60"/>
+<circle cx="1154.8" cy="178.9" r="1.24" fill="#6b3fd1" opacity="0.60"/>
+<text x="88" y="150" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="26" font-weight="normal" font-style="normal" letter-spacing="1" fill="#6b3fd1">PIR®</text>
+<text x="88" y="210" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif" font-size="52" font-weight="normal" font-style="normal" letter-spacing="-0.5" fill="#212A5A">Psychedelics In Recovery™</text>
+<text x="88" y="258" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="normal" font-style="normal" letter-spacing="0" fill="#4b3f7a">A safe, sacred space to integrate and discuss the role</text>
+<text x="88" y="286" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="normal" font-style="normal" letter-spacing="0" fill="#4b3f7a">of psychedelics in your recovery journey</text>
+<rect x="1" y="1" width="1278" height="398" rx="17" fill="none" stroke="#6b3fd1" stroke-opacity="0.16" stroke-width="2"/>
+</g>
+</svg>
