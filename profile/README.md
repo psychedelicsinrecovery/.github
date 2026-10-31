@@ -56,6 +56,21 @@ color: two portals that are equal parts help-desk, open kitchen, and open door �
 
 Nothing's live yet on the technical side. Watch this org — the trip's just getting started. 🌀
 
+## 📚 Proposals, procedures and decks
+
+How PIR®'s service work is written down, decided and passed on, for anyone who wants to read along or
+join in. 🌀
+
+- [📖 The reading room →](https://psychedelicsinrecovery.github.io/reading-room-public/) — one front
+  door in your browser: what anyone may read, and the way in for members.
+- [📋 Procedures (public) →](https://github.com/psychedelicsinrecovery/ops-standard-operating-procedures-public) —
+  *this is how we do it now*: the standard operating procedures marked public, each with a PDF.
+- [🎞️ Decks →](https://github.com/psychedelicsinrecovery/.github/tree/main/decks) — walk-throughs for a
+  call or a first look; start with [Welcome to PIR®](https://github.com/psychedelicsinrecovery/.github/blob/main/decks/welcome.marp.pdf).
+
+<sub>Proposals themselves stay with members until the Board publishes them; serving PIR® and want to read
+along? Type <code>/github</code> in PIR®'s Discord and say "reading room, please".</sub>
+
 ## 📊 Rabbit trails
 
 - [📇 Contacts & structure →](https://github.com/psychedelicsinrecovery/.github/blob/main/CONTACTS.md) —
