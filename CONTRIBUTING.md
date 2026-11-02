@@ -1,6 +1,9 @@
 # Contributing
 
 > **Joined the organization?** Start with [`ONBOARDING.md`](./ONBOARDING.md): two-factor login, connecting your AI helper, and how we work.
+> **New to GitHub?** The [welcome deck](./decks/welcome.marp.pdf) and SOP-COM-001 *New to GitHub: your first hour*
+> ([the family's public copy](https://github.com/drasticstatic/my-template/blob/main/sop-template/repo/COM/SOP-COM-001-new-to-github-your-first-hour.md))
+> walk you through it; then the [reading room](https://psychedelicsinrecovery.github.io/reading-room-public/).
 
 
 This file applies as the default contributing guide for any repository under the
@@ -18,8 +21,13 @@ anonymity and privacy come before any technical convenience.
 1. Open an issue describing what you'd like to change or add before submitting a large pull request
    — for a small fix (typo, broken link), a PR alone is fine.
 2. Fork the repository and create a branch for your change.
-3. Keep commits focused and describe *why* a change was made, not just what changed.
-4. Open a pull request against `main` and reference the issue it addresses, if any.
+3. Keep commits focused and describe *why* a change was made, not just what changed. Start each commit subject with
+   one gitmoji and a type, `:memo: docs(scope): subject` or `:bug: fix(scope): subject`; the twelve the family uses,
+   and why the `:alias:` form, are in [GITMOJI.md](https://github.com/drasticstatic/my-template/blob/main/GITMOJI.md).
+   It is a warn-only hint, never a gate.
+4. Open a pull request against `main` (or `preview`, where a repository has one) and reference the issue it addresses,
+   if any. A helper may open the pull request; a person with the role merges it, with a merge commit, never a squash,
+   so every author's attribution survives (SOP-OPS-002 in PIR®'s procedures).
 
 ## Reporting problems
 

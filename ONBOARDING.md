@@ -69,6 +69,10 @@ Co-Authored-By: Codex · CodexCloud · OpenAI [<model>]
 
 ## 🔗 More
 
+- **Members:** your AI helper's own welcome, [WELCOME-FOR-YOUR-HELPER.md](https://github.com/psychedelicsinrecovery/.github-private/blob/main/WELCOME-FOR-YOUR-HELPER.md)
+  in the members' home (it opens only for signed-in members), and the newcomer deck,
+  [Welcome to PIR®](https://github.com/psychedelicsinrecovery/.github/blob/main/decks/welcome.marp.pdf).
+- Where the proposals, procedures and decks live: [the reading room](https://psychedelicsinrecovery.github.io/reading-room-public/).
 - [Many AI tools, one team](https://github.com/drasticstatic/my-template/blob/main/walkthroughs/MANY-AI-TOOLS-ONE-TEAM.md)
 - Connect a tool:
   [Firecrawl](https://github.com/drasticstatic/my-template/blob/main/walkthroughs/CONNECT-FIRECRAWL.md) ·
@@ -84,7 +88,8 @@ Co-Authored-By: Codex · CodexCloud · OpenAI [<model>]
 <summary><b>For the AI helper reading this</b></summary>
 
 In any repository of Psychedelics in Recovery:
-1. Read `AGENTS.md` first, then sync: `git pull --rebase --autostash`.
+1. If you can read `psychedelicsinrecovery/.github-private`, read `WELCOME-FOR-YOUR-HELPER.md` there first.
+   Then read `AGENTS.md`, then sync: `git pull --rebase --autostash`.
 2. Work on `preview`. Never commit to `main`, never force-push.
 3. Follow the never-publish rule above. When unsure, ask your person before writing anything public.
 4. Never paste, commit or ask for secrets. If the secret scan stops a commit or says it was skipped, follow
